@@ -1,0 +1,63 @@
+{
+  "_comment": "O'zbekiston fuqarolari uchun sayohat ma'lumotlari. Viza qoidalari va narxlar o'zgarib turadi — 'lastReviewed' sanasini yangilab turing. Ishonchingiz komil bo'lmasa, visa: \"check\" qo'ying.",
+  "lastReviewed": "2026-11",
+  "currency": "USD",
+  "usdToUzs": null,
+  "origins": [
+    { "airport": "TAS", "lat": 41.2579, "lng": 69.2812, "name": { "uz": "Toshkent", "ru": "Ташкент", "en": "Tashkent" } },
+    { "airport": "SKD", "lat": 39.7005, "lng": 66.9838, "name": { "uz": "Samarqand", "ru": "Самарканд", "en": "Samarkand" } },
+    { "airport": "BHK", "lat": 39.7750, "lng": 64.4833, "name": { "uz": "Buxoro", "ru": "Бухара", "en": "Bukhara" } },
+    { "airport": "UGC", "lat": 41.5843, "lng": 60.6417, "name": { "uz": "Urganch", "ru": "Ургенч", "en": "Urgench" } },
+    { "airport": "FEG", "lat": 40.3588, "lng": 71.7450, "name": { "uz": "Farg‘ona", "ru": "Фергана", "en": "Fergana" } },
+    { "airport": "NCU", "lat": 42.4884, "lng": 59.6233, "name": { "uz": "Nukus", "ru": "Нукус", "en": "Nukus" } }
+  ],
+  "costModel": {
+    "_comment": "Taxminiy model. Kunlik xarajat — bir kishi uchun (turar joy ulushi + ovqat + mahalliy transport), USD.",
+    "dailyByLevel": {
+      "1": { "budget": 30, "standard": 60, "comfort": 120 },
+      "2": { "budget": 45, "standard": 90, "comfort": 180 },
+      "3": { "budget": 70, "standard": 140, "comfort": 260 },
+      "4": { "budget": 100, "standard": 200, "comfort": 380 }
+    },
+    "flight": { "base": 140, "perKm": 0.085, "low": 0.8, "high": 1.3 },
+    "ground": { "base": 20, "perKm": 0.08, "low": 0.8, "high": 1.4 },
+    "groundMaxKm": 1000,
+    "contingency": 0.1
+  },
+  "countries": {
+    "UZ": { "visa": "domestic", "costLevel": 1 },
+    "KZ": { "visa": "free", "costLevel": 2 },
+    "KG": { "visa": "free", "costLevel": 1 },
+    "RU": { "visa": "free", "costLevel": 2 },
+    "TR": { "visa": "free", "costLevel": 2 },
+    "TM": { "visa": "check", "costLevel": 2 },
+    "CN": { "visa": "check", "costLevel": 2 },
+    "IR": { "visa": "check", "costLevel": 1 },
+    "SY": { "visa": "check", "costLevel": 1 },
+    "IN": { "visa": "evisa", "costLevel": 1, "visaUrl": "https://indianvisaonline.gov.in/evisa/" },
+    "KH": { "visa": "evisa", "costLevel": 1, "visaUrl": "https://www.evisa.gov.kh/" },
+    "AE": { "visa": "required", "costLevel": 4 },
+    "JP": { "visa": "required", "costLevel": 3 },
+    "ID": { "visa": "check", "costLevel": 1 },
+    "JO": { "visa": "check", "costLevel": 2 },
+    "EG": { "visa": "check", "costLevel": 1 },
+    "FR": { "visa": "required", "visaType": "schengen", "costLevel": 4 },
+    "IT": { "visa": "required", "visaType": "schengen", "costLevel": 3 },
+    "VA": { "visa": "required", "visaType": "schengen", "costLevel": 3 },
+    "ES": { "visa": "required", "visaType": "schengen", "costLevel": 3 },
+    "GR": { "visa": "required", "visaType": "schengen", "costLevel": 3 },
+    "CZ": { "visa": "required", "visaType": "schengen", "costLevel": 2 },
+    "HR": { "visa": "required", "visaType": "schengen", "costLevel": 3 },
+    "GB": { "visa": "required", "costLevel": 4, "visaUrl": "https://www.gov.uk/standard-visitor" },
+    "US": { "visa": "required", "costLevel": 4, "visaUrl": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visitor.html" },
+    "AU": { "visa": "required", "costLevel": 4, "visaUrl": "https://immi.homeaffairs.gov.au/" },
+    "MX": { "visa": "check", "costLevel": 2 },
+    "PE": { "visa": "check", "costLevel": 2 },
+    "BR": { "visa": "check", "costLevel": 2 },
+    "AR": { "visa": "check", "costLevel": 2 },
+    "CL": { "visa": "check", "costLevel": 3 },
+    "ZW": { "visa": "check", "costLevel": 3 },
+    "ZM": { "visa": "check", "costLevel": 3 },
+    "IL": { "visa": "check", "costLevel": 4 }
+  }
+}

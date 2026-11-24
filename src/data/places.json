@@ -1,0 +1,4111 @@
+[
+  {
+    "hours": null,
+    "price": null,
+    "id": "registan",
+    "country": "UZ",
+    "city": {
+      "uz": "Samarqand",
+      "ru": "Самарканд",
+      "en": "Samarkand"
+    },
+    "lat": 39.6548,
+    "lng": 66.9757,
+    "category": "historic",
+    "unesco": true,
+    "name": {
+      "uz": "Registon maydoni",
+      "ru": "Площадь Регистан",
+      "en": "Registan Square"
+    },
+    "era": {
+      "uz": "XV–XVII asrlar",
+      "ru": "XV–XVII века",
+      "en": "15th–17th centuries"
+    },
+    "short": {
+      "uz": "Samarqandning yuragi — uchta muhtasham madrasa bilan o‘ralgan maydon. O‘rta Osiyo me’morchiligining eng mashhur ramzlaridan biri.",
+      "ru": "Сердце Самарканда — площадь, окружённая тремя величественными медресе. Один из самых узнаваемых символов архитектуры Центральной Азии.",
+      "en": "The heart of Samarkand — a square framed by three majestic madrasas and one of the best-known symbols of Central Asian architecture."
+    },
+    "history": {
+      "uz": "Registon («qumli joy») Temuriylar davrida shaharning savdo va jamoat markazi bo‘lgan. Maydonning g‘arbiy tomonida 1417–1420-yillarda Mirzo Ulug‘bek madrasasi qurilgan. XVII asrda Samarqand hokimi Yalangto‘sh Bahodir buyrug‘i bilan unga qarama-qarshi Sherdor madrasasi, o‘rtada esa Tillakori madrasasi barpo etilgan. Bugun maydon bayramlar va kechki yorug‘lik shoulari o‘tkaziladigan joy.",
+      "ru": "Регистан («песчаное место») при Тимуридах был торговым и общественным центром города. В 1417–1420 годах на западной стороне площади построили медресе Улугбека. В XVII веке по приказу правителя Самарканда Ялангтуша Бахадура напротив него возвели медресе Шердор, а между ними — медресе Тилля-Кари. Сегодня здесь проходят праздники и вечерние световые шоу.",
+      "en": "Registan (“sandy place”) was the commercial and public centre of the city under the Timurids. The Ulugh Beg Madrasa was built on its western side in 1417–1420. In the 17th century the governor Yalangtush Bahadur added the Sher-Dor Madrasa opposite it and the Tilya-Kori Madrasa between them. Today the square hosts festivals and evening light shows."
+    },
+    "facts": [
+      {
+        "uz": "Sherdor madrasasi peshtoqida ortida quyosh chiqib turgan sherlar tasvirlangan — islom me’morchiligida jonzot tasvirlari kam uchraydi.",
+        "ru": "На портале медресе Шердор изображены львы на фоне восходящего солнца — редкость для исламской архитектуры.",
+        "en": "The Sher-Dor portal shows lions with a rising sun behind them — rare figurative imagery in Islamic architecture."
+      },
+      {
+        "uz": "«Tillakori» — «tilla bilan qoplangan» degani: madrasa masjidining ichki qismi oltin bilan bezatilgan.",
+        "ru": "«Тилля-Кари» означает «позолоченная»: интерьер мечети медресе украшен золотом.",
+        "en": "“Tilya-Kori” means “gilded”: the interior of its mosque is decorated with gold."
+      },
+      {
+        "uz": "Ulug‘bek madrasasida diniy fanlar bilan birga astronomiya va matematika ham o‘qitilgan.",
+        "ru": "В медресе Улугбека наряду с богословием преподавали астрономию и математику.",
+        "en": "Alongside theology, astronomy and mathematics were taught at the Ulugh Beg Madrasa."
+      }
+    ],
+    "bestSeason": {
+      "uz": "Aprel–may va sentabr–oktabr (yozda juda issiq)",
+      "ru": "Апрель–май и сентябрь–октябрь (летом очень жарко)",
+      "en": "April–May and September–October (summers are very hot)"
+    },
+    "airport": "SKD",
+    "wikimediaQuery": "Registan Samarkand",
+    "tags": [
+      "samarkand",
+      "timurid",
+      "madrasa",
+      "silk road"
+    ]
+  },
+  {
+    "hours": null,
+    "price": null,
+    "id": "gur-emir",
+    "country": "UZ",
+    "city": {
+      "uz": "Samarqand",
+      "ru": "Самарканд",
+      "en": "Samarkand"
+    },
+    "lat": 39.6487,
+    "lng": 66.9692,
+    "category": "historic",
+    "unesco": true,
+    "name": {
+      "uz": "Go‘ri Amir maqbarasi",
+      "ru": "Мавзолей Гур-Эмир",
+      "en": "Gur-e-Amir Mausoleum"
+    },
+    "era": {
+      "uz": "1403–1404",
+      "ru": "1403–1404",
+      "en": "1403–1404"
+    },
+    "short": {
+      "uz": "Amir Temur va Temuriylar sulolasi vakillari dafn etilgan maqbara. Qovurg‘ali feruza gumbazi Samarqand osmonining ramzi.",
+      "ru": "Усыпальница Амира Тимура и представителей династии Тимуридов. Её ребристый бирюзовый купол — символ Самарканда.",
+      "en": "The tomb of Amir Timur and members of the Timurid dynasty; its ribbed turquoise dome is an emblem of Samarkand."
+    },
+    "history": {
+      "uz": "Maqbara dastlab 1403-yilda vafot etgan Temurning sevimli nevarasi Muhammad Sulton uchun qurilgan. 1405-yilda Temurning o‘zi ham shu yerda dafn etilgan, keyinroq Mirzo Ulug‘bek ham shu yerda dafn qilingan. Go‘ri Amir keyinchalik Hindistondagi Boburiylar maqbaralari uchun namuna bo‘lgan deb hisoblanadi.",
+      "ru": "Мавзолей изначально строился для любимого внука Тимура Мухаммад-Султана, умершего в 1403 году. В 1405 году здесь был похоронен сам Тимур, позднее — Мирзо Улугбек. Считается, что Гур-Эмир стал образцом для гробниц Великих Моголов в Индии.",
+      "en": "The mausoleum was first built for Timur’s beloved grandson Muhammad Sultan, who died in 1403. Timur himself was buried here in 1405, and later Ulugh Beg as well. Gur-e-Amir is considered a model for the later Mughal tombs of India."
+    },
+    "facts": [
+      {
+        "uz": "Temur qabri ustidagi to‘q yashil nefrit tosh Samarqandga Ulug‘bek davrida keltirilgan.",
+        "ru": "Тёмно-зелёное нефритовое надгробие Тимура привезли в Самарканд при Улугбеке.",
+        "en": "The dark-green jade slab over Timur’s grave was brought to Samarkand in Ulugh Beg’s time."
+      },
+      {
+        "uz": "1941-yil iyunida sovet olimlari qabrni ochgan; antropolog Mixail Gerasimov Temurning yuz qiyofasini tiklagan.",
+        "ru": "В июне 1941 года советские учёные вскрыли гробницу; антрополог Михаил Герасимов восстановил облик Тимура.",
+        "en": "Soviet scientists opened the tomb in June 1941; anthropologist Mikhail Gerasimov reconstructed Timur’s face."
+      },
+      {
+        "uz": "Nomi forschada «Amir qabri» degan ma’noni anglatadi.",
+        "ru": "Название означает «Гробница Эмира».",
+        "en": "The name means “Tomb of the Emir”."
+      }
+    ],
+    "bestSeason": {
+      "uz": "Aprel–may va sentabr–oktabr (yozda juda issiq)",
+      "ru": "Апрель–май и сентябрь–октябрь (летом очень жарко)",
+      "en": "April–May and September–October (summers are very hot)"
+    },
+    "airport": "SKD",
+    "wikimediaQuery": "Gur-e-Amir Samarkand",
+    "tags": [
+      "samarkand",
+      "timur",
+      "mausoleum"
+    ]
+  },
+  {
+    "hours": null,
+    "price": null,
+    "id": "shah-i-zinda",
+    "country": "UZ",
+    "city": {
+      "uz": "Samarqand",
+      "ru": "Самарканд",
+      "en": "Samarkand"
+    },
+    "lat": 39.6627,
+    "lng": 66.9881,
+    "category": "religious",
+    "unesco": true,
+    "name": {
+      "uz": "Shohi Zinda majmuasi",
+      "ru": "Ансамбль Шахи-Зинда",
+      "en": "Shah-i-Zinda Necropolis"
+    },
+    "era": {
+      "uz": "XI–XIX asrlar (asosan XIV–XV)",
+      "ru": "XI–XIX века (в основном XIV–XV)",
+      "en": "11th–19th centuries (mostly 14th–15th)"
+    },
+    "short": {
+      "uz": "Koshinlar bilan qoplangan maqbaralar ko‘chasi — Samarqanddagi eng jozibali ziyoratgohlardan biri.",
+      "ru": "Улица мавзолеев, облицованных изразцами, — одно из самых притягательных святых мест Самарканда.",
+      "en": "A street of tile-clad mausoleums and one of Samarkand’s most enchanting places of pilgrimage."
+    },
+    "history": {
+      "uz": "Rivoyatga ko‘ra, bu yerda Payg‘ambarimizning amakivachchalari Qusam ibn Abbos dafn etilgan; «Shohi Zinda» — «Tirik shoh» degani. Afrosiyob tepaligi etagidagi majmuada asosan Temur va Temuriylar oilasi a’zolari, sarkardalar va ruhoniylar maqbaralari joylashgan. Binolar ko‘k, feruza va oltin rangli sirlangan koshinlari bilan mashhur.",
+      "ru": "По преданию, здесь похоронен двоюродный брат пророка Мухаммада Кусам ибн Аббас; «Шахи-Зинда» означает «Живой царь». В ансамбле у подножия городища Афрасиаб находятся мавзолеи родственников Тимура, военачальников и духовных лиц. Здания славятся синей, бирюзовой и золотистой глазурованной керамикой.",
+      "en": "According to tradition, Qusam ibn Abbas, a cousin of the Prophet Muhammad, is buried here; “Shah-i-Zinda” means “The Living King”. At the foot of the Afrasiab mound, the complex holds tombs of Timur’s relatives, commanders and clerics. Its buildings are famous for blue, turquoise and golden glazed tilework."
+    },
+    "facts": [
+      {
+        "uz": "Xalq rivoyatiga ko‘ra, zinapoyadagi pog‘onalarni chiqishda va tushishda bir xil sanasangiz, gunohlaringiz kechiriladi.",
+        "ru": "По народному поверью, если число ступеней при подъёме и спуске совпадёт, грехи будут прощены.",
+        "en": "Folk belief says that if you count the same number of steps going up and coming down, your sins are forgiven."
+      },
+      {
+        "uz": "Majmuada Temurning opasi Shirinbeka og‘a va boshqa yaqinlari maqbaralari bor.",
+        "ru": "Здесь находятся мавзолеи сестры Тимура Ширин-бека-ака и других его родственников.",
+        "en": "It contains the mausoleums of Timur’s sister Shirin Beka Aka and other relatives."
+      },
+      {
+        "uz": "Majmua turli asrlarda qurilgan maqbaralarning bitta ko‘cha bo‘ylab tizilishidan iborat.",
+        "ru": "Ансамбль — это цепочка мавзолеев разных веков вдоль одной улицы.",
+        "en": "The ensemble is a chain of tombs from different centuries lined along a single lane."
+      }
+    ],
+    "bestSeason": {
+      "uz": "Aprel–may va sentabr–oktabr (yozda juda issiq)",
+      "ru": "Апрель–май и сентябрь–октябрь (летом очень жарко)",
+      "en": "April–May and September–October (summers are very hot)"
+    },
+    "airport": "SKD",
+    "wikimediaQuery": "Shah-i-Zinda",
+    "tags": [
+      "samarkand",
+      "necropolis",
+      "tiles"
+    ]
+  },
+  {
+    "hours": null,
+    "price": null,
+    "id": "bibi-khanym",
+    "country": "UZ",
+    "city": {
+      "uz": "Samarqand",
+      "ru": "Самарканд",
+      "en": "Samarkand"
+    },
+    "lat": 39.6608,
+    "lng": 66.9792,
+    "category": "religious",
+    "unesco": true,
+    "name": {
+      "uz": "Bibixonim masjidi",
+      "ru": "Мечеть Биби-Ханым",
+      "en": "Bibi-Khanym Mosque"
+    },
+    "era": {
+      "uz": "1399–1404",
+      "ru": "1399–1404",
+      "en": "1399–1404"
+    },
+    "short": {
+      "uz": "Amir Temur Hindiston yurishidan so‘ng qurdirgan ulkan jome masjidi. O‘z davrida islom olamidagi eng katta masjidlardan biri bo‘lgan.",
+      "ru": "Огромная соборная мечеть, построенная Тимуром после индийского похода. В своё время — одна из крупнейших мечетей исламского мира.",
+      "en": "A vast congregational mosque built by Timur after his Indian campaign — in its day one of the largest mosques in the Islamic world."
+    },
+    "history": {
+      "uz": "Masjid 1399-yilda boshlangan va qisqa muddatda, 1404-yilgacha qurib bitkazilgan. U Temurning bosh xotini Saroy Mulk xonim nomi bilan bog‘liq. Shoshilinch qurilish va zilzilalar tufayli bino asrlar davomida yemirilgan; 1897-yilgi zilzila katta zarar yetkazgan. XX asr oxiridan boshlab masjid qayta tiklangan.",
+      "ru": "Строительство началось в 1399 году и в короткий срок, к 1404 году, было завершено. Мечеть связана с именем старшей жены Тимура Сарай-Мульк-ханым. Из-за спешного строительства и землетрясений здание веками разрушалось; сильный урон нанесло землетрясение 1897 года. С конца XX века мечеть реставрируется.",
+      "en": "Begun in 1399, the mosque was completed remarkably quickly, by 1404. It is associated with Timur’s chief wife, Saray Mulk Khanum. Hasty construction and earthquakes caused it to decay over the centuries, with severe damage in the 1897 quake. It has been restored since the late 20th century."
+    },
+    "facts": [
+      {
+        "uz": "Hovlida ulkan marmar lavh — Qur’on qo‘yiladigan tokcha bor.",
+        "ru": "Во дворе стоит огромная мраморная подставка для Корана.",
+        "en": "A giant marble Quran stand stands in the courtyard."
+      },
+      {
+        "uz": "Masjid nomi bilan bog‘liq ko‘plab xalq afsonalari mavjud.",
+        "ru": "С названием мечети связано множество народных легенд.",
+        "en": "Many folk legends are linked to the mosque’s name."
+      },
+      {
+        "uz": "Masjid qurilishi uchun Temur yurishlari davomida turli o‘lkalardan ustalar olib kelingan.",
+        "ru": "Для строительства Тимур собрал мастеров из разных завоёванных земель.",
+        "en": "Timur gathered craftsmen from many conquered lands to build it."
+      }
+    ],
+    "bestSeason": {
+      "uz": "Aprel–may va sentabr–oktabr (yozda juda issiq)",
+      "ru": "Апрель–май и сентябрь–октябрь (летом очень жарко)",
+      "en": "April–May and September–October (summers are very hot)"
+    },
+    "airport": "SKD",
+    "wikimediaQuery": "Bibi-Khanym Mosque",
+    "tags": [
+      "samarkand",
+      "mosque",
+      "timur"
+    ]
+  },
+  {
+    "hours": null,
+    "price": null,
+    "id": "ulugh-beg-observatory",
+    "country": "UZ",
+    "city": {
+      "uz": "Samarqand",
+      "ru": "Самарканд",
+      "en": "Samarkand"
+    },
+    "lat": 39.6747,
+    "lng": 67.0058,
+    "category": "historic",
+    "unesco": true,
+    "name": {
+      "uz": "Ulug‘bek rasadxonasi",
+      "ru": "Обсерватория Улугбека",
+      "en": "Ulugh Beg Observatory"
+    },
+    "era": {
+      "uz": "1420-yillar",
+      "ru": "1420-е годы",
+      "en": "1420s"
+    },
+    "short": {
+      "uz": "O‘rta asrlarning eng yirik astronomik rasadxonalaridan biri qoldiqlari. Bu yerda Ulug‘bek mashhur yulduzlar jadvalini tuzgan.",
+      "ru": "Остатки одной из крупнейших астрономических обсерваторий Средневековья. Здесь Улугбек составил свой знаменитый звёздный каталог.",
+      "en": "Remains of one of the largest observatories of the Middle Ages, where Ulugh Beg compiled his famous star catalogue."
+    },
+    "history": {
+      "uz": "Rasadxonani 1420-yillarda Temurning nabirasi, olim va hukmdor Mirzo Ulug‘bek qurdirgan. Uning asosiy asbobi yer ostiga o‘yilgan ulkan meridian yoyi (sekstant) bo‘lgan. Ulug‘bek o‘ldirilgach (1449), rasadxona vayron qilingan va unutilgan; qoldiqlarini 1908-yilda arxeolog Vasiliy Vyatkin topgan.",
+      "ru": "Обсерваторию построил в 1420-х годах внук Тимура, учёный и правитель Мирзо Улугбек. Главным инструментом был огромный меридианный секстант, врезанный в землю. После убийства Улугбека (1449) обсерваторию разрушили и забыли; её остатки нашёл в 1908 году археолог Василий Вяткин.",
+      "en": "Mirzo Ulugh Beg, Timur’s grandson and a scholar-ruler, built the observatory in the 1420s. Its main instrument was a huge meridian arc (sextant) cut into the ground. After Ulugh Beg was murdered in 1449 it was destroyed and forgotten; archaeologist Vasily Vyatkin rediscovered its remains in 1908."
+    },
+    "facts": [
+      {
+        "uz": "«Ziji Ko‘ragoniy» jadvalida mingdan ortiq yulduz koordinatalari keltirilgan.",
+        "ru": "Таблицы «Зидж-и Гурагани» содержат координаты более тысячи звёзд.",
+        "en": "The “Zij-i Sultani” tables list the positions of more than a thousand stars."
+      },
+      {
+        "uz": "Ulug‘bek yulduz yilining davomiyligini juda yuqori aniqlikda hisoblagan.",
+        "ru": "Улугбек вычислил продолжительность звёздного года с очень высокой точностью.",
+        "en": "Ulugh Beg calculated the length of the sidereal year with remarkable precision."
+      },
+      {
+        "uz": "Rasadxona yonida Ulug‘bek va uning ilmiy merosiga bag‘ishlangan muzey bor.",
+        "ru": "Рядом работает музей, посвящённый Улугбеку и его научному наследию.",
+        "en": "A museum next to the site is dedicated to Ulugh Beg and his scientific legacy."
+      }
+    ],
+    "bestSeason": {
+      "uz": "Aprel–may va sentabr–oktabr (yozda juda issiq)",
+      "ru": "Апрель–май и сентябрь–октябрь (летом очень жарко)",
+      "en": "April–May and September–October (summers are very hot)"
+    },
+    "airport": "SKD",
+    "wikimediaQuery": "Ulugh Beg Observatory",
+    "tags": [
+      "samarkand",
+      "astronomy",
+      "science"
+    ]
+  },
+  {
+    "hours": null,
+    "price": null,
+    "id": "ark-bukhara",
+    "country": "UZ",
+    "city": {
+      "uz": "Buxoro",
+      "ru": "Бухара",
+      "en": "Bukhara"
+    },
+    "lat": 39.7778,
+    "lng": 64.4106,
+    "category": "historic",
+    "unesco": true,
+    "name": {
+      "uz": "Ark qal’asi",
+      "ru": "Крепость Арк",
+      "en": "Ark of Bukhara"
+    },
+    "era": {
+      "uz": "Qadimiy davr; ko‘p marta qayta qurilgan",
+      "ru": "Древность; многократно перестраивалась",
+      "en": "Ancient; rebuilt many times"
+    },
+    "short": {
+      "uz": "Buxoro hukmdorlarining asrlar davomidagi qarorgohi bo‘lgan ulkan qal’a. Bugun uning ichida muzeylar joylashgan.",
+      "ru": "Массивная крепость, веками служившая резиденцией правителей Бухары. Сегодня внутри работают музеи.",
+      "en": "A massive citadel that served for centuries as the residence of Bukhara’s rulers; today it houses museums."
+    },
+    "history": {
+      "uz": "Ark sun’iy tepalik ustida joylashgan bo‘lib, Buxorodagi eng qadimiy inshootlardan biri hisoblanadi. Qal’a ko‘p marta vayron bo‘lib, qayta tiklangan. 1920-yilgacha bu yer Buxoro amirlarining qarorgohi bo‘lgan; o‘sha yili qal’a Qizil Armiya hujumida jiddiy zarar ko‘rgan.",
+      "ru": "Арк стоит на искусственном холме и считается одним из древнейших сооружений Бухары. Крепость много раз разрушалась и восстанавливалась. До 1920 года здесь была резиденция бухарских эмиров; в том году крепость сильно пострадала при штурме Красной армии.",
+      "en": "The Ark sits on an artificial mound and is among the oldest structures in Bukhara. It was destroyed and rebuilt many times. Until 1920 it was the residence of the emirs of Bukhara; that year it was badly damaged when the Red Army stormed the city."
+    },
+    "facts": [
+      {
+        "uz": "Qal’a ichida taxt zali, masjid va amirlar davriga oid ekspozitsiyalar saqlangan.",
+        "ru": "Внутри сохранились тронный зал, мечеть и экспозиции эпохи эмиров.",
+        "en": "Inside are a throne room, a mosque and exhibits from the emirs’ era."
+      },
+      {
+        "uz": "Ark oldidagi Registon maydonida qadimda shahar tadbirlari va jazolar o‘tkazilgan.",
+        "ru": "На площади Регистан перед Арком проходили городские события и публичные казни.",
+        "en": "The Registan square in front of the Ark was used for public events and executions."
+      },
+      {
+        "uz": "Darvoza tomon ko‘tariluvchi qiya yo‘lak qal’aning eng tanish ko‘rinishi.",
+        "ru": "Пандус, ведущий к воротам, — самый узнаваемый вид крепости.",
+        "en": "The ramp rising to the gate is the citadel’s most recognisable view."
+      }
+    ],
+    "bestSeason": {
+      "uz": "Aprel–may va sentabr–oktabr (yozda juda issiq)",
+      "ru": "Апрель–май и сентябрь–октябрь (летом очень жарко)",
+      "en": "April–May and September–October (summers are very hot)"
+    },
+    "airport": "BHK",
+    "wikimediaQuery": "Ark of Bukhara",
+    "tags": [
+      "bukhara",
+      "fortress",
+      "emir"
+    ]
+  },
+  {
+    "hours": null,
+    "price": null,
+    "id": "poi-kalyan",
+    "country": "UZ",
+    "city": {
+      "uz": "Buxoro",
+      "ru": "Бухара",
+      "en": "Bukhara"
+    },
+    "lat": 39.7759,
+    "lng": 64.4146,
+    "category": "religious",
+    "unesco": true,
+    "name": {
+      "uz": "Poyi Kalon majmuasi",
+      "ru": "Ансамбль Пои-Калян",
+      "en": "Po-i-Kalyan Ensemble"
+    },
+    "era": {
+      "uz": "1127 (minora); XVI asr (masjid va madrasa)",
+      "ru": "1127 (минарет); XVI век (мечеть и медресе)",
+      "en": "1127 (minaret); 16th century (mosque and madrasa)"
+    },
+    "short": {
+      "uz": "Kalon minorasi, Kalon masjidi va Mir Arab madrasasidan iborat Buxoroning asosiy me’moriy majmuasi.",
+      "ru": "Главный архитектурный ансамбль Бухары: минарет Калян, мечеть Калян и медресе Мири-Араб.",
+      "en": "Bukhara’s central ensemble: the Kalyan Minaret, the Kalyan Mosque and the Mir-i-Arab Madrasa."
+    },
+    "history": {
+      "uz": "«Poyi Kalon» — «Buyuk (minora) poyi» degani. Kalon minorasi 1127-yilda qoraxoniy hukmdor Arslonxon davrida qurilgan va qariyb 46 metr balandlikka ega. Kalon masjidi 1514-yilda yakunlangan, Mir Arab madrasasi esa 1530-yillarda barpo etilgan.",
+      "ru": "«Пои-Калян» означает «Подножие Великого (минарета)». Минарет Калян построен в 1127 году при караханидском правителе Арслан-хане; его высота около 46 метров. Мечеть Калян завершена в 1514 году, медресе Мири-Араб — в 1530-х годах.",
+      "en": "“Po-i-Kalyan” means “At the foot of the Great (minaret)”. The Kalyan Minaret was built in 1127 under the Karakhanid ruler Arslan Khan and is about 46 metres tall. The Kalyan Mosque was completed in 1514 and the Mir-i-Arab Madrasa in the 1530s."
+    },
+    "facts": [
+      {
+        "uz": "Rivoyatga ko‘ra, Chingizxon minoraning ulug‘vorligidan hayratlanib, uni buzdirmagan.",
+        "ru": "По легенде, Чингисхан был так поражён минаретом, что приказал его не разрушать.",
+        "en": "Legend says Genghis Khan was so impressed by the minaret that he ordered it spared."
+      },
+      {
+        "uz": "Minora asrlar davomida karvonlar uchun mayoq vazifasini ham bajargan.",
+        "ru": "Веками минарет служил ориентиром для караванов.",
+        "en": "For centuries the minaret served as a landmark for caravans."
+      },
+      {
+        "uz": "Mir Arab madrasasi sovet davrida ham faoliyat yuritgan sanoqli diniy o‘quv yurtlaridan biri bo‘lgan.",
+        "ru": "Медресе Мири-Араб было одним из немногих действовавших религиозных учебных заведений в советское время.",
+        "en": "Mir-i-Arab was one of the few religious schools allowed to operate in Soviet times."
+      }
+    ],
+    "bestSeason": {
+      "uz": "Aprel–may va sentabr–oktabr (yozda juda issiq)",
+      "ru": "Апрель–май и сентябрь–октябрь (летом очень жарко)",
+      "en": "April–May and September–October (summers are very hot)"
+    },
+    "airport": "BHK",
+    "wikimediaQuery": "Kalyan Minaret Bukhara",
+    "tags": [
+      "bukhara",
+      "minaret",
+      "mosque"
+    ]
+  },
+  {
+    "hours": null,
+    "price": null,
+    "id": "lyabi-hauz",
+    "country": "UZ",
+    "city": {
+      "uz": "Buxoro",
+      "ru": "Бухара",
+      "en": "Bukhara"
+    },
+    "lat": 39.7741,
+    "lng": 64.4192,
+    "category": "historic",
+    "unesco": true,
+    "name": {
+      "uz": "Labi Hovuz",
+      "ru": "Ляби-Хауз",
+      "en": "Lyab-i Hauz"
+    },
+    "era": {
+      "uz": "XVI–XVII asrlar",
+      "ru": "XVI–XVII века",
+      "en": "16th–17th centuries"
+    },
+    "short": {
+      "uz": "Qadimiy hovuz atrofidagi madrasa va xonaqohlar majmuasi — Buxoro eski shahrining eng jonli maskani.",
+      "ru": "Ансамбль медресе и ханаки вокруг старинного пруда — самое оживлённое место старой Бухары.",
+      "en": "An ensemble of madrasas and a khanqah around an old pool — the liveliest spot in old Bukhara."
+    },
+    "history": {
+      "uz": "«Labi Hovuz» — «hovuz bo‘yi» degani. Hovuz XVII asr boshida Nodir devonbegi tomonidan qurdirilgan; atrofida Ko‘kaldosh madrasasi (XVI asr), Nodir devonbegi madrasasi va xonaqohi joylashgan. Qadimda Buxoroda shaharni suv bilan ta’minlagan ko‘plab hovuzlar bo‘lgan, Labi Hovuz ularning saqlanib qolganlaridan biri.",
+      "ru": "«Ляби-Хауз» означает «у пруда». Пруд построен в начале XVII века по приказу Надира Диван-беги; вокруг стоят медресе Кукельдаш (XVI век), медресе и ханака Надира Диван-беги. Когда-то в Бухаре было множество прудов-хаузов, снабжавших город водой; Ляби-Хауз — один из сохранившихся.",
+      "en": "“Lyab-i Hauz” means “by the pool”. The pool was built in the early 17th century by Nadir Divan-Beghi and is surrounded by the Kukeldash Madrasa (16th century) and Nadir Divan-Beghi’s madrasa and khanqah. Bukhara once had many such pools supplying water; Lyab-i Hauz is one of the few that survive."
+    },
+    "facts": [
+      {
+        "uz": "Nodir devonbegi madrasasi peshtoqida quyosh va qushlar tasvirlangan.",
+        "ru": "На портале медресе Надира Диван-беги изображены солнце и птицы.",
+        "en": "The portal of the Nadir Divan-Beghi Madrasa depicts the sun and birds."
+      },
+      {
+        "uz": "Hovuz yonida Xo‘ja Nasriddin haykali o‘rnatilgan.",
+        "ru": "Рядом с прудом стоит памятник Ходже Насреддину.",
+        "en": "A statue of Khoja Nasreddin stands beside the pool."
+      },
+      {
+        "uz": "Hovuz atrofidagi qadimiy tut daraxtlari soyasida choyxonalar ishlaydi.",
+        "ru": "В тени старых тутовых деревьев у пруда работают чайханы.",
+        "en": "Teahouses sit in the shade of old mulberry trees around the pool."
+      }
+    ],
+    "bestSeason": {
+      "uz": "Aprel–may va sentabr–oktabr (yozda juda issiq)",
+      "ru": "Апрель–май и сентябрь–октябрь (летом очень жарко)",
+      "en": "April–May and September–October (summers are very hot)"
+    },
+    "airport": "BHK",
+    "wikimediaQuery": "Lyab-i Hauz Bukhara",
+    "tags": [
+      "bukhara",
+      "madrasa",
+      "pool"
+    ]
+  },
+  {
+    "hours": null,
+    "price": null,
+    "id": "samanid-mausoleum",
+    "country": "UZ",
+    "city": {
+      "uz": "Buxoro",
+      "ru": "Бухара",
+      "en": "Bukhara"
+    },
+    "lat": 39.7768,
+    "lng": 64.4013,
+    "category": "historic",
+    "unesco": true,
+    "name": {
+      "uz": "Ismoil Somoniy maqbarasi",
+      "ru": "Мавзолей Саманидов",
+      "en": "Samanid Mausoleum"
+    },
+    "era": {
+      "uz": "IX asr oxiri – X asr boshi",
+      "ru": "Конец IX – начало X века",
+      "en": "Late 9th – early 10th century"
+    },
+    "short": {
+      "uz": "O‘rta Osiyodagi saqlanib qolgan eng qadimiy islomiy obidalardan biri. Pishiq g‘ishtdan to‘qilgan naqshlari bilan mashhur.",
+      "ru": "Один из древнейших сохранившихся исламских памятников Центральной Азии, знаменитый узорной кирпичной кладкой.",
+      "en": "One of the oldest surviving Islamic monuments in Central Asia, famous for its patterned brickwork."
+    },
+    "history": {
+      "uz": "Maqbara Somoniylar sulolasining oilaviy qabri sifatida qurilgan va Ismoil Somoniy nomi bilan bog‘liq. Kub shaklidagi bino ustida gumbaz bor; devorlari g‘ishtdan to‘qilgan murakkab naqshlardan iborat. Asrlar davomida maqbara qisman tuproq ostida qolgan va shu tufayli mo‘g‘ullar bosqinidan omon qolgan deb hisoblanadi.",
+      "ru": "Мавзолей построен как семейная усыпальница династии Саманидов и связан с именем Исмаила Самани. Кубическое здание увенчано куполом, а его стены — сложный орнамент из кирпича. Считается, что веками мавзолей был частично засыпан землёй и потому уцелел при монгольском нашествии.",
+      "en": "The mausoleum was built as the family tomb of the Samanid dynasty and is associated with Ismail Samani. A dome crowns the cube-shaped building, whose walls are an intricate lattice of brick. It is believed to have survived the Mongol invasion because it lay partly buried under earth."
+    },
+    "facts": [
+      {
+        "uz": "Kun davomida quyosh nuri tushishi o‘zgargani sari g‘isht naqshlari boshqacha ko‘rinadi.",
+        "ru": "В течение дня, по мере смены освещения, кирпичный узор выглядит по-разному.",
+        "en": "The brick patterns seem to change as the sunlight shifts during the day."
+      },
+      {
+        "uz": "Maqbara 1930-yillarda arxeologlar tomonidan qazib ochilgan.",
+        "ru": "Мавзолей был расчищен археологами в 1930-х годах.",
+        "en": "Archaeologists excavated the mausoleum in the 1930s."
+      },
+      {
+        "uz": "Binoning kub va gumbaz shakli yer va osmon timsoli sifatida talqin qilinadi.",
+        "ru": "Куб и купол здания часто трактуют как символы земли и неба.",
+        "en": "Its cube and dome are often interpreted as symbols of earth and heaven."
+      }
+    ],
+    "bestSeason": {
+      "uz": "Aprel–may va sentabr–oktabr (yozda juda issiq)",
+      "ru": "Апрель–май и сентябрь–октябрь (летом очень жарко)",
+      "en": "April–May and September–October (summers are very hot)"
+    },
+    "airport": "BHK",
+    "wikimediaQuery": "Samanid Mausoleum Bukhara",
+    "tags": [
+      "bukhara",
+      "samanid",
+      "brick"
+    ]
+  },
+  {
+    "hours": null,
+    "price": null,
+    "id": "chor-minor",
+    "country": "UZ",
+    "city": {
+      "uz": "Buxoro",
+      "ru": "Бухара",
+      "en": "Bukhara"
+    },
+    "lat": 39.7755,
+    "lng": 64.423,
+    "category": "historic",
+    "unesco": true,
+    "name": {
+      "uz": "Chor Minor",
+      "ru": "Чор-Минор",
+      "en": "Chor Minor"
+    },
+    "era": {
+      "uz": "1807",
+      "ru": "1807",
+      "en": "1807"
+    },
+    "short": {
+      "uz": "To‘rtta feruza gumbazli minorasi bor kichik va o‘ziga xos bino — Buxoroning eng ko‘p suratga olinadigan joylaridan biri.",
+      "ru": "Небольшое необычное здание с четырьмя башенками под бирюзовыми куполами — одно из самых фотографируемых мест Бухары.",
+      "en": "A small, quirky building with four turquoise-domed towers — one of Bukhara’s most photographed sights."
+    },
+    "history": {
+      "uz": "Chor Minor («To‘rt minora») 1807-yilda boy savdogar Xalifa Niyozqul tomonidan qurdirilgan. Bino aslida madrasa darvozaxonasi bo‘lgan; madrasaning o‘zi deyarli saqlanmagan. To‘rtala minora bezaklari bir-biridan farq qiladi.",
+      "ru": "Чор-Минор («Четыре минарета») построен в 1807 году на средства богатого купца Халифа Ниязкула. Здание было воротами медресе, от которого почти ничего не сохранилось. Декор всех четырёх башен различается.",
+      "en": "Chor Minor (“Four Minarets”) was built in 1807 by the wealthy merchant Khalif Niyaz-kul. It was actually the gatehouse of a madrasa that has almost entirely disappeared. Each of the four towers is decorated differently."
+    },
+    "facts": [
+      {
+        "uz": "Xalq talqiniga ko‘ra, to‘rt minora quruvchining to‘rt qiziga ishora qiladi.",
+        "ru": "По народному толкованию, четыре башни символизируют четырёх дочерей строителя.",
+        "en": "Popular lore says the four towers stand for the builder’s four daughters."
+      },
+      {
+        "uz": "Minoralar aslida azon aytish uchun emas, bezak va xona sifatida xizmat qilgan.",
+        "ru": "Башни не использовались для азана — они служили декором и подсобными помещениями.",
+        "en": "The towers were never used for the call to prayer; they were decorative and used as storage."
+      },
+      {
+        "uz": "Bino eski shaharning tor ko‘chalari orasida joylashgan.",
+        "ru": "Здание спрятано среди узких улочек старого города.",
+        "en": "It is tucked away among the narrow lanes of the old town."
+      }
+    ],
+    "bestSeason": {
+      "uz": "Aprel–may va sentabr–oktabr (yozda juda issiq)",
+      "ru": "Апрель–май и сентябрь–октябрь (летом очень жарко)",
+      "en": "April–May and September–October (summers are very hot)"
+    },
+    "airport": "BHK",
+    "wikimediaQuery": "Chor Minor Bukhara",
+    "tags": [
+      "bukhara",
+      "gate",
+      "architecture"
+    ]
+  },
+  {
+    "hours": null,
+    "price": null,
+    "id": "itchan-kala",
+    "country": "UZ",
+    "city": {
+      "uz": "Xiva",
+      "ru": "Хива",
+      "en": "Khiva"
+    },
+    "lat": 41.3786,
+    "lng": 60.3592,
+    "category": "city",
+    "unesco": true,
+    "name": {
+      "uz": "Ichan qal’a",
+      "ru": "Ичан-Кала",
+      "en": "Itchan Kala"
+    },
+    "era": {
+      "uz": "Asosan XVII–XIX asrlar",
+      "ru": "В основном XVII–XIX века",
+      "en": "Mostly 17th–19th centuries"
+    },
+    "short": {
+      "uz": "Xivaning devorlar bilan o‘ralgan ichki shahri — ochiq osmon ostidagi muzey-shahar. O‘zbekistondagi birinchi UNESCO obyekti.",
+      "ru": "Обнесённый стенами внутренний город Хивы — город-музей под открытым небом и первый объект ЮНЕСКО в Узбекистане.",
+      "en": "The walled inner town of Khiva — an open-air museum city and Uzbekistan’s first UNESCO World Heritage Site."
+    },
+    "history": {
+      "uz": "Ichan qal’a Xorazmdagi qadimiy Xiva shahrining ichki qismi bo‘lib, Xiva xonligi poytaxtining markazi bo‘lgan. Hozir ko‘rinib turgan masjid, madrasa, saroy va minoralarning aksariyati XVII–XIX asrlarda qurilgan. 1990-yilda Ichan qal’a UNESCO Butunjahon merosi ro‘yxatiga kiritilgan.",
+      "ru": "Ичан-Кала — внутренний город древней Хивы в Хорезме, сердце столицы Хивинского ханства. Большинство сохранившихся мечетей, медресе, дворцов и минаретов построено в XVII–XIX веках. В 1990 году Ичан-Кала включена в список Всемирного наследия ЮНЕСКО.",
+      "en": "Itchan Kala is the inner town of ancient Khiva in Khorezm and was the heart of the Khiva Khanate’s capital. Most of its mosques, madrasas, palaces and minarets date from the 17th–19th centuries. It was inscribed on the UNESCO World Heritage List in 1990."
+    },
+    "facts": [
+      {
+        "uz": "Kalta Minor minorasi XIX asr o‘rtasida boshlangan, ammo hech qachon oxiriga yetkazilmagan.",
+        "ru": "Минарет Кальта-Минор начали строить в середине XIX века, но так и не достроили.",
+        "en": "The Kalta Minor minaret was begun in the mid-19th century but never finished."
+      },
+      {
+        "uz": "Islom Xo‘ja minorasi Xivadagi eng baland minora hisoblanadi (XX asr boshi).",
+        "ru": "Минарет Ислам-Ходжа (начало XX века) — самый высокий в Хиве.",
+        "en": "The Islam Khoja minaret (early 20th century) is the tallest in Khiva."
+      },
+      {
+        "uz": "Juma masjidi ko‘plab o‘ymakor yog‘och ustunlari bilan mashhur, ularning ba’zilari juda qadimiy.",
+        "ru": "Джума-мечеть знаменита множеством резных деревянных колонн, некоторые из них очень древние.",
+        "en": "The Juma Mosque is famous for its forest of carved wooden columns, some of them very old."
+      }
+    ],
+    "bestSeason": {
+      "uz": "Aprel–may va sentabr–oktabr (yozda juda issiq)",
+      "ru": "Апрель–май и сентябрь–октябрь (летом очень жарко)",
+      "en": "April–May and September–October (summers are very hot)"
+    },
+    "airport": "UGC",
+    "wikimediaQuery": "Itchan Kala Khiva",
+    "tags": [
+      "khiva",
+      "khorezm",
+      "walled city"
+    ]
+  },
+  {
+    "hours": null,
+    "price": null,
+    "id": "ak-saray",
+    "country": "UZ",
+    "city": {
+      "uz": "Shahrisabz",
+      "ru": "Шахрисабз",
+      "en": "Shahrisabz"
+    },
+    "lat": 39.0597,
+    "lng": 66.83,
+    "category": "historic",
+    "unesco": true,
+    "name": {
+      "uz": "Oqsaroy",
+      "ru": "Дворец Ак-Сарай",
+      "en": "Ak-Saray Palace"
+    },
+    "era": {
+      "uz": "1380–1404",
+      "ru": "1380–1404",
+      "en": "1380–1404"
+    },
+    "short": {
+      "uz": "Amir Temurning ona shahri Shahrisabzdagi yozgi saroy qoldiqlari. Ulkan peshtoq qoldig‘i hamon kishini hayratga soladi.",
+      "ru": "Остатки летнего дворца Тимура в его родном Шахрисабзе. Сохранившиеся части гигантского портала до сих пор поражают.",
+      "en": "The ruins of Timur’s summer palace in his home town of Shahrisabz; the surviving stumps of its giant portal still astonish."
+    },
+    "history": {
+      "uz": "Shahrisabz (qadimgi Kesh) — Amir Temur 1336-yilda tug‘ilgan joy. Oqsaroy qurilishi 1380-yilda boshlangan va Temur hayotining oxirigacha davom etgan. 1404-yilda saroyni Kastiliya elchisi Rui Gonsales de Klavixo ko‘rgan va uni batafsil tasvirlab qoldirgan.",
+      "ru": "Шахрисабз (древний Кеш) — место рождения Амира Тимура в 1336 году. Строительство Ак-Сарая началось в 1380 году и продолжалось почти до конца жизни Тимура. В 1404 году дворец посетил кастильский посол Руи Гонсалес де Клавихо и оставил его подробное описание.",
+      "en": "Shahrisabz (ancient Kesh) is where Amir Timur was born in 1336. Work on Ak-Saray began in 1380 and continued almost until the end of his life. In 1404 the Castilian envoy Ruy González de Clavijo visited and left a detailed description of it."
+    },
+    "facts": [
+      {
+        "uz": "Saroy peshtoqiga «Qudratimizga shubhang bo‘lsa — qurgan binolarimizga boq» degan mazmundagi so‘zlar yozilgan deb aytiladi.",
+        "ru": "Говорят, на портале было написано: «Если сомневаешься в нашем могуществе — посмотри на наши постройки».",
+        "en": "The portal is said to have borne the words: “If you doubt our power, look at our buildings.”"
+      },
+      {
+        "uz": "Saroy yonida Amir Temur haykali o‘rnatilgan.",
+        "ru": "Рядом с дворцом установлен памятник Амиру Тимуру.",
+        "en": "A statue of Amir Timur stands beside the palace."
+      },
+      {
+        "uz": "Shahrisabzning tarixiy markazi 2000-yilda UNESCO ro‘yxatiga kiritilgan.",
+        "ru": "Исторический центр Шахрисабза внесён в список ЮНЕСКО в 2000 году.",
+        "en": "The historic centre of Shahrisabz was inscribed by UNESCO in 2000."
+      }
+    ],
+    "bestSeason": {
+      "uz": "Aprel–may va sentabr–oktabr (yozda juda issiq)",
+      "ru": "Апрель–май и сентябрь–октябрь (летом очень жарко)",
+      "en": "April–May and September–October (summers are very hot)"
+    },
+    "airport": "SKD",
+    "wikimediaQuery": "Ak-Saray Palace Shahrisabz",
+    "tags": [
+      "shahrisabz",
+      "timur",
+      "palace"
+    ]
+  },
+  {
+    "hours": null,
+    "price": null,
+    "id": "hazrati-imam",
+    "country": "UZ",
+    "city": {
+      "uz": "Toshkent",
+      "ru": "Ташкент",
+      "en": "Tashkent"
+    },
+    "lat": 41.3384,
+    "lng": 69.24,
+    "category": "religious",
+    "unesco": false,
+    "name": {
+      "uz": "Hazrati Imom majmuasi",
+      "ru": "Комплекс Хазрати Имам",
+      "en": "Hazrati Imam Complex"
+    },
+    "era": {
+      "uz": "XVI asr; 2007-yilda qayta qurilgan",
+      "ru": "XVI век; реконструирован в 2007 году",
+      "en": "16th century; rebuilt in 2007"
+    },
+    "short": {
+      "uz": "Toshkentning diniy markazi. Bu yerda dunyodagi eng qadimiy Qur’on nusxalaridan biri — Usmon Qur’oni saqlanadi.",
+      "ru": "Религиозный центр Ташкента, где хранится один из древнейших списков Корана — Коран Усмана.",
+      "en": "Tashkent’s religious heart, home to one of the oldest surviving Qurans — the Uthman Quran."
+    },
+    "history": {
+      "uz": "Majmua X asrda yashagan olim va shoir Abu Bakr Qaffol Shoshiy nomi bilan atalgan, uning maqbarasi shu yerda. Majmuaga Baroqxon madrasasi (XVI asr), Tilla Shayx masjidi va Hazrati Imom jome masjidi kiradi. Mo‘yi Muborak kutubxonasida VII asrga oid deb hisoblanadigan Usmon Qur’oni saqlanadi.",
+      "ru": "Комплекс назван в честь учёного и поэта X века Абу Бакра Каффаля Шаши, чей мавзолей находится здесь. В него входят медресе Барак-хана (XVI век), мечеть Тилля-Шейх и соборная мечеть Хазрати Имам. В библиотеке Муйи Муборак хранится Коран Усмана, датируемый VII веком.",
+      "en": "The complex is named after the 10th-century scholar and poet Abu Bakr Kaffal Shashi, whose mausoleum is here. It includes the Barak Khan Madrasa (16th century), the Tilla Sheikh Mosque and the Hazrati Imam congregational mosque. The Muyi Muborak library keeps the Uthman Quran, traditionally dated to the 7th century."
+    },
+    "facts": [
+      {
+        "uz": "Usmon Qur’oni kiyik terisiga yozilgan deb hisoblanadi.",
+        "ru": "Считается, что Коран Усмана написан на оленьей коже.",
+        "en": "The Uthman Quran is believed to be written on deer-skin parchment."
+      },
+      {
+        "uz": "Baroqxon madrasasida hozir hunarmandlar ustaxonalari ishlaydi.",
+        "ru": "В медресе Барак-хана сейчас работают мастерские ремесленников.",
+        "en": "Craft workshops now operate in the Barak Khan Madrasa."
+      },
+      {
+        "uz": "Yangi jome masjidining ikki minorasi uzoqdan ko‘zga tashlanadi.",
+        "ru": "Два минарета новой соборной мечети видны издалека.",
+        "en": "The twin minarets of the new mosque can be seen from afar."
+      }
+    ],
+    "bestSeason": {
+      "uz": "Aprel–may va sentabr–oktabr (yozda juda issiq)",
+      "ru": "Апрель–май и сентябрь–октябрь (летом очень жарко)",
+      "en": "April–May and September–October (summers are very hot)"
+    },
+    "airport": "TAS",
+    "wikimediaQuery": "Hazrati Imam Complex Tashkent",
+    "tags": [
+      "tashkent",
+      "quran",
+      "mosque"
+    ]
+  },
+  {
+    "hours": null,
+    "price": null,
+    "id": "chimgan",
+    "country": "UZ",
+    "city": {
+      "uz": "Toshkent viloyati",
+      "ru": "Ташкентская область",
+      "en": "Tashkent Region"
+    },
+    "lat": 41.55,
+    "lng": 70.02,
+    "category": "nature",
+    "unesco": false,
+    "name": {
+      "uz": "Chimyon tog‘lari",
+      "ru": "Горы Чимган",
+      "en": "Chimgan Mountains"
+    },
+    "era": {
+      "uz": "Tabiiy hudud",
+      "ru": "Природная территория",
+      "en": "Natural area"
+    },
+    "short": {
+      "uz": "Toshkentdan qariyb 80 km uzoqlikdagi mashhur tog‘ kurorti. Yozda sayr, qishda chang‘i uchun sevimli joy.",
+      "ru": "Популярный горный курорт примерно в 80 км от Ташкента: летом — походы, зимой — лыжи.",
+      "en": "A popular mountain resort about 80 km from Tashkent — hiking in summer, skiing in winter."
+    },
+    "history": {
+      "uz": "Chimyon G‘arbiy Tyan-Shanning Chotqol tizmasi tarmog‘ida joylashgan. Eng baland cho‘qqisi — Katta Chimyon (3309 m). Hudud Ugom-Chotqol milliy tabiat bog‘i yaqinida bo‘lib, archazorlar, buloqlar va alp o‘tloqlariga boy.",
+      "ru": "Чимган расположен на отроге Чаткальского хребта Западного Тянь-Шаня. Высшая точка — Большой Чимган (3309 м). Район примыкает к Угам-Чаткальскому национальному парку и богат арчовыми лесами, родниками и альпийскими лугами.",
+      "en": "Chimgan lies on a spur of the Chatkal Range in the Western Tian Shan. Its highest point is Greater Chimgan (3,309 m). The area borders the Ugam-Chatkal National Park and is rich in juniper woods, springs and alpine meadows."
+    },
+    "facts": [
+      {
+        "uz": "Katta Chimyon cho‘qqisining balandligi 3309 metr.",
+        "ru": "Высота Большого Чимгана — 3309 метров.",
+        "en": "Greater Chimgan rises to 3,309 metres."
+      },
+      {
+        "uz": "Yaqin atrofda Beldersoy va Amirsoy chang‘i kurortlari joylashgan.",
+        "ru": "Поблизости находятся горнолыжные курорты Бельдерсай и Амирсой.",
+        "en": "The Beldersay and Amirsoy ski resorts are nearby."
+      },
+      {
+        "uz": "Chimyonni ko‘pincha «O‘zbekiston Shveysariyasi» deb atashadi.",
+        "ru": "Чимган часто называют «узбекской Швейцарией».",
+        "en": "Chimgan is often called “the Switzerland of Uzbekistan”."
+      }
+    ],
+    "bestSeason": {
+      "uz": "Iyun–sentabr — tog‘ sayri; dekabr–mart — chang‘i mavsumi",
+      "ru": "Июнь–сентябрь — походы; декабрь–март — лыжный сезон",
+      "en": "June–September for hiking; December–March for skiing"
+    },
+    "airport": "TAS",
+    "wikimediaQuery": "Chimgan mountains",
+    "tags": [
+      "mountains",
+      "ski",
+      "hiking",
+      "tashkent"
+    ]
+  },
+  {
+    "hours": null,
+    "price": null,
+    "id": "charvak",
+    "country": "UZ",
+    "city": {
+      "uz": "Toshkent viloyati",
+      "ru": "Ташкентская область",
+      "en": "Tashkent Region"
+    },
+    "lat": 41.62,
+    "lng": 69.97,
+    "category": "nature",
+    "unesco": false,
+    "name": {
+      "uz": "Chorvoq suv ombori",
+      "ru": "Чарвакское водохранилище",
+      "en": "Charvak Reservoir"
+    },
+    "era": {
+      "uz": "1970-yillar",
+      "ru": "1970-е годы",
+      "en": "1970s"
+    },
+    "short": {
+      "uz": "Tog‘lar qurshovidagi zangori ko‘l — toshkentliklarning sevimli yozgi dam olish maskani.",
+      "ru": "Бирюзовое озеро в окружении гор — любимое место летнего отдыха ташкентцев.",
+      "en": "A turquoise lake ringed by mountains — Tashkent’s favourite summer getaway."
+    },
+    "history": {
+      "uz": "Chorvoq suv ombori Chirchiq daryosida to‘g‘on va GES qurilishi natijasida 1970-yillarda vujudga kelgan. Unga Pskom, Ko‘ksuv va Chotqol daryolari quyiladi. Qirg‘oqlarida ko‘plab dam olish maskanlari va mehmonxonalar joylashgan.",
+      "ru": "Чарвакское водохранилище появилось в 1970-х годах после строительства плотины и ГЭС на реке Чирчик. В него впадают реки Пскем, Коксу и Чаткал. На берегах много зон отдыха и гостиниц.",
+      "en": "Charvak Reservoir was created in the 1970s when a dam and hydropower plant were built on the Chirchiq River. The Pskem, Koksu and Chatkal rivers flow into it. Its shores are lined with resorts and hotels."
+    },
+    "facts": [
+      {
+        "uz": "Chorvoq to‘g‘oni tosh-tuproqdan qurilgan baland to‘g‘onlardan biri.",
+        "ru": "Чарвакская плотина — одна из высоких каменно-набросных плотин.",
+        "en": "The Charvak dam is a tall rock-fill dam."
+      },
+      {
+        "uz": "Suv ombori Toshkent viloyatini suv va elektr energiyasi bilan ta’minlashda muhim rol o‘ynaydi.",
+        "ru": "Водохранилище важно для водоснабжения и энергетики Ташкентской области.",
+        "en": "It plays a key role in supplying water and power to the Tashkent region."
+      },
+      {
+        "uz": "Atrofdagi tog‘lar Chimyon va Ugom-Chotqol hududi bilan tutashib ketadi.",
+        "ru": "Окрестные горы переходят в районы Чимгана и Угам-Чаткала.",
+        "en": "The surrounding mountains merge into the Chimgan and Ugam-Chatkal areas."
+      }
+    ],
+    "bestSeason": {
+      "uz": "Iyun–sentabr (dam olish va cho‘milish mavsumi)",
+      "ru": "Июнь–сентябрь (сезон отдыха и купания)",
+      "en": "June–September (swimming and holiday season)"
+    },
+    "airport": "TAS",
+    "wikimediaQuery": "Charvak Reservoir",
+    "tags": [
+      "lake",
+      "mountains",
+      "summer",
+      "tashkent"
+    ]
+  },
+  {
+    "hours": null,
+    "price": null,
+    "id": "savitsky-museum",
+    "country": "UZ",
+    "city": {
+      "uz": "Nukus",
+      "ru": "Нукус",
+      "en": "Nukus"
+    },
+    "lat": 42.4627,
+    "lng": 59.6145,
+    "category": "museum",
+    "unesco": false,
+    "name": {
+      "uz": "Savitskiy nomidagi san’at muzeyi",
+      "ru": "Музей искусств имени Савицкого",
+      "en": "Savitsky Museum of Art"
+    },
+    "era": {
+      "uz": "1966",
+      "ru": "1966",
+      "en": "1966"
+    },
+    "short": {
+      "uz": "Rus avangardi asarlarining dunyodagi eng yirik to‘plamlaridan biri saqlanadigan muzey. Uni ko‘pincha «Cho‘ldagi Luvr» deb atashadi.",
+      "ru": "Музей с одной из крупнейших в мире коллекций русского авангарда, которую часто называют «Лувром в пустыне».",
+      "en": "Home to one of the world’s largest collections of Russian avant-garde art, often called “the Louvre in the desert”."
+    },
+    "history": {
+      "uz": "Muzeyga 1966-yilda rassom va kolleksioner Igor Savitskiy asos solgan. U sovet davrida taqiqlangan avangard rassomlarining asarlarini to‘plab, ularni olis Nukusda saqlab qolgan. Muzeyda Qoraqalpoq xalq amaliy san’ati va arxeologik topilmalar ham bor.",
+      "ru": "Музей основал в 1966 году художник и коллекционер Игорь Савицкий. Он собирал работы запрещённых в СССР художников-авангардистов и сохранил их в далёком Нукусе. В музее также представлены каракалпакское народное искусство и археологические находки.",
+      "en": "Artist and collector Igor Savitsky founded the museum in 1966. He gathered works by avant-garde artists banned in the USSR and saved them in remote Nukus. The museum also holds Karakalpak folk art and archaeological finds."
+    },
+    "facts": [
+      {
+        "uz": "Savitskiy taqiqlangan rassomlar asarlarini ko‘pincha ularning oilalaridan sotib olgan.",
+        "ru": "Савицкий часто выкупал работы запрещённых художников у их семей.",
+        "en": "Savitsky often bought the works of banned artists from their families."
+      },
+      {
+        "uz": "Muzeyda O‘zbekiston avangardi (masalan, Usto Mo‘min, Aleksandr Volkov) asarlari ham bor.",
+        "ru": "В музее есть работы узбекского авангарда — например, Усто Мумина и Александра Волкова.",
+        "en": "It also holds works of the Uzbek avant-garde, such as Usto Mumin and Alexander Volkov."
+      },
+      {
+        "uz": "Muzey Qoraqalpog‘iston Respublikasi poytaxti Nukusda joylashgan.",
+        "ru": "Музей находится в Нукусе — столице Республики Каракалпакстан.",
+        "en": "The museum is in Nukus, capital of the Republic of Karakalpakstan."
+      }
+    ],
+    "bestSeason": {
+      "uz": "Aprel–may va sentabr–oktabr (yozda juda issiq)",
+      "ru": "Апрель–май и сентябрь–октябрь (летом очень жарко)",
+      "en": "April–May and September–October (summers are very hot)"
+    },
+    "airport": "NCU",
+    "wikimediaQuery": "Savitsky Museum Nukus",
+    "tags": [
+      "nukus",
+      "avant-garde",
+      "art"
+    ]
+  },
+  {
+    "hours": null,
+    "price": null,
+    "id": "tashkent-tv-tower",
+    "country": "UZ",
+    "city": {
+      "uz": "Toshkent",
+      "ru": "Ташкент",
+      "en": "Tashkent"
+    },
+    "lat": 41.3456,
+    "lng": 69.2847,
+    "category": "modern",
+    "unesco": false,
+    "name": {
+      "uz": "Toshkent teleminorasi",
+      "ru": "Ташкентская телебашня",
+      "en": "Tashkent TV Tower"
+    },
+    "era": {
+      "uz": "1985",
+      "ru": "1985",
+      "en": "1985"
+    },
+    "short": {
+      "uz": "375 metrlik teleminora — Markaziy Osiyodagi eng baland inshoot. Kuzatuv maydonchasidan shahar kaftdagidek ko‘rinadi.",
+      "ru": "Телебашня высотой 375 метров — самое высокое сооружение Центральной Азии. Со смотровой площадки город виден как на ладони.",
+      "en": "At 375 metres, the TV tower is the tallest structure in Central Asia, with a city-wide view from its observation deck."
+    },
+    "history": {
+      "uz": "Minora qurilishi 1978-yilda boshlanib, 1985-yilda foydalanishga topshirilgan. Toshkent seysmik faol hududda joylashgani sababli inshoot kuchli zilzilalarga bardosh beradigan qilib loyihalangan. Minorada kuzatuv maydonchasi va aylanuvchi restoran bor.",
+      "ru": "Строительство башни началось в 1978 году и завершилось в 1985 году. Поскольку Ташкент находится в сейсмоактивной зоне, башню проектировали с расчётом на сильные землетрясения. На башне есть смотровая площадка и вращающийся ресторан.",
+      "en": "Construction began in 1978 and the tower opened in 1985. Because Tashkent lies in a seismically active zone, it was designed to withstand strong earthquakes. It has an observation deck and a revolving restaurant."
+    },
+    "facts": [
+      {
+        "uz": "Minoraning balandligi — 375 metr.",
+        "ru": "Высота башни — 375 метров.",
+        "en": "The tower stands 375 metres tall."
+      },
+      {
+        "uz": "Minora uch tayanchli konstruksiyaga ega.",
+        "ru": "Башня опирается на три наклонные опоры.",
+        "en": "The tower rests on three inclined supports."
+      },
+      {
+        "uz": "Minora hozir ham televizion va radio signallarni uzatish vazifasini bajaradi.",
+        "ru": "Башня по-прежнему служит для теле- и радиовещания.",
+        "en": "It still serves as Tashkent’s main TV and radio transmitter."
+      }
+    ],
+    "bestSeason": {
+      "uz": "Aprel–may va sentabr–oktabr (yozda juda issiq)",
+      "ru": "Апрель–май и сентябрь–октябрь (летом очень жарко)",
+      "en": "April–May and September–October (summers are very hot)"
+    },
+    "airport": "TAS",
+    "wikimediaQuery": "Tashkent Tower",
+    "tags": [
+      "tashkent",
+      "tower",
+      "viewpoint"
+    ]
+  },
+  {
+    "hours": null,
+    "price": null,
+    "id": "khudayar-khan-palace",
+    "country": "UZ",
+    "city": {
+      "uz": "Qo‘qon",
+      "ru": "Коканд",
+      "en": "Kokand"
+    },
+    "lat": 40.5426,
+    "lng": 70.9436,
+    "category": "historic",
+    "unesco": false,
+    "name": {
+      "uz": "Xudoyorxon saroyi",
+      "ru": "Дворец Худояр-хана",
+      "en": "Palace of Khudayar Khan"
+    },
+    "era": {
+      "uz": "1871",
+      "ru": "1871",
+      "en": "1871"
+    },
+    "short": {
+      "uz": "Qo‘qon xonligining so‘nggi hukmdorlaridan biri qurdirgan rang-barang saroy. Bugun u o‘lkashunoslik muzeyi.",
+      "ru": "Яркий дворец одного из последних правителей Кокандского ханства. Сегодня здесь краеведческий музей.",
+      "en": "A colourful palace built by one of the last rulers of the Kokand Khanate, now a regional history museum."
+    },
+    "history": {
+      "uz": "Saroy Qo‘qon xoni Xudoyorxon buyrug‘i bilan qurilgan va 1871-yilda yakunlangan. Dastlab u bir necha hovli va yuzdan ortiq xonadan iborat bo‘lgan. 1876-yilda xonlik Rossiya imperiyasi tomonidan tugatilgach, saroyning bir qismi buzilgan.",
+      "ru": "Дворец построен по приказу кокандского хана Худояра и завершён в 1871 году. Изначально он состоял из нескольких дворов и более чем ста комнат. После упразднения ханства Российской империей в 1876 году часть дворца была разрушена.",
+      "en": "The palace was built for Khudayar Khan of Kokand and completed in 1871. It originally had several courtyards and more than a hundred rooms. After the Russian Empire abolished the khanate in 1876, part of it was demolished."
+    },
+    "facts": [
+      {
+        "uz": "Saroy peshtoqi rang-barang koshinlar va yozuvlar bilan bezatilgan.",
+        "ru": "Фасад дворца украшен яркой изразцовой облицовкой и надписями.",
+        "en": "The façade is covered in bright tiles and inscriptions."
+      },
+      {
+        "uz": "Qo‘qon Farg‘ona vodiysining qadimiy hunarmandchilik markazlaridan biri.",
+        "ru": "Коканд — один из старинных ремесленных центров Ферганской долины.",
+        "en": "Kokand is one of the Fergana Valley’s historic craft centres."
+      },
+      {
+        "uz": "Saroy ichida Qo‘qon xonligi tarixiga oid ekspozitsiyalar bor.",
+        "ru": "Внутри — экспозиции по истории Кокандского ханства.",
+        "en": "Inside are exhibits on the history of the Kokand Khanate."
+      }
+    ],
+    "bestSeason": {
+      "uz": "Aprel–may va sentabr–oktabr (yozda juda issiq)",
+      "ru": "Апрель–май и сентябрь–октябрь (летом очень жарко)",
+      "en": "April–May and September–October (summers are very hot)"
+    },
+    "airport": "FEG",
+    "wikimediaQuery": "Khudayar Khan Palace Kokand",
+    "tags": [
+      "kokand",
+      "fergana",
+      "palace"
+    ]
+  },
+  {
+    "hours": null,
+    "price": null,
+    "id": "merv",
+    "country": "TM",
+    "city": {
+      "uz": "Mari",
+      "ru": "Мары",
+      "en": "Mary"
+    },
+    "lat": 37.6625,
+    "lng": 62.1922,
+    "category": "historic",
+    "unesco": true,
+    "name": {
+      "uz": "Qadimiy Marv",
+      "ru": "Древний Мерв",
+      "en": "Ancient Merv"
+    },
+    "era": {
+      "uz": "Mil. avv. I ming yillikdan XVIII asrgacha",
+      "ru": "С I тысячелетия до н. э. до XVIII века",
+      "en": "From the 1st millennium BC to the 18th century"
+    },
+    "short": {
+      "uz": "Buyuk Ipak yo‘lining eng yirik vohalaridan biri bo‘lgan qadimiy shahar xarobalari. Turli davrlarga oid bir necha shahar yonma-yon joylashgan.",
+      "ru": "Руины одного из крупнейших оазисов Великого шёлкового пути. Здесь рядом лежат несколько городов разных эпох.",
+      "en": "Ruins of one of the greatest oases on the Silk Road, where several cities from different eras lie side by side."
+    },
+    "history": {
+      "uz": "Marv vohasida ming yillar davomida bir-biriga qo‘shni shaharlar — Erk qal’a, G‘yaur qal’a, Sulton qal’a va boshqalar qurilgan. Saljuqiylar davrida Marv sultonlik poytaxtlaridan biri bo‘lib, o‘z davrining eng katta shaharlaridan biriga aylangan. 1221-yilda mo‘g‘ullar shaharni vayron qilgan.",
+      "ru": "В Мервском оазисе тысячелетиями возникали соседние города — Эрк-Кала, Гяур-Кала, Султан-Кала и другие. При Сельджуках Мерв был одной из столиц султаната и одним из крупнейших городов своего времени. В 1221 году город разрушили монголы.",
+      "en": "Over millennia, neighbouring cities — Erk Kala, Gyaur Kala, Sultan Kala and others — rose in the Merv oasis. Under the Seljuks, Merv was one of the sultanate’s capitals and among the largest cities of its age. The Mongols destroyed it in 1221."
+    },
+    "facts": [
+      {
+        "uz": "Sulton Sanjar maqbarasi (XII asr) Marvning eng mashhur saqlanib qolgan binosi.",
+        "ru": "Мавзолей султана Санджара (XII век) — самое известное сохранившееся здание Мерва.",
+        "en": "The Mausoleum of Sultan Sanjar (12th century) is Merv’s best-known surviving building."
+      },
+      {
+        "uz": "Marv 1999-yilda UNESCO ro‘yxatiga kiritilgan.",
+        "ru": "Мерв внесён в список ЮНЕСКО в 1999 году.",
+        "en": "Merv was inscribed by UNESCO in 1999."
+      },
+      {
+        "uz": "Shahar Ipak yo‘lidagi Eron va Movarounnahr o‘rtasidagi muhim chorraha bo‘lgan.",
+        "ru": "Город был ключевым перекрёстком Шёлкового пути между Ираном и Мавераннахром.",
+        "en": "It was a key Silk Road crossroads between Iran and Transoxiana."
+      }
+    ],
+    "bestSeason": {
+      "uz": "May–iyun va sentabr–oktabr",
+      "ru": "Май–июнь и сентябрь–октябрь",
+      "en": "May–June and September–October"
+    },
+    "airport": "MYP",
+    "wikimediaQuery": "Merv Turkmenistan",
+    "tags": [
+      "silk road",
+      "seljuk",
+      "archaeology"
+    ]
+  },
+  {
+    "hours": null,
+    "price": null,
+    "id": "kashgar-id-kah",
+    "country": "CN",
+    "city": {
+      "uz": "Qashqar",
+      "ru": "Кашгар",
+      "en": "Kashgar"
+    },
+    "lat": 39.4727,
+    "lng": 75.9887,
+    "category": "religious",
+    "unesco": false,
+    "name": {
+      "uz": "Qashqar va Hayitgoh masjidi",
+      "ru": "Кашгар и мечеть Ид Ках",
+      "en": "Kashgar & Id Kah Mosque"
+    },
+    "era": {
+      "uz": "1442 (masjid)",
+      "ru": "1442 (мечеть)",
+      "en": "1442 (mosque)"
+    },
+    "short": {
+      "uz": "Ipak yo‘lining sharqiy darvozasi bo‘lgan qadimiy shahar va uning markazidagi katta Hayitgoh masjidi.",
+      "ru": "Древний город — восточные ворота Шёлкового пути — и большая мечеть Ид Ках в его центре.",
+      "en": "An ancient city that was the eastern gateway of the Silk Road, with the great Id Kah Mosque at its heart."
+    },
+    "history": {
+      "uz": "Qashqar ming yillar davomida Xitoy, Markaziy Osiyo va Hindiston yo‘llari kesishgan savdo markazi bo‘lgan. Hayitgoh masjidi 1442-yilda qurilgan va keyinchalik kengaytirilgan. Qashqarda XI asrda «Devonu lug‘otit turk» muallifi Mahmud Koshg‘ariy va «Qutadg‘u bilig» muallifi Yusuf Xos Hojib ijod qilgan.",
+      "ru": "Кашгар тысячелетиями был торговым центром на пересечении путей из Китая, Центральной Азии и Индии. Мечеть Ид Ках построена в 1442 году и позднее расширялась. В XI веке с Кашгаром связаны Махмуд Кашгари, автор «Дивана тюркских языков», и Юсуф Хас Хаджиб, автор «Кутадгу билиг».",
+      "en": "For millennia Kashgar was a trading hub where routes from China, Central Asia and India met. The Id Kah Mosque was built in 1442 and later enlarged. In the 11th century the city was linked with Mahmud al-Kashgari, author of the “Compendium of the Turkic Dialects”, and Yusuf Khass Hajib, author of the “Kutadgu Bilig”."
+    },
+    "facts": [
+      {
+        "uz": "Hayitgoh Xitoydagi eng katta masjidlardan biri hisoblanadi.",
+        "ru": "Ид Ках считается одной из крупнейших мечетей Китая.",
+        "en": "Id Kah is considered one of the largest mosques in China."
+      },
+      {
+        "uz": "Qashqar bozori asrlar davomida Ipak yo‘lining eng mashhur bozorlaridan biri bo‘lgan.",
+        "ru": "Кашгарский базар веками был одним из самых знаменитых на Шёлковом пути.",
+        "en": "Kashgar’s bazaar was for centuries one of the most famous on the Silk Road."
+      },
+      {
+        "uz": "Shahar Pomir va Tyan-Shan tog‘lari etagida joylashgan.",
+        "ru": "Город лежит у подножия Памира и Тянь-Шаня.",
+        "en": "The city lies at the foot of the Pamir and Tian Shan ranges."
+      }
+    ],
+    "bestSeason": {
+      "uz": "May–iyun va sentabr–oktabr",
+      "ru": "Май–июнь и сентябрь–октябрь",
+      "en": "May–June and September–October"
+    },
+    "airport": "KHG",
+    "wikimediaQuery": "Id Kah Mosque Kashgar",
+    "tags": [
+      "silk road",
+      "uyghur",
+      "bazaar"
+    ]
+  },
+  {
+    "hours": null,
+    "price": null,
+    "id": "hagia-sophia",
+    "country": "TR",
+    "city": {
+      "uz": "Istanbul",
+      "ru": "Стамбул",
+      "en": "Istanbul"
+    },
+    "lat": 41.0086,
+    "lng": 28.9802,
+    "category": "religious",
+    "unesco": true,
+    "name": {
+      "uz": "Ayasofya",
+      "ru": "Айя-София",
+      "en": "Hagia Sophia"
+    },
+    "era": {
+      "uz": "532–537",
+      "ru": "532–537",
+      "en": "532–537"
+    },
+    "short": {
+      "uz": "Vizantiya me’morchiligining durdonasi — ming yildan ko‘proq vaqt davomida dunyodagi eng katta ibodatxonalardan biri.",
+      "ru": "Шедевр византийской архитектуры, более тысячи лет остававшийся одним из крупнейших храмов мира.",
+      "en": "A masterpiece of Byzantine architecture that for over a thousand years was one of the largest places of worship in the world."
+    },
+    "history": {
+      "uz": "Ayasofya imperator Yustinian I davrida 532–537-yillarda qurilgan. 1453-yilda Usmonlilar Konstantinopolni egallagach, u masjidga aylantirilgan. 1934-yildan muzey bo‘lgan, 2020-yilda yana masjid maqomini olgan.",
+      "ru": "Айя-София построена при императоре Юстиниане I в 532–537 годах. После взятия Константинополя османами в 1453 году храм превратили в мечеть. С 1934 года здесь был музей, а в 2020 году здание вновь стало мечетью.",
+      "en": "Hagia Sophia was built under Emperor Justinian I in 532–537. After the Ottomans took Constantinople in 1453 it became a mosque. It served as a museum from 1934 and was converted back into a mosque in 2020."
+    },
+    "facts": [
+      {
+        "uz": "Uning ulkan gumbazi ostidagi derazalar gumbazni «havoda suzib yurgandek» ko‘rsatadi.",
+        "ru": "Ряд окон у основания купола создаёт впечатление, что он «парит» в воздухе.",
+        "en": "The ring of windows at its base makes the huge dome seem to float."
+      },
+      {
+        "uz": "Ichkarida Vizantiya mozaikalari va Usmonli xattotlik lavhalari yonma-yon turadi.",
+        "ru": "Внутри византийские мозаики соседствуют с османскими каллиграфическими медальонами.",
+        "en": "Inside, Byzantine mosaics sit alongside Ottoman calligraphic roundels."
+      },
+      {
+        "uz": "Istanbulning tarixiy hududlari 1985-yilda UNESCO ro‘yxatiga kiritilgan.",
+        "ru": "Исторические районы Стамбула внесены в список ЮНЕСКО в 1985 году.",
+        "en": "The Historic Areas of Istanbul were inscribed by UNESCO in 1985."
+      }
+    ],
+    "bestSeason": {
+      "uz": "Aprel–iyun va sentabr–oktabr",
+      "ru": "Апрель–июнь и сентябрь–октябрь",
+      "en": "April–June and September–October"
+    },
+    "airport": "IST",
+    "wikimediaQuery": "Hagia Sophia interior",
+    "tags": [
+      "istanbul",
+      "byzantine",
+      "silk road"
+    ]
+  },
+  {
+    "hours": null,
+    "price": null,
+    "id": "terracotta-army",
+    "country": "CN",
+    "city": {
+      "uz": "Sian",
+      "ru": "Сиань",
+      "en": "Xi’an"
+    },
+    "lat": 34.3853,
+    "lng": 109.2785,
+    "category": "historic",
+    "unesco": true,
+    "name": {
+      "uz": "Terrakota armiyasi",
+      "ru": "Терракотовая армия",
+      "en": "Terracotta Army"
+    },
+    "era": {
+      "uz": "Mil. avv. III asr",
+      "ru": "III век до н. э.",
+      "en": "3rd century BC"
+    },
+    "short": {
+      "uz": "Xitoyning birinchi imperatori Sin Shixuandi maqbarasini «qo‘riqlayotgan» minglab loy askarlar.",
+      "ru": "Тысячи глиняных воинов, «охраняющих» гробницу первого императора Китая Цинь Шихуанди.",
+      "en": "Thousands of clay soldiers “guarding” the tomb of China’s first emperor, Qin Shi Huang."
+    },
+    "history": {
+      "uz": "Haykallar imperator Sin Shixuandi (mil. avv. 210-yilda vafot etgan) maqbara majmuasining bir qismi sifatida yasalgan. Ular 1974-yilda quduq qazayotgan dehqonlar tomonidan tasodifan topilgan. Sian (qadimgi Chan’an) Ipak yo‘lining sharqiy boshlanish nuqtasi hisoblanadi.",
+      "ru": "Статуи изготовлены как часть погребального комплекса императора Цинь Шихуанди (умер в 210 году до н. э.). Их случайно обнаружили в 1974 году крестьяне, копавшие колодец. Сиань (древний Чанъань) считается восточной начальной точкой Шёлкового пути.",
+      "en": "The figures were made as part of the burial complex of Emperor Qin Shi Huang, who died in 210 BC. Farmers digging a well found them by chance in 1974. Xi’an (ancient Chang’an) is regarded as the eastern starting point of the Silk Road."
+    },
+    "facts": [
+      {
+        "uz": "Askarlarning yuz qiyofalari bir-biridan farq qiladi.",
+        "ru": "Лица воинов отличаются друг от друга.",
+        "en": "The soldiers’ faces differ from one another."
+      },
+      {
+        "uz": "Dastlab haykallar rang-barang bo‘yalgan, bo‘yoqlar havoga chiqqach tezda o‘chib ketgan.",
+        "ru": "Изначально статуи были ярко раскрашены, но краска быстро тускнела на воздухе.",
+        "en": "The figures were originally brightly painted; the pigment faded quickly once exposed to air."
+      },
+      {
+        "uz": "Imperator maqbarasining o‘zi hali ham ochilmagan.",
+        "ru": "Сама гробница императора до сих пор не вскрыта.",
+        "en": "The emperor’s tomb mound itself has still not been opened."
+      }
+    ],
+    "bestSeason": {
+      "uz": "Aprel–may va sentabr–oktabr",
+      "ru": "Апрель–май и сентябрь–октябрь",
+      "en": "April–May and September–October"
+    },
+    "airport": "XIY",
+    "wikimediaQuery": "Terracotta Army Xian",
+    "tags": [
+      "china",
+      "qin",
+      "archaeology",
+      "silk road"
+    ]
+  },
+  {
+    "hours": null,
+    "price": null,
+    "id": "mogao-caves",
+    "country": "CN",
+    "city": {
+      "uz": "Dunxuan",
+      "ru": "Дуньхуан",
+      "en": "Dunhuang"
+    },
+    "lat": 40.0372,
+    "lng": 94.8044,
+    "category": "religious",
+    "unesco": true,
+    "name": {
+      "uz": "Mogao g‘orlari",
+      "ru": "Пещеры Могао",
+      "en": "Mogao Caves"
+    },
+    "era": {
+      "uz": "IV–XIV asrlar",
+      "ru": "IV–XIV века",
+      "en": "4th–14th centuries"
+    },
+    "short": {
+      "uz": "Cho‘l chetidagi qoyaga o‘yilgan yuzlab buddaviy g‘or-ibodatxonalar — Ipak yo‘li san’atining xazinasi.",
+      "ru": "Сотни буддийских пещерных храмов, вырубленных в скале на краю пустыни, — сокровищница искусства Шёлкового пути.",
+      "en": "Hundreds of Buddhist cave temples cut into a cliff at the desert’s edge — a treasure house of Silk Road art."
+    },
+    "history": {
+      "uz": "G‘orlar ming yil davomida Dunxuan vohasida rohiblar va homiylar tomonidan o‘yilgan va devoriy rasmlar bilan bezatilgan. 1900-yilda «Kutubxona g‘ori» topilgan, unda o‘n minglab qadimiy qo‘lyozmalar saqlangan. 1987-yilda Mogao UNESCO ro‘yxatiga kiritilgan.",
+      "ru": "На протяжении тысячи лет монахи и меценаты вырубали пещеры в оазисе Дуньхуан и расписывали их фресками. В 1900 году была обнаружена «Библиотечная пещера» с десятками тысяч древних рукописей. В 1987 году Могао внесены в список ЮНЕСКО.",
+      "en": "Over a thousand years, monks and patrons in the Dunhuang oasis carved the caves and covered them with murals. In 1900 the “Library Cave” was found, holding tens of thousands of ancient manuscripts. Mogao was inscribed by UNESCO in 1987."
+    },
+    "facts": [
+      {
+        "uz": "Kutubxona g‘oridan topilgan «Olmos sutra» (868-yil) sanasi aniq bo‘lgan eng qadimiy bosma kitob hisoblanadi.",
+        "ru": "Найденная там «Алмазная сутра» (868 год) считается древнейшей датированной печатной книгой.",
+        "en": "The Diamond Sutra found there (868 AD) is considered the oldest dated printed book."
+      },
+      {
+        "uz": "G‘orlarda ming yillik buddaviy devoriy rasmlar saqlangan.",
+        "ru": "В пещерах сохранились буддийские фрески за целое тысячелетие.",
+        "en": "The caves preserve a thousand years of Buddhist murals."
+      },
+      {
+        "uz": "Yaqin atrofda «Kuylovchi qum» barxanlari va Oyparcha ko‘li bor.",
+        "ru": "Рядом — «Поющие пески» и озеро Полумесяца.",
+        "en": "Nearby are the Singing Sand Dunes and Crescent Lake."
+      }
+    ],
+    "bestSeason": {
+      "uz": "May–iyun va sentabr–oktabr",
+      "ru": "Май–июнь и сентябрь–октябрь",
+      "en": "May–June and September–October"
+    },
+    "airport": "DNH",
+    "wikimediaQuery": "Mogao Caves Dunhuang",
+    "tags": [
+      "buddhism",
+      "silk road",
+      "murals"
+    ]
+  },
+  {
+    "hours": null,
+    "price": null,
+    "id": "naqsh-e-jahan",
+    "country": "IR",
+    "city": {
+      "uz": "Isfahon",
+      "ru": "Исфахан",
+      "en": "Isfahan"
+    },
+    "lat": 32.6575,
+    "lng": 51.6777,
+    "category": "historic",
+    "unesco": true,
+    "name": {
+      "uz": "Naqshi Jahon maydoni",
+      "ru": "Площадь Накш-е Джахан",
+      "en": "Naqsh-e Jahan Square"
+    },
+    "era": {
+      "uz": "1598–1629",
+      "ru": "1598–1629",
+      "en": "1598–1629"
+    },
+    "short": {
+      "uz": "Safaviylar poytaxti Isfahondagi ulkan maydon — atrofida masjidlar, saroy va qadimiy bozor joylashgan.",
+      "ru": "Огромная площадь в сафавидской столице Исфахане, окружённая мечетями, дворцом и старинным базаром.",
+      "en": "A vast square in the Safavid capital of Isfahan, framed by mosques, a palace and an old bazaar."
+    },
+    "history": {
+      "uz": "Maydon Shoh Abbos I davrida, poytaxt Isfahonga ko‘chirilgach barpo etilgan. Uning atrofida Shoh (Imom) masjidi, Shayx Lutfulloh masjidi, Oliy Qopu saroyi va Qaysariya bozori darvozasi joylashgan. Maydon 1979-yilda UNESCO ro‘yxatiga kiritilgan.",
+      "ru": "Площадь создана при шахе Аббасе I после переноса столицы в Исфахан. По её сторонам стоят Шахская (Имама) мечеть, мечеть шейха Лотфоллы, дворец Али-Капу и ворота базара Кейсарие. В 1979 году площадь включена в список ЮНЕСКО.",
+      "en": "The square was laid out under Shah Abbas I after he moved the capital to Isfahan. Around it stand the Shah (Imam) Mosque, the Sheikh Lotfollah Mosque, the Ali Qapu Palace and the gate of the Qeysarieh Bazaar. It was inscribed by UNESCO in 1979."
+    },
+    "facts": [
+      {
+        "uz": "Maydon dunyodagi eng katta shahar maydonlaridan biri.",
+        "ru": "Это одна из крупнейших городских площадей мира.",
+        "en": "It is one of the largest city squares in the world."
+      },
+      {
+        "uz": "Qadimda maydonda chavgon (polo) o‘yinlari o‘tkazilgan.",
+        "ru": "Когда-то на площади играли в поло.",
+        "en": "Polo matches were once played on the square."
+      },
+      {
+        "uz": "Isfahon haqida «Isfahon — dunyoning yarmi» degan mashhur ibora bor.",
+        "ru": "Об Исфахане говорят: «Исфахан — половина мира».",
+        "en": "A famous saying goes: “Isfahan is half the world.”"
+      }
+    ],
+    "bestSeason": {
+      "uz": "Mart–may va sentabr–noyabr",
+      "ru": "Март–май и сентябрь–ноябрь",
+      "en": "March–May and September–November"
+    },
+    "airport": "IFN",
+    "wikimediaQuery": "Naqsh-e Jahan Square Isfahan",
+    "tags": [
+      "iran",
+      "safavid",
+      "mosque"
+    ]
+  },
+  {
+    "hours": null,
+    "price": null,
+    "id": "persepolis",
+    "country": "IR",
+    "city": {
+      "uz": "Sheroz yaqinida",
+      "ru": "близ Шираза",
+      "en": "near Shiraz"
+    },
+    "lat": 29.9355,
+    "lng": 52.8916,
+    "category": "historic",
+    "unesco": true,
+    "name": {
+      "uz": "Persepol",
+      "ru": "Персеполь",
+      "en": "Persepolis"
+    },
+    "era": {
+      "uz": "Mil. avv. 518-yildan",
+      "ru": "С 518 года до н. э.",
+      "en": "From 518 BC"
+    },
+    "short": {
+      "uz": "Ahamaniylar imperiyasining tantanali poytaxti xarobalari. Toshga o‘yilgan relyeflari bilan mashhur.",
+      "ru": "Руины церемониальной столицы державы Ахеменидов, знаменитые каменными рельефами.",
+      "en": "Ruins of the ceremonial capital of the Achaemenid Empire, famed for its stone reliefs."
+    },
+    "history": {
+      "uz": "Persepol qurilishi mil. avv. 518-yil atrofida Doro I davrida boshlangan va uning vorislari davrida davom etgan. Mil. avv. 330-yilda Iskandar Zulqarnayn shaharni egallab, saroylarni yoqib yuborgan. 1979-yilda Persepol UNESCO ro‘yxatiga kiritilgan.",
+      "ru": "Строительство Персеполя началось около 518 года до н. э. при Дарии I и продолжалось при его преемниках. В 330 году до н. э. город захватил Александр Македонский и сжёг дворцы. В 1979 году Персеполь внесён в список ЮНЕСКО.",
+      "en": "Construction began around 518 BC under Darius I and continued under his successors. In 330 BC Alexander the Great captured the city and burned its palaces. Persepolis was inscribed by UNESCO in 1979."
+    },
+    "facts": [
+      {
+        "uz": "Apadana zinapoyasi relyeflarida imperiyaning turli xalqlari sovg‘a olib kelayotgani tasvirlangan.",
+        "ru": "На рельефах лестницы Ападаны изображены народы империи, несущие дары.",
+        "en": "Reliefs on the Apadana staircase show delegations from across the empire bearing gifts."
+      },
+      {
+        "uz": "«Barcha xalqlar darvozasi» Kserks I davrida qurilgan.",
+        "ru": "«Ворота всех народов» построены при Ксерксе I.",
+        "en": "The “Gate of All Nations” was built under Xerxes I."
+      },
+      {
+        "uz": "Yaqinidagi Naqshi Rustamda Ahamaniy shohlarining qoyaga o‘yilgan qabrlari bor.",
+        "ru": "Неподалёку, в Накш-е Рустаме, находятся высеченные в скале гробницы ахеменидских царей.",
+        "en": "Nearby Naqsh-e Rostam holds the rock-cut tombs of Achaemenid kings."
+      }
+    ],
+    "bestSeason": {
+      "uz": "Mart–may va sentabr–noyabr",
+      "ru": "Март–май и сентябрь–ноябрь",
+      "en": "March–May and September–November"
+    },
+    "airport": "SYZ",
+    "wikimediaQuery": "Persepolis Apadana",
+    "tags": [
+      "iran",
+      "achaemenid",
+      "archaeology"
+    ]
+  },
+  {
+    "hours": null,
+    "price": null,
+    "id": "yasawi-mausoleum",
+    "country": "KZ",
+    "city": {
+      "uz": "Turkiston",
+      "ru": "Туркестан",
+      "en": "Turkistan"
+    },
+    "lat": 43.2931,
+    "lng": 68.27,
+    "category": "religious",
+    "unesco": true,
+    "name": {
+      "uz": "Xo‘ja Ahmad Yassaviy maqbarasi",
+      "ru": "Мавзолей Ходжи Ахмеда Ясави",
+      "en": "Mausoleum of Khoja Ahmed Yasawi"
+    },
+    "era": {
+      "uz": "1389–1405 (tugallanmagan)",
+      "ru": "1389–1405 (не завершён)",
+      "en": "1389–1405 (unfinished)"
+    },
+    "short": {
+      "uz": "Amir Temur buyrug‘i bilan qurilgan ulkan maqbara — Temuriylar me’morchiligining eng yirik namunalaridan biri.",
+      "ru": "Огромный мавзолей, построенный по приказу Амира Тимура, — один из крупнейших памятников тимуридской архитектуры.",
+      "en": "A monumental shrine commissioned by Amir Timur — one of the largest examples of Timurid architecture."
+    },
+    "history": {
+      "uz": "Maqbara XII asrda yashagan so‘fiy shoir Xo‘ja Ahmad Yassaviy qabri ustiga qurilgan. Qurilish Temur buyrug‘i bilan 1389-yilda boshlangan, ammo 1405-yilda uning vafoti sababli to‘liq tugallanmagan. 2003-yilda maqbara UNESCO ro‘yxatiga kiritilgan.",
+      "ru": "Мавзолей возведён над могилой суфийского поэта XII века Ходжи Ахмеда Ясави. Строительство началось по приказу Тимура в 1389 году, но из-за его смерти в 1405 году так и не было полностью завершено. В 2003 году мавзолей внесён в список ЮНЕСКО.",
+      "en": "The shrine stands over the grave of the 12th-century Sufi poet Khoja Ahmed Yasawi. Timur ordered its construction in 1389, but it was never fully completed because of his death in 1405. It was inscribed by UNESCO in 2003."
+    },
+    "facts": [
+      {
+        "uz": "Ichkarida 1399-yilda quyilgan ulkan bronza qozon (taykazan) bor.",
+        "ru": "Внутри стоит огромный бронзовый котёл (тайказан), отлитый в 1399 году.",
+        "en": "Inside stands a huge bronze cauldron (taikazan) cast in 1399."
+      },
+      {
+        "uz": "Bosh peshtoq hali ham tugallanmagan ko‘rinishda turibdi.",
+        "ru": "Главный портал до сих пор стоит незавершённым.",
+        "en": "The main portal still stands unfinished."
+      },
+      {
+        "uz": "Yassaviyning «Devoni hikmat» asari turkiy so‘fiylik adabiyotining muhim namunasi.",
+        "ru": "«Диван-и Хикмет» Ясави — важный памятник тюркской суфийской литературы.",
+        "en": "Yasawi’s “Divan-i Hikmet” is a key work of Turkic Sufi literature."
+      }
+    ],
+    "bestSeason": {
+      "uz": "Aprel–may va sentabr–oktabr (yozda juda issiq)",
+      "ru": "Апрель–май и сентябрь–октябрь (летом очень жарко)",
+      "en": "April–May and September–October (summers are very hot)"
+    },
+    "airport": "HSA",
+    "wikimediaQuery": "Mausoleum of Khoja Ahmed Yasawi",
+    "tags": [
+      "kazakhstan",
+      "timur",
+      "sufi",
+      "silk road"
+    ]
+  },
+  {
+    "hours": null,
+    "price": null,
+    "id": "burana-tower",
+    "country": "KG",
+    "city": {
+      "uz": "To‘qmoq yaqinida",
+      "ru": "близ Токмока",
+      "en": "near Tokmok"
+    },
+    "lat": 42.7466,
+    "lng": 75.25,
+    "category": "historic",
+    "unesco": true,
+    "name": {
+      "uz": "Burana minorasi",
+      "ru": "Башня Бурана",
+      "en": "Burana Tower"
+    },
+    "era": {
+      "uz": "XI asr",
+      "ru": "XI век",
+      "en": "11th century"
+    },
+    "short": {
+      "uz": "Qoraxoniylar poytaxti Bolasog‘un qoldiqlari orasida turgan qadimiy minora. Atrofida tosh haykallar — balballar bor.",
+      "ru": "Древний минарет среди остатков караханидской столицы Баласагун. Вокруг стоят каменные изваяния — балбалы.",
+      "en": "An ancient minaret among the remains of the Karakhanid capital Balasagun, surrounded by carved stone figures called balbals."
+    },
+    "history": {
+      "uz": "Minora XI asrda Bolasog‘un shahrida qurilgan. Dastlab u ancha baland bo‘lgan, biroq zilzilalar natijasida yuqori qismi qulagan. Bolasog‘un 2014-yilda «Ipak yo‘llari: Chan’an–Tyan-Shan yo‘laklari tarmog‘i» UNESCO obyekti tarkibiga kiritilgan.",
+      "ru": "Минарет построен в XI веке в городе Баласагун. Первоначально он был значительно выше, но верхняя часть обрушилась при землетрясениях. В 2014 году Баласагун вошёл в объект ЮНЕСКО «Шёлковый путь: сеть маршрутов Чанъань — Тянь-Шаньского коридора».",
+      "en": "The minaret was built in the 11th century in the city of Balasagun. It was originally much taller, but its upper part collapsed in earthquakes. In 2014 Balasagun became part of the UNESCO site “Silk Roads: the Routes Network of Chang’an–Tianshan Corridor”."
+    },
+    "facts": [
+      {
+        "uz": "Minora tepasiga ichki zinapoya orqali chiqish mumkin.",
+        "ru": "На вершину башни можно подняться по внутренней лестнице.",
+        "en": "You can climb to the top by an internal staircase."
+      },
+      {
+        "uz": "Balballar — turkiy davrga oid qabrtosh haykallar.",
+        "ru": "Балбалы — надгробные изваяния тюркской эпохи.",
+        "en": "Balbals are grave statues from the early Turkic period."
+      },
+      {
+        "uz": "Minora Chuy vodiysida, tog‘lar fonida joylashgan.",
+        "ru": "Башня стоит в Чуйской долине на фоне гор.",
+        "en": "The tower stands in the Chüy Valley against a mountain backdrop."
+      }
+    ],
+    "bestSeason": {
+      "uz": "May–iyun va sentabr–oktabr",
+      "ru": "Май–июнь и сентябрь–октябрь",
+      "en": "May–June and September–October"
+    },
+    "airport": "FRU",
+    "wikimediaQuery": "Burana Tower",
+    "tags": [
+      "kyrgyzstan",
+      "karakhanid",
+      "silk road"
+    ]
+  },
+  {
+    "hours": null,
+    "price": null,
+    "id": "umayyad-mosque",
+    "country": "SY",
+    "city": {
+      "uz": "Damashq",
+      "ru": "Дамаск",
+      "en": "Damascus"
+    },
+    "lat": 33.5116,
+    "lng": 36.3066,
+    "category": "religious",
+    "unesco": true,
+    "name": {
+      "uz": "Umaviylar masjidi",
+      "ru": "Мечеть Омейядов",
+      "en": "Umayyad Mosque"
+    },
+    "era": {
+      "uz": "705–715",
+      "ru": "705–715",
+      "en": "705–715"
+    },
+    "short": {
+      "uz": "Dunyodagi eng qadimiy va eng katta masjidlardan biri. Oltin mozaikalari bilan mashhur.",
+      "ru": "Одна из старейших и крупнейших мечетей мира, знаменитая золотыми мозаиками.",
+      "en": "One of the oldest and largest mosques in the world, famous for its golden mosaics."
+    },
+    "history": {
+      "uz": "Masjid Umaviy xalifasi Valid I davrida qurilgan. U avval Rim ibodatxonasi, keyin Yahyo payg‘ambar (Iohann Krestitel) nomidagi cherkov turgan joyda joylashgan. Qadimiy Damashq shahri 1979-yilda UNESCO ro‘yxatiga kiritilgan.",
+      "ru": "Мечеть построена при омейядском халифе аль-Валиде I. Она стоит на месте римского храма, а затем — базилики Иоанна Крестителя. Древний город Дамаск внесён в список ЮНЕСКО в 1979 году.",
+      "en": "The mosque was built under the Umayyad caliph al-Walid I. It stands on the site of a Roman temple and, later, a basilica of John the Baptist. The Ancient City of Damascus was inscribed by UNESCO in 1979."
+    },
+    "facts": [
+      {
+        "uz": "Masjid ichida Yahyo payg‘ambarga bag‘ishlangan ziyoratgoh bor.",
+        "ru": "Внутри находится святилище, посвящённое Иоанну Крестителю (пророку Яхье).",
+        "en": "Inside is a shrine dedicated to John the Baptist (the prophet Yahya)."
+      },
+      {
+        "uz": "Masjid yonida Salohiddin Ayyubiy maqbarasi joylashgan.",
+        "ru": "Рядом с мечетью находится мавзолей Салах ад-Дина.",
+        "en": "The tomb of Saladin lies next to the mosque."
+      },
+      {
+        "uz": "Sayohatdan oldin hududdagi xavfsizlik holatini rasmiy manbalardan tekshiring.",
+        "ru": "Перед поездкой уточните ситуацию с безопасностью в официальных источниках.",
+        "en": "Check official travel advisories for the region before visiting."
+      }
+    ],
+    "bestSeason": {
+      "uz": "Aprel–iyun va sentabr–oktabr",
+      "ru": "Апрель–июнь и сентябрь–октябрь",
+      "en": "April–June and September–October"
+    },
+    "airport": "DAM",
+    "wikimediaQuery": "Umayyad Mosque Damascus",
+    "tags": [
+      "syria",
+      "umayyad",
+      "mosaic",
+      "silk road"
+    ]
+  },
+  {
+    "hours": null,
+    "price": null,
+    "id": "giza-pyramids",
+    "country": "EG",
+    "city": {
+      "uz": "Giza",
+      "ru": "Гиза",
+      "en": "Giza"
+    },
+    "lat": 29.9792,
+    "lng": 31.1342,
+    "category": "historic",
+    "unesco": true,
+    "name": {
+      "uz": "Giza ehromlari",
+      "ru": "Пирамиды Гизы",
+      "en": "Pyramids of Giza"
+    },
+    "era": {
+      "uz": "Mil. avv. XXVI asr",
+      "ru": "XXVI век до н. э.",
+      "en": "26th century BC"
+    },
+    "short": {
+      "uz": "Qadimgi Misr fir’avnlarining ulkan maqbaralari. Qadimgi dunyoning yetti mo‘jizasidan bugungacha saqlanib qolgan yagonasi.",
+      "ru": "Гигантские гробницы фараонов Древнего Египта — единственное сохранившееся из семи чудес древнего мира.",
+      "en": "Colossal tombs of the pharaohs of ancient Egypt — the only one of the Seven Wonders of the Ancient World still standing."
+    },
+    "history": {
+      "uz": "Uchta asosiy ehrom fir’avnlar Xufu (Xeops), Xafra va Menkaura uchun qurilgan. Eng kattasi — Xufu ehromi — taxminan 3800 yil davomida dunyodagi eng baland inshoot bo‘lib qolgan. Yonida mashhur Abulhavl (Sfinks) haykali joylashgan.",
+      "ru": "Три главные пирамиды построены для фараонов Хуфу (Хеопса), Хафра и Менкаура. Самая большая — пирамида Хуфу — около 3800 лет оставалась самым высоким сооружением в мире. Рядом находится знаменитый Большой сфинкс.",
+      "en": "The three main pyramids were built for the pharaohs Khufu, Khafre and Menkaure. The largest, Khufu’s Great Pyramid, remained the tallest structure on Earth for about 3,800 years. The Great Sphinx stands nearby."
+    },
+    "facts": [
+      {
+        "uz": "Buyuk ehrom millionlab tosh bloklardan qurilgan.",
+        "ru": "Великая пирамида сложена из миллионов каменных блоков.",
+        "en": "The Great Pyramid is built from millions of stone blocks."
+      },
+      {
+        "uz": "Ehromlar to‘rt tomoni dunyo tomonlariga juda aniq yo‘naltirilgan.",
+        "ru": "Стороны пирамид очень точно ориентированы по сторонам света.",
+        "en": "Their sides are aligned remarkably precisely with the cardinal directions."
+      },
+      {
+        "uz": "Memfis va uning nekropoli 1979-yilda UNESCO ro‘yxatiga kiritilgan.",
+        "ru": "Мемфис и его некрополь внесены в список ЮНЕСКО в 1979 году.",
+        "en": "Memphis and its Necropolis were inscribed by UNESCO in 1979."
+      }
+    ],
+    "bestSeason": {
+      "uz": "Oktabr–aprel (salqinroq oylar)",
+      "ru": "Октябрь–апрель (более прохладные месяцы)",
+      "en": "October–April (cooler months)"
+    },
+    "airport": "CAI",
+    "wikimediaQuery": "Giza pyramids",
+    "tags": [
+      "egypt",
+      "pharaoh",
+      "wonder"
+    ]
+  },
+  {
+    "hours": null,
+    "price": null,
+    "id": "petra",
+    "country": "JO",
+    "city": {
+      "uz": "Vodiy Muso",
+      "ru": "Вади-Муса",
+      "en": "Wadi Musa"
+    },
+    "lat": 30.3285,
+    "lng": 35.4444,
+    "category": "historic",
+    "unesco": true,
+    "name": {
+      "uz": "Petra",
+      "ru": "Петра",
+      "en": "Petra"
+    },
+    "era": {
+      "uz": "Mil. avv. IV asr – milodiy I asr",
+      "ru": "IV век до н. э. – I век н. э.",
+      "en": "4th century BC – 1st century AD"
+    },
+    "short": {
+      "uz": "Qizil qoyalarga o‘yilgan nabatiylar shahri. Al-Xazna («Xazina») binosi dunyoga mashhur.",
+      "ru": "Город набатеев, высеченный в красных скалах. Всемирно известно здание Аль-Хазне («Сокровищница»).",
+      "en": "A Nabataean city carved into rose-red cliffs, home to the world-famous Al-Khazneh (“the Treasury”)."
+    },
+    "history": {
+      "uz": "Petra nabatiylar podshohligining poytaxti va karvon yo‘llaridagi muhim savdo markazi bo‘lgan. Milodiy 106-yilda u Rim imperiyasi tarkibiga kirgan. 1812-yilda shveytsariyalik sayyoh Iogann Lyudvig Burkxardt Petrani Yevropa uchun «qayta kashf etgan».",
+      "ru": "Петра была столицей Набатейского царства и важным торговым центром на караванных путях. В 106 году н. э. она вошла в состав Римской империи. В 1812 году швейцарский путешественник Иоганн Людвиг Буркхардт «открыл» Петру для Европы.",
+      "en": "Petra was the capital of the Nabataean kingdom and a major trading hub on caravan routes. In 106 AD it was absorbed into the Roman Empire. In 1812 the Swiss traveller Johann Ludwig Burckhardt “rediscovered” it for Europe."
+    },
+    "facts": [
+      {
+        "uz": "Shaharga Siq deb ataluvchi tor qoyali dara orqali kiriladi.",
+        "ru": "В город ведёт узкое скальное ущелье Сик.",
+        "en": "The city is entered through a narrow rock gorge called the Siq."
+      },
+      {
+        "uz": "Nabatiylar murakkab suv yig‘ish va taqsimlash tizimini yaratgan.",
+        "ru": "Набатеи создали сложную систему сбора и распределения воды.",
+        "en": "The Nabataeans built a sophisticated system to collect and channel water."
+      },
+      {
+        "uz": "Petra 2007-yilda «Dunyoning yangi yetti mo‘jizasi»dan biri deb e’lon qilingan.",
+        "ru": "В 2007 году Петра названа одним из «новых семи чудес света».",
+        "en": "In 2007 Petra was named one of the “New Seven Wonders of the World”."
+      }
+    ],
+    "bestSeason": {
+      "uz": "Mart–may va sentabr–noyabr",
+      "ru": "Март–май и сентябрь–ноябрь",
+      "en": "March–May and September–November"
+    },
+    "airport": "AMM",
+    "wikimediaQuery": "Petra Al-Khazneh",
+    "tags": [
+      "jordan",
+      "nabataean",
+      "wonder"
+    ]
+  },
+  {
+    "hours": null,
+    "price": null,
+    "id": "machu-picchu",
+    "country": "PE",
+    "city": {
+      "uz": "Kusko viloyati",
+      "ru": "регион Куско",
+      "en": "Cusco Region"
+    },
+    "lat": -13.1631,
+    "lng": -72.545,
+    "category": "historic",
+    "unesco": true,
+    "name": {
+      "uz": "Machu-Pikchu",
+      "ru": "Мачу-Пикчу",
+      "en": "Machu Picchu"
+    },
+    "era": {
+      "uz": "XV asr",
+      "ru": "XV век",
+      "en": "15th century"
+    },
+    "short": {
+      "uz": "And tog‘lari cho‘qqisidagi inklar shahri. Bulutlar orasidagi tosh teraslar bilan mashhur.",
+      "ru": "Город инков на вершине в Андах, знаменитый каменными террасами среди облаков.",
+      "en": "An Inca citadel high in the Andes, famous for its stone terraces among the clouds."
+    },
+    "history": {
+      "uz": "Machu-Pikchu XV asr o‘rtalarida, ehtimol inka hukmdori Pachakuti davrida qurilgan. Ispan bosqinidan keyin shahar tashlab ketilgan va ispanlar uni topmagan. 1911-yilda amerikalik tadqiqotchi Xayram Bingem uni xalqaro jamoatchilikka tanitgan.",
+      "ru": "Мачу-Пикчу построен в середине XV века, вероятно, при правителе инков Пачакутеке. После испанского завоевания город опустел, а испанцы его так и не нашли. В 1911 году американский исследователь Хайрам Бингем познакомил с ним мир.",
+      "en": "Machu Picchu was built in the mid-15th century, probably under the Inca ruler Pachacuti. It was abandoned after the Spanish conquest and the Spanish never found it. In 1911 the American explorer Hiram Bingham brought it to international attention."
+    },
+    "facts": [
+      {
+        "uz": "Inklar toshlarni qorishmasiz shunday aniq terganki, orasiga pichoq tig‘i ham kirmaydi.",
+        "ru": "Инки клали камни без раствора так плотно, что между ними не пройдёт лезвие ножа.",
+        "en": "The Inca fitted stones without mortar so tightly that a knife blade cannot slip between them."
+      },
+      {
+        "uz": "Shahar dengiz sathidan taxminan 2400 metr balandlikda joylashgan.",
+        "ru": "Город расположен на высоте около 2400 метров над уровнем моря.",
+        "en": "The site lies at roughly 2,400 metres above sea level."
+      },
+      {
+        "uz": "Machu-Pikchu 1983-yilda UNESCO ro‘yxatiga kiritilgan.",
+        "ru": "Мачу-Пикчу внесён в список ЮНЕСКО в 1983 году.",
+        "en": "Machu Picchu was inscribed by UNESCO in 1983."
+      }
+    ],
+    "bestSeason": {
+      "uz": "May–sentabr (quruq mavsum)",
+      "ru": "Май–сентябрь (сухой сезон)",
+      "en": "May–September (dry season)"
+    },
+    "airport": "CUZ",
+    "wikimediaQuery": "Machu Picchu",
+    "tags": [
+      "peru",
+      "inca",
+      "andes",
+      "wonder"
+    ]
+  },
+  {
+    "hours": null,
+    "price": null,
+    "id": "great-wall",
+    "country": "CN",
+    "city": {
+      "uz": "Pekin (Badaling)",
+      "ru": "Пекин (Бадалин)",
+      "en": "Beijing (Badaling)"
+    },
+    "lat": 40.3597,
+    "lng": 116.02,
+    "category": "historic",
+    "unesco": true,
+    "name": {
+      "uz": "Buyuk Xitoy devori",
+      "ru": "Великая Китайская стена",
+      "en": "Great Wall of China"
+    },
+    "era": {
+      "uz": "Mil. avv. VII asr – milodiy XVII asr",
+      "ru": "VII век до н. э. – XVII век н. э.",
+      "en": "7th century BC – 17th century AD"
+    },
+    "short": {
+      "uz": "Shimoliy chegaralarni himoya qilish uchun asrlar davomida qurilgan devorlar tizimi. Badaling — eng mashhur qismi.",
+      "ru": "Система стен, веками возводившаяся для защиты северных рубежей. Бадалин — самый известный участок.",
+      "en": "A system of walls built over centuries to guard China’s northern frontiers; Badaling is its most famous section."
+    },
+    "history": {
+      "uz": "Ilk devorlar mil. avv. VII asrdan qurila boshlagan, mil. avv. 221-yildan keyin Sin Shixuandi ularni birlashtirgan. Bugun ko‘rinadigan g‘isht va toshdan qurilgan qismlarning aksariyati Min sulolasi davriga (1368–1644) tegishli. Devor 1987-yilda UNESCO ro‘yxatiga kiritilgan.",
+      "ru": "Первые стены начали строить с VII века до н. э., а после 221 года до н. э. Цинь Шихуанди объединил их. Большинство сохранившихся кирпичных и каменных участков относится к эпохе Мин (1368–1644). Стена внесена в список ЮНЕСКО в 1987 году.",
+      "en": "The earliest walls date from the 7th century BC, and after 221 BC Qin Shi Huang linked them together. Most of the brick-and-stone sections seen today date from the Ming dynasty (1368–1644). The wall was inscribed by UNESCO in 1987."
+    },
+    "facts": [
+      {
+        "uz": "Devorni Oydan oddiy ko‘z bilan ko‘rib bo‘lmaydi — bu keng tarqalgan afsona.",
+        "ru": "Стену нельзя увидеть с Луны невооружённым глазом — это распространённый миф.",
+        "en": "The wall is not visible from the Moon with the naked eye — a popular myth."
+      },
+      {
+        "uz": "Devor qismlarining umumiy uzunligi 20 ming kilometrdan ortiq deb baholanadi.",
+        "ru": "Общая длина всех участков стены оценивается более чем в 20 тысяч километров.",
+        "en": "All its sections together are estimated at more than 20,000 kilometres."
+      },
+      {
+        "uz": "Devordagi minoralarda signal gulxanlari yoqilgan.",
+        "ru": "На сторожевых башнях зажигали сигнальные огни.",
+        "en": "Signal fires were lit on its watchtowers."
+      }
+    ],
+    "bestSeason": {
+      "uz": "Aprel–may va sentabr–oktabr",
+      "ru": "Апрель–май и сентябрь–октябрь",
+      "en": "April–May and September–October"
+    },
+    "airport": "PEK",
+    "wikimediaQuery": "Great Wall of China Badaling",
+    "tags": [
+      "china",
+      "ming",
+      "wonder"
+    ]
+  },
+  {
+    "hours": null,
+    "price": null,
+    "id": "taj-mahal",
+    "country": "IN",
+    "city": {
+      "uz": "Agra",
+      "ru": "Агра",
+      "en": "Agra"
+    },
+    "lat": 27.1751,
+    "lng": 78.0421,
+    "category": "historic",
+    "unesco": true,
+    "name": {
+      "uz": "Toj Mahal",
+      "ru": "Тадж-Махал",
+      "en": "Taj Mahal"
+    },
+    "era": {
+      "uz": "1632–1653",
+      "ru": "1632–1653",
+      "en": "1632–1653"
+    },
+    "short": {
+      "uz": "Boburiy podshoh Shoh Jahon sevimli rafiqasi xotirasiga qurdirgan oq marmar maqbara — muhabbat ramzi.",
+      "ru": "Мавзолей из белого мрамора, построенный падишахом Шах-Джаханом в память о любимой жене, — символ любви.",
+      "en": "A white-marble mausoleum built by the Mughal emperor Shah Jahan in memory of his beloved wife — a symbol of love."
+    },
+    "history": {
+      "uz": "Toj Mahal 1631-yilda vafot etgan Mumtoz Mahal uchun qurilgan; Shoh Jahon Bobur avlodidan edi. Asosiy maqbara 1640-yillarda tayyor bo‘lgan, butun majmua esa 1653-yil atrofida yakunlangan. Keyinchalik Shoh Jahonning o‘zi ham shu yerda dafn etilgan.",
+      "ru": "Тадж-Махал построен для Мумтаз-Махал, умершей в 1631 году; Шах-Джахан был потомком Бабура. Основной мавзолей был готов в 1640-х, а весь комплекс завершён около 1653 года. Позднее здесь был похоронен и сам Шах-Джахан.",
+      "en": "The Taj Mahal was built for Mumtaz Mahal, who died in 1631; Shah Jahan was a descendant of Babur. The main tomb was ready in the 1640s and the whole complex was completed around 1653. Shah Jahan himself was later buried here."
+    },
+    "facts": [
+      {
+        "uz": "Marmar kun davomida yorug‘likka qarab pushti, oq va oltin tusga kiradi.",
+        "ru": "В течение дня мрамор меняет оттенок — от розового до белого и золотистого.",
+        "en": "The marble shifts from pink to white to gold as the light changes through the day."
+      },
+      {
+        "uz": "Boburiylar me’morchiligiga Samarqanddagi Temuriylar binolari kuchli ta’sir ko‘rsatgan.",
+        "ru": "На архитектуру Великих Моголов сильно повлияли тимуридские постройки Самарканда.",
+        "en": "Mughal architecture was strongly influenced by Timurid buildings in Samarkand."
+      },
+      {
+        "uz": "Marmar devorlarga qimmatbaho toshlar bilan naqsh (pietra dura) ishlangan.",
+        "ru": "Мраморные стены инкрустированы драгоценными камнями (техника пьетра-дура).",
+        "en": "The marble walls are inlaid with semi-precious stones (pietra dura)."
+      }
+    ],
+    "bestSeason": {
+      "uz": "Oktabr–mart",
+      "ru": "Октябрь–март",
+      "en": "October–March"
+    },
+    "airport": "DEL",
+    "wikimediaQuery": "Taj Mahal",
+    "tags": [
+      "india",
+      "mughal",
+      "babur",
+      "wonder"
+    ]
+  },
+  {
+    "hours": null,
+    "price": null,
+    "id": "colosseum",
+    "country": "IT",
+    "city": {
+      "uz": "Rim",
+      "ru": "Рим",
+      "en": "Rome"
+    },
+    "lat": 41.8902,
+    "lng": 12.4922,
+    "category": "historic",
+    "unesco": true,
+    "name": {
+      "uz": "Kolizey",
+      "ru": "Колизей",
+      "en": "Colosseum"
+    },
+    "era": {
+      "uz": "Milodiy 70–80-yillar",
+      "ru": "70–80 годы н. э.",
+      "en": "70–80 AD"
+    },
+    "short": {
+      "uz": "Qadimgi Rimning eng katta amfiteatri — gladiatorlar janglari bo‘lib o‘tgan joy.",
+      "ru": "Крупнейший амфитеатр Древнего Рима, где проходили бои гладиаторов.",
+      "en": "The largest amphitheatre of ancient Rome, where gladiator contests were staged."
+    },
+    "history": {
+      "uz": "Kolizey qurilishini imperator Vespasian boshlagan va uning o‘g‘li Tit milodiy 80-yilda yakunlagan. Amfiteatr o‘n minglab tomoshabinni sig‘dirgan. O‘rta asrlarda zilzilalar va toshlarni boshqa binolar uchun olib ketish uni qisman vayron qilgan.",
+      "ru": "Строительство Колизея начал император Веспасиан, а завершил его сын Тит в 80 году н. э. Амфитеатр вмещал десятки тысяч зрителей. В Средние века землетрясения и разбор камня на другие постройки частично разрушили его.",
+      "en": "Emperor Vespasian began the Colosseum and his son Titus completed it in 80 AD. It held tens of thousands of spectators. In the Middle Ages earthquakes and stone-robbing for other buildings left it partly ruined."
+    },
+    "facts": [
+      {
+        "uz": "Arena ostida hayvonlar va gladiatorlar kutadigan yerosti yo‘laklari (gipogey) bo‘lgan.",
+        "ru": "Под ареной был подземный комплекс (гипогей) для зверей и гладиаторов.",
+        "en": "Beneath the arena was a network of tunnels (the hypogeum) for animals and gladiators."
+      },
+      {
+        "uz": "Tomoshabinlarni quyoshdan himoya qilish uchun ustiga ulkan soyabon (velarium) tortilgan.",
+        "ru": "Над трибунами натягивали огромный тент (веларий) от солнца.",
+        "en": "A huge awning (the velarium) could be stretched over the seats for shade."
+      },
+      {
+        "uz": "Rimning tarixiy markazi 1980-yilda UNESCO ro‘yxatiga kiritilgan.",
+        "ru": "Исторический центр Рима внесён в список ЮНЕСКО в 1980 году.",
+        "en": "The Historic Centre of Rome was inscribed by UNESCO in 1980."
+      }
+    ],
+    "bestSeason": {
+      "uz": "Aprel–iyun va sentabr–oktabr",
+      "ru": "Апрель–июнь и сентябрь–октябрь",
+      "en": "April–June and September–October"
+    },
+    "airport": "FCO",
+    "wikimediaQuery": "Colosseum Rome",
+    "tags": [
+      "italy",
+      "roman",
+      "wonder"
+    ]
+  },
+  {
+    "hours": null,
+    "price": null,
+    "id": "acropolis",
+    "country": "GR",
+    "city": {
+      "uz": "Afina",
+      "ru": "Афины",
+      "en": "Athens"
+    },
+    "lat": 37.9715,
+    "lng": 23.7257,
+    "category": "historic",
+    "unesco": true,
+    "name": {
+      "uz": "Afina Akropoli",
+      "ru": "Афинский Акрополь",
+      "en": "Acropolis of Athens"
+    },
+    "era": {
+      "uz": "Mil. avv. V asr",
+      "ru": "V век до н. э.",
+      "en": "5th century BC"
+    },
+    "short": {
+      "uz": "Afina ustidagi qoyali tepalik va undagi Parfenon ibodatxonasi — qadimgi yunon madaniyatining ramzi.",
+      "ru": "Скалистый холм над Афинами с храмом Парфенон — символ древнегреческой культуры.",
+      "en": "The rocky hill above Athens crowned by the Parthenon — a symbol of ancient Greek civilisation."
+    },
+    "history": {
+      "uz": "Akropoldagi asosiy binolar mil. avv. V asrda Perikl davrida qurilgan. Parfenon ma’buda Afinaga bag‘ishlangan va mil. avv. 447–432-yillarda bunyod etilgan; haykaltarosh Fidiy bezaklar ustida ishlagan. Akropol 1987-yilda UNESCO ro‘yxatiga kiritilgan.",
+      "ru": "Главные постройки Акрополя возведены в V веке до н. э. при Перикле. Парфенон посвящён богине Афине и построен в 447–432 годах до н. э.; над скульптурным убранством работал Фидий. Акрополь внесён в список ЮНЕСКО в 1987 году.",
+      "en": "The Acropolis’s main buildings were raised in the 5th century BC under Pericles. The Parthenon, dedicated to the goddess Athena, was built in 447–432 BC, with sculptural work overseen by Phidias. The Acropolis was inscribed by UNESCO in 1987."
+    },
+    "facts": [
+      {
+        "uz": "Parfenon ustunlari ko‘zga to‘g‘ri ko‘rinishi uchun ataylab biroz qiyshiq qilingan.",
+        "ru": "Колонны Парфенона специально слегка искривлены, чтобы казаться прямыми.",
+        "en": "The Parthenon’s columns are subtly curved so that they look perfectly straight."
+      },
+      {
+        "uz": "Erexteyon ibodatxonasida ayol haykallari ko‘rinishidagi ustunlar — kariatidalar bor.",
+        "ru": "У храма Эрехтейон есть колонны в виде женских фигур — кариатиды.",
+        "en": "The Erechtheion has columns shaped as female figures — the Caryatids."
+      },
+      {
+        "uz": "Tepalik etagida zamonaviy Akropol muzeyi joylashgan.",
+        "ru": "У подножия холма находится современный музей Акрополя.",
+        "en": "The modern Acropolis Museum stands at the foot of the hill."
+      }
+    ],
+    "bestSeason": {
+      "uz": "Aprel–iyun va sentabr–oktabr",
+      "ru": "Апрель–июнь и сентябрь–октябрь",
+      "en": "April–June and September–October"
+    },
+    "airport": "ATH",
+    "wikimediaQuery": "Parthenon Acropolis Athens",
+    "tags": [
+      "greece",
+      "ancient",
+      "temple"
+    ]
+  },
+  {
+    "hours": null,
+    "price": null,
+    "id": "angkor-wat",
+    "country": "KH",
+    "city": {
+      "uz": "Siem Riap",
+      "ru": "Сиемреап",
+      "en": "Siem Reap"
+    },
+    "lat": 13.4125,
+    "lng": 103.867,
+    "category": "religious",
+    "unesco": true,
+    "name": {
+      "uz": "Angkor-Vat",
+      "ru": "Ангкор-Ват",
+      "en": "Angkor Wat"
+    },
+    "era": {
+      "uz": "XII asr boshi",
+      "ru": "Начало XII века",
+      "en": "Early 12th century"
+    },
+    "short": {
+      "uz": "Dunyodagi eng katta diniy inshoot. Kxmer imperiyasining shon-shuhrati ramzi.",
+      "ru": "Крупнейшее религиозное сооружение в мире и символ величия Кхмерской империи.",
+      "en": "The largest religious monument in the world and a symbol of the Khmer Empire’s glory."
+    },
+    "history": {
+      "uz": "Angkor-Vat kxmer podshohi Suryavarman II davrida qurilgan va dastlab hind xudosi Vishnuga bag‘ishlangan. Keyinchalik u buddaviylik ibodatxonasiga aylangan. Angkor hududi 1992-yilda UNESCO ro‘yxatiga kiritilgan.",
+      "ru": "Ангкор-Ват построен при кхмерском царе Сурьявармане II и изначально посвящён индуистскому богу Вишну. Позднее храм стал буддийским. Территория Ангкора внесена в список ЮНЕСКО в 1992 году.",
+      "en": "Angkor Wat was built under the Khmer king Suryavarman II and originally dedicated to the Hindu god Vishnu. It later became a Buddhist temple. The Angkor area was inscribed by UNESCO in 1992."
+    },
+    "facts": [
+      {
+        "uz": "Ibodatxona tasviri Kambodja davlat bayrog‘ida aks etgan.",
+        "ru": "Изображение храма помещено на государственный флаг Камбоджи.",
+        "en": "The temple appears on Cambodia’s national flag."
+      },
+      {
+        "uz": "Ibodatxona keng suv xandaqi bilan o‘ralgan.",
+        "ru": "Храм окружён широким рвом с водой.",
+        "en": "The temple is surrounded by a wide moat."
+      },
+      {
+        "uz": "Galereya devorlaridagi barelyeflar yuzlab metrga cho‘zilgan.",
+        "ru": "Барельефы на стенах галерей тянутся на сотни метров.",
+        "en": "The bas-reliefs along its galleries stretch for hundreds of metres."
+      }
+    ],
+    "bestSeason": {
+      "uz": "Noyabr–mart (quruq mavsum)",
+      "ru": "Ноябрь–март (сухой сезон)",
+      "en": "November–March (dry season)"
+    },
+    "airport": "SAI",
+    "wikimediaQuery": "Angkor Wat",
+    "tags": [
+      "cambodia",
+      "khmer",
+      "temple"
+    ]
+  },
+  {
+    "hours": null,
+    "price": null,
+    "id": "eiffel-tower",
+    "country": "FR",
+    "city": {
+      "uz": "Parij",
+      "ru": "Париж",
+      "en": "Paris"
+    },
+    "lat": 48.8584,
+    "lng": 2.2945,
+    "category": "historic",
+    "unesco": true,
+    "name": {
+      "uz": "Eyfel minorasi",
+      "ru": "Эйфелева башня",
+      "en": "Eiffel Tower"
+    },
+    "era": {
+      "uz": "1887–1889",
+      "ru": "1887–1889",
+      "en": "1887–1889"
+    },
+    "short": {
+      "uz": "Parijning ramzi bo‘lgan temir minora. 1889-yilgi Butunjahon ko‘rgazmasi uchun qurilgan.",
+      "ru": "Железная башня — символ Парижа, построенная к Всемирной выставке 1889 года.",
+      "en": "The wrought-iron symbol of Paris, built for the 1889 World’s Fair."
+    },
+    "history": {
+      "uz": "Minora Gyustav Eyfel kompaniyasi tomonidan Fransuz inqilobining 100 yilligiga bag‘ishlangan ko‘rgazma uchun qurilgan. Dastlab ko‘plab rassom va yozuvchilar unga qarshi chiqqan. 1930-yilgacha u dunyodagi eng baland inshoot bo‘lgan.",
+      "ru": "Башню построила компания Гюстава Эйфеля к выставке, посвящённой 100-летию Французской революции. Поначалу многие художники и писатели выступали против неё. До 1930 года она была самым высоким сооружением в мире.",
+      "en": "Gustave Eiffel’s company built the tower for the exhibition marking the centenary of the French Revolution. At first many artists and writers protested against it. It was the tallest structure in the world until 1930."
+    },
+    "facts": [
+      {
+        "uz": "Minora metall bo‘lgani uchun issiq kunlarda bir necha santimetrga uzayadi.",
+        "ru": "В жаркие дни металлическая башня «вырастает» на несколько сантиметров.",
+        "en": "Being metal, the tower grows a few centimetres taller on hot days."
+      },
+      {
+        "uz": "Minora muntazam ravishda qayta bo‘yab turiladi.",
+        "ru": "Башню регулярно перекрашивают.",
+        "en": "The tower is repainted at regular intervals."
+      },
+      {
+        "uz": "Sena qirg‘oqlari (Parij) 1991-yilda UNESCO ro‘yxatiga kiritilgan va minora shu hududda joylashgan.",
+        "ru": "Берега Сены в Париже внесены в список ЮНЕСКО в 1991 году; башня входит в эту зону.",
+        "en": "The Banks of the Seine in Paris, which include the tower, were inscribed by UNESCO in 1991."
+      }
+    ],
+    "bestSeason": {
+      "uz": "May–sentabr",
+      "ru": "Май–сентябрь",
+      "en": "May–September"
+    },
+    "airport": "CDG",
+    "wikimediaQuery": "Eiffel Tower Paris",
+    "tags": [
+      "france",
+      "paris",
+      "iron"
+    ]
+  },
+  {
+    "hours": null,
+    "price": null,
+    "id": "chichen-itza",
+    "country": "MX",
+    "city": {
+      "uz": "Yukatan",
+      "ru": "Юкатан",
+      "en": "Yucatán"
+    },
+    "lat": 20.6843,
+    "lng": -88.5678,
+    "category": "historic",
+    "unesco": true,
+    "name": {
+      "uz": "Chichen-Itsa",
+      "ru": "Чичен-Ица",
+      "en": "Chichén Itzá"
+    },
+    "era": {
+      "uz": "Taxminan VI–XIII asrlar",
+      "ru": "Примерно VI–XIII века",
+      "en": "About 6th–13th centuries"
+    },
+    "short": {
+      "uz": "Mayya tsivilizatsiyasining yirik shahri. Kukulkan piramidasi (El Kastilyo) uning ramzi.",
+      "ru": "Крупный город цивилизации майя; его символ — пирамида Кукулькана (Эль-Кастильо).",
+      "en": "A great city of the Maya civilisation, symbolised by the Pyramid of Kukulcán (El Castillo)."
+    },
+    "history": {
+      "uz": "Chichen-Itsa Yukatan yarimorolidagi eng qudratli mayya markazlaridan biri bo‘lgan. Shahar me’morchiligida turli mintaqaviy uslublar uyg‘unlashgan. 1988-yilda u UNESCO ro‘yxatiga, 2007-yilda esa «Dunyoning yangi yetti mo‘jizasi» qatoriga kiritilgan.",
+      "ru": "Чичен-Ица был одним из самых могущественных центров майя на полуострове Юкатан. В архитектуре города сочетаются разные региональные стили. В 1988 году он внесён в список ЮНЕСКО, а в 2007 году вошёл в число «новых семи чудес света».",
+      "en": "Chichén Itzá was one of the most powerful Maya centres on the Yucatán Peninsula. Its architecture blends several regional styles. It was inscribed by UNESCO in 1988 and named one of the “New Seven Wonders” in 2007."
+    },
+    "facts": [
+      {
+        "uz": "Kunduz va tun tenglashgan kunlarda piramida zinapoyasida «sudralayotgan ilon» soyasi paydo bo‘ladi.",
+        "ru": "В дни равноденствия на лестнице пирамиды появляется тень «ползущего змея».",
+        "en": "At the equinoxes, a shadow like a “descending serpent” appears on the pyramid’s stairway."
+      },
+      {
+        "uz": "Piramida mayya kalendariga oid ramziy raqamlar asosida loyihalangan deb hisoblanadi.",
+        "ru": "Считается, что пирамида спроектирована с символикой календаря майя.",
+        "en": "The pyramid is thought to encode symbolism from the Maya calendar."
+      },
+      {
+        "uz": "Shaharda Mesoamerikadagi eng katta to‘p o‘yini maydonlaridan biri bor.",
+        "ru": "Здесь находится одно из крупнейших полей для игры в мяч в Мезоамерике.",
+        "en": "It has one of the largest ball courts in Mesoamerica."
+      }
+    ],
+    "bestSeason": {
+      "uz": "Noyabr–aprel",
+      "ru": "Ноябрь–апрель",
+      "en": "November–April"
+    },
+    "airport": "CUN",
+    "wikimediaQuery": "Chichen Itza El Castillo",
+    "tags": [
+      "mexico",
+      "maya",
+      "wonder"
+    ]
+  },
+  {
+    "hours": null,
+    "price": null,
+    "id": "stonehenge",
+    "country": "GB",
+    "city": {
+      "uz": "Uiltshir",
+      "ru": "Уилтшир",
+      "en": "Wiltshire"
+    },
+    "lat": 51.1789,
+    "lng": -1.8262,
+    "category": "historic",
+    "unesco": true,
+    "name": {
+      "uz": "Stounhenj",
+      "ru": "Стоунхендж",
+      "en": "Stonehenge"
+    },
+    "era": {
+      "uz": "Mil. avv. 3000–1500-yillar atrofida",
+      "ru": "Около 3000–1500 гг. до н. э.",
+      "en": "About 3000–1500 BC"
+    },
+    "short": {
+      "uz": "Tarixdan oldingi davrga oid ulkan tosh doira — dunyodagi eng mashhur megalitik yodgorlik.",
+      "ru": "Огромный каменный круг доисторической эпохи — самый известный мегалитический памятник мира.",
+      "en": "A great prehistoric stone circle — the most famous megalithic monument in the world."
+    },
+    "history": {
+      "uz": "Stounhenj bir necha bosqichda, taxminan ming yildan ko‘proq vaqt davomida qurilgan. Katta sarsen toshlari yaqin atrofdan, kichikroq «ko‘k toshlar» esa Uelsdagi Preseli tepaliklaridan keltirilgan. 1986-yilda yodgorlik UNESCO ro‘yxatiga kiritilgan.",
+      "ru": "Стоунхендж строился в несколько этапов на протяжении более тысячи лет. Крупные сарсеновые камни привезены из окрестностей, а более мелкие «голубые камни» — с холмов Пресели в Уэльсе. В 1986 году памятник внесён в список ЮНЕСКО.",
+      "en": "Stonehenge was built in several phases over more than a thousand years. The large sarsen stones came from the surrounding area, while the smaller “bluestones” were brought from the Preseli Hills in Wales. It was inscribed by UNESCO in 1986."
+    },
+    "facts": [
+      {
+        "uz": "Toshlar yozgi va qishki quyosh turish kunlaridagi quyosh chiqishi va botishiga yo‘naltirilgan.",
+        "ru": "Камни ориентированы на восход и закат солнца в дни солнцестояний.",
+        "en": "The stones are aligned with sunrise and sunset at the solstices."
+      },
+      {
+        "uz": "Ko‘k toshlar 200 kilometrdan ortiq masofadan olib kelingan.",
+        "ru": "«Голубые камни» доставлены с расстояния более 200 километров.",
+        "en": "The bluestones were transported more than 200 kilometres."
+      },
+      {
+        "uz": "Yodgorlikning asl vazifasi hanuzgacha bahs mavzusi.",
+        "ru": "Истинное назначение памятника до сих пор остаётся предметом споров.",
+        "en": "Its original purpose is still debated."
+      }
+    ],
+    "bestSeason": {
+      "uz": "May–sentabr",
+      "ru": "Май–сентябрь",
+      "en": "May–September"
+    },
+    "airport": "LHR",
+    "wikimediaQuery": "Stonehenge",
+    "tags": [
+      "uk",
+      "prehistoric",
+      "megalith"
+    ]
+  },
+  {
+    "hours": null,
+    "price": null,
+    "id": "louvre",
+    "country": "FR",
+    "city": {
+      "uz": "Parij",
+      "ru": "Париж",
+      "en": "Paris"
+    },
+    "lat": 48.8606,
+    "lng": 2.3376,
+    "category": "museum",
+    "unesco": true,
+    "name": {
+      "uz": "Luvr muzeyi",
+      "ru": "Лувр",
+      "en": "Louvre Museum"
+    },
+    "era": {
+      "uz": "1793 (muzey sifatida)",
+      "ru": "1793 (как музей)",
+      "en": "1793 (as a museum)"
+    },
+    "short": {
+      "uz": "Dunyodagi eng ko‘p tashrif buyuriladigan muzey. Bu yerda «Mona Liza» saqlanadi.",
+      "ru": "Самый посещаемый музей мира, где хранится «Мона Лиза».",
+      "en": "The world’s most visited museum and home of the Mona Lisa."
+    },
+    "history": {
+      "uz": "Luvr dastlab XII asr oxirida qal’a sifatida qurilgan, keyinchalik fransuz qirollarining saroyiga aylangan. 1793-yilda, Fransuz inqilobi davrida, u ommaviy muzey sifatida ochilgan. 1989-yilda hovlisida me’mor I. M. Pey loyihasi bo‘yicha shisha piramida qurilgan.",
+      "ru": "Лувр был построен в конце XII века как крепость, а затем стал дворцом французских королей. В 1793 году, во время Французской революции, он открылся как публичный музей. В 1989 году во дворе появилась стеклянная пирамида архитектора Бэй Юймина.",
+      "en": "The Louvre began as a fortress in the late 12th century and later became a royal palace. It opened as a public museum in 1793, during the French Revolution. In 1989 the glass pyramid designed by I. M. Pei was added to its courtyard."
+    },
+    "facts": [
+      {
+        "uz": "Muzeyda «Milosslik Venera» va «Samofrakiya Nikasi» haykallari ham saqlanadi.",
+        "ru": "Здесь также хранятся «Венера Милосская» и «Ника Самофракийская».",
+        "en": "It also holds the Venus de Milo and the Winged Victory of Samothrace."
+      },
+      {
+        "uz": "Yerto‘ladagi ekspozitsiyada o‘rta asr qal’asining poydevorlarini ko‘rish mumkin.",
+        "ru": "В подвальной экспозиции можно увидеть фундаменты средневековой крепости.",
+        "en": "In the basement you can see the foundations of the medieval fortress."
+      },
+      {
+        "uz": "Muzey Sena qirg‘og‘ida, UNESCO ro‘yxatidagi hududda joylashgan.",
+        "ru": "Музей стоит на берегу Сены, в зоне объекта ЮНЕСКО.",
+        "en": "It stands on the Seine within the UNESCO-listed riverbank area."
+      }
+    ],
+    "bestSeason": {
+      "uz": "May–sentabr",
+      "ru": "Май–сентябрь",
+      "en": "May–September"
+    },
+    "airport": "CDG",
+    "wikimediaQuery": "Louvre Pyramid",
+    "tags": [
+      "france",
+      "paris",
+      "art"
+    ]
+  },
+  {
+    "hours": null,
+    "price": {
+      "uz": "Doimiy ekspozitsiyaga kirish bepul; vaqtinchalik ko‘rgazmalar pullik bo‘lishi mumkin",
+      "ru": "Вход в постоянную экспозицию бесплатный; временные выставки могут быть платными",
+      "en": "Free entry to the permanent collection; temporary exhibitions may charge"
+    },
+    "id": "british-museum",
+    "country": "GB",
+    "city": {
+      "uz": "London",
+      "ru": "Лондон",
+      "en": "London"
+    },
+    "lat": 51.5194,
+    "lng": -0.127,
+    "category": "museum",
+    "unesco": false,
+    "name": {
+      "uz": "Britaniya muzeyi",
+      "ru": "Британский музей",
+      "en": "British Museum"
+    },
+    "era": {
+      "uz": "1753 (asos solingan)",
+      "ru": "1753 (основан)",
+      "en": "1753 (founded)"
+    },
+    "short": {
+      "uz": "Insoniyat tarixi va madaniyatiga bag‘ishlangan dunyodagi eng yirik muzeylardan biri.",
+      "ru": "Один из крупнейших в мире музеев истории и культуры человечества.",
+      "en": "One of the world’s greatest museums of human history and culture."
+    },
+    "history": {
+      "uz": "Muzeyga 1753-yilda olim Xans Sloun kolleksiyasi asosida asos solingan va 1759-yilda tashrif buyuruvchilar uchun ochilgan. Bugungi bino XIX asrda qurilgan. 2000-yilda markaziy hovli shisha tom bilan yopilib, «Buyuk sud» deb ataladigan maydonga aylantirilgan.",
+      "ru": "Музей основан в 1753 году на основе коллекции учёного Ханса Слоана и открыт для посетителей в 1759 году. Нынешнее здание построено в XIX веке. В 2000 году центральный двор перекрыли стеклянной крышей, создав Большой двор.",
+      "en": "The museum was founded in 1753 on the collection of the scientist Hans Sloane and opened to visitors in 1759. Its present building dates from the 19th century. In 2000 the central courtyard was covered with a glass roof to create the Great Court."
+    },
+    "facts": [
+      {
+        "uz": "Bu yerda Misr iyerogliflarini o‘qishga yordam bergan Rozetta toshi saqlanadi.",
+        "ru": "Здесь хранится Розеттский камень, позволивший расшифровать египетские иероглифы.",
+        "en": "It holds the Rosetta Stone, which helped decipher Egyptian hieroglyphs."
+      },
+      {
+        "uz": "Muzey kolleksiyasi millionlab buyumlardan iborat.",
+        "ru": "Коллекция музея насчитывает миллионы предметов.",
+        "en": "Its collection numbers millions of objects."
+      },
+      {
+        "uz": "Muzeyda qadimgi Ossuriya relyeflari va Misr mumiyolari ham bor.",
+        "ru": "В музее есть ассирийские рельефы и египетские мумии.",
+        "en": "It also displays Assyrian reliefs and Egyptian mummies."
+      }
+    ],
+    "bestSeason": {
+      "uz": "May–sentabr",
+      "ru": "Май–сентябрь",
+      "en": "May–September"
+    },
+    "airport": "LHR",
+    "wikimediaQuery": "British Museum Great Court",
+    "tags": [
+      "uk",
+      "london",
+      "history"
+    ]
+  },
+  {
+    "hours": null,
+    "price": null,
+    "id": "hermitage",
+    "country": "RU",
+    "city": {
+      "uz": "Sankt-Peterburg",
+      "ru": "Санкт-Петербург",
+      "en": "Saint Petersburg"
+    },
+    "lat": 59.9398,
+    "lng": 30.3146,
+    "category": "museum",
+    "unesco": true,
+    "name": {
+      "uz": "Ermitaj",
+      "ru": "Государственный Эрмитаж",
+      "en": "State Hermitage Museum"
+    },
+    "era": {
+      "uz": "1764 (asos solingan)",
+      "ru": "1764 (основан)",
+      "en": "1764 (founded)"
+    },
+    "short": {
+      "uz": "Qishki saroy va qo‘shni binolarda joylashgan ulkan san’at muzeyi — dunyodagi eng yiriklardan biri.",
+      "ru": "Огромный художественный музей в Зимнем дворце и соседних зданиях — один из крупнейших в мире.",
+      "en": "A vast art museum in the Winter Palace and neighbouring buildings — one of the largest in the world."
+    },
+    "history": {
+      "uz": "Ermitajga 1764-yilda imperatritsa Yekaterina II G‘arbiy Yevropa rasmlari to‘plamini sotib olgach asos solgan. Muzey asosiy binosi — rus imperatorlarining qarorgohi bo‘lgan Qishki saroy. Sankt-Peterburgning tarixiy markazi 1990-yilda UNESCO ro‘yxatiga kiritilgan.",
+      "ru": "Эрмитаж основан в 1764 году, когда императрица Екатерина II приобрела коллекцию западноевропейской живописи. Главное здание музея — Зимний дворец, бывшая резиденция российских императоров. Исторический центр Санкт-Петербурга внесён в список ЮНЕСКО в 1990 году.",
+      "en": "The Hermitage was founded in 1764 when Empress Catherine II acquired a collection of Western European paintings. Its main building is the Winter Palace, the former residence of the Russian emperors. The Historic Centre of Saint Petersburg was inscribed by UNESCO in 1990."
+    },
+    "facts": [
+      {
+        "uz": "Muzeyda yashaydigan mushuklar an’anaviy ravishda yerto‘lalarni kemiruvchilardan qo‘riqlaydi.",
+        "ru": "Знаменитые эрмитажные коты традиционно охраняют подвалы от грызунов.",
+        "en": "The museum’s famous cats traditionally guard its basements from rodents."
+      },
+      {
+        "uz": "Kolleksiya millionlab eksponatlardan iborat.",
+        "ru": "Коллекция насчитывает миллионы экспонатов.",
+        "en": "The collection numbers in the millions of items."
+      },
+      {
+        "uz": "Ermitajda O‘rta Osiyo, jumladan, Samarqand va Panjikent topilmalari ham saqlanadi.",
+        "ru": "В Эрмитаже хранятся и находки из Средней Азии, в том числе из Самарканда и Пенджикента.",
+        "en": "It also holds finds from Central Asia, including Samarkand and Panjakent."
+      }
+    ],
+    "bestSeason": {
+      "uz": "May–sentabr; iyunda — «oq tunlar»",
+      "ru": "Май–сентябрь; в июне — «белые ночи»",
+      "en": "May–September; “White Nights” in June"
+    },
+    "airport": "LED",
+    "wikimediaQuery": "Winter Palace Hermitage",
+    "tags": [
+      "russia",
+      "art",
+      "palace"
+    ]
+  },
+  {
+    "hours": null,
+    "price": null,
+    "id": "st-peters-basilica",
+    "country": "VA",
+    "city": {
+      "uz": "Vatikan",
+      "ru": "Ватикан",
+      "en": "Vatican City"
+    },
+    "lat": 41.9022,
+    "lng": 12.4539,
+    "category": "religious",
+    "unesco": true,
+    "name": {
+      "uz": "Avliyo Pyotr bazilikasi",
+      "ru": "Собор Святого Петра",
+      "en": "St. Peter’s Basilica"
+    },
+    "era": {
+      "uz": "1506–1626",
+      "ru": "1506–1626",
+      "en": "1506–1626"
+    },
+    "short": {
+      "uz": "Katolik olamining bosh ibodatxonasi va Uyg‘onish davri me’morchiligining cho‘qqisi.",
+      "ru": "Главный храм католического мира и вершина архитектуры эпохи Возрождения.",
+      "en": "The principal church of the Catholic world and a pinnacle of Renaissance architecture."
+    },
+    "history": {
+      "uz": "Hozirgi bazilika qurilishi 1506-yilda boshlanib, 1626-yilda muqaddaslangan. Loyiha ustida Bramante, Mikelanjelo, Bernini kabi ustalar ishlagan; ulkan gumbazni Mikelanjelo loyihalagan. Vatikan — dunyodagi eng kichik mustaqil davlat, u butunlay UNESCO ro‘yxatiga kiritilgan.",
+      "ru": "Строительство нынешнего собора началось в 1506 году, освящён он в 1626 году. Над проектом работали Браманте, Микеланджело, Бернини; огромный купол спроектировал Микеланджело. Ватикан — самое маленькое независимое государство мира, целиком внесённое в список ЮНЕСКО.",
+      "en": "Work on the present basilica began in 1506 and it was consecrated in 1626. Bramante, Michelangelo and Bernini all worked on it; Michelangelo designed the great dome. Vatican City, the world’s smallest independent state, is listed by UNESCO in its entirety."
+    },
+    "facts": [
+      {
+        "uz": "Ichkarida Mikelanjeloning «Pieta» haykali turibdi.",
+        "ru": "Внутри находится «Пьета» Микеланджело.",
+        "en": "Michelangelo’s Pietà stands inside."
+      },
+      {
+        "uz": "Bazilika oldidagi maydonni Bernini loyihalagan.",
+        "ru": "Площадь перед собором спроектировал Бернини.",
+        "en": "The square in front was designed by Bernini."
+      },
+      {
+        "uz": "Gumbaz tepasiga chiqib, Rimni yuqoridan ko‘rish mumkin.",
+        "ru": "На купол можно подняться и увидеть Рим сверху.",
+        "en": "You can climb the dome for a view over Rome."
+      }
+    ],
+    "bestSeason": {
+      "uz": "Aprel–iyun va sentabr–oktabr",
+      "ru": "Апрель–июнь и сентябрь–октябрь",
+      "en": "April–June and September–October"
+    },
+    "airport": "FCO",
+    "wikimediaQuery": "St. Peter's Basilica",
+    "tags": [
+      "vatican",
+      "rome",
+      "renaissance"
+    ]
+  },
+  {
+    "hours": null,
+    "price": null,
+    "id": "fushimi-inari",
+    "country": "JP",
+    "city": {
+      "uz": "Kioto",
+      "ru": "Киото",
+      "en": "Kyoto"
+    },
+    "lat": 34.9671,
+    "lng": 135.7727,
+    "category": "religious",
+    "unesco": false,
+    "name": {
+      "uz": "Fushimi Inari ziyoratgohi",
+      "ru": "Святилище Фусими Инари",
+      "en": "Fushimi Inari Taisha"
+    },
+    "era": {
+      "uz": "711 (asos solingan)",
+      "ru": "711 (основано)",
+      "en": "711 (founded)"
+    },
+    "short": {
+      "uz": "Tog‘ yonbag‘ri bo‘ylab cho‘zilgan minglab qizil torii darvozalari bilan mashhur sintoiy ziyoratgoh.",
+      "ru": "Синтоистское святилище, знаменитое тысячами красных ворот-тории, тянущихся по склону горы.",
+      "en": "A Shinto shrine famous for thousands of vermilion torii gates winding up a mountainside."
+    },
+    "history": {
+      "uz": "Ziyoratgoh guruch va farovonlik xudosi Inariga bag‘ishlangan. An’anaga ko‘ra, unga 711-yilda asos solingan. Toriilarni shaxslar va kompaniyalar xayriya sifatida o‘rnatadi, har birida homiy nomi yozilgan.",
+      "ru": "Святилище посвящено Инари — божеству риса и процветания. По традиции оно основано в 711 году. Ворота-тории жертвуют частные лица и компании; на каждых написано имя дарителя.",
+      "en": "The shrine is dedicated to Inari, the kami of rice and prosperity. By tradition it was founded in 711. The torii are donated by individuals and companies, each inscribed with the donor’s name."
+    },
+    "facts": [
+      {
+        "uz": "Ziyoratgohda tulki haykallari ko‘p — tulki Inarining elchisi hisoblanadi.",
+        "ru": "Здесь много статуй лис — лиса считается посланником Инари.",
+        "en": "Fox statues are everywhere — the fox is regarded as Inari’s messenger."
+      },
+      {
+        "uz": "Toriilar yo‘lagi Inari tog‘i cho‘qqisigacha bir necha kilometrga cho‘zilgan.",
+        "ru": "Тропа из ворот тянется на несколько километров до вершины горы Инари.",
+        "en": "The torii-lined trail runs several kilometres to the summit of Mount Inari."
+      },
+      {
+        "uz": "Bu Yaponiyadagi minglab Inari ziyoratgohlarining bosh ibodatxonasi.",
+        "ru": "Это главное из тысяч святилищ Инари по всей Японии.",
+        "en": "It is the head shrine of thousands of Inari shrines across Japan."
+      }
+    ],
+    "bestSeason": {
+      "uz": "Mart–aprel (sakura) va oktabr–noyabr",
+      "ru": "Март–апрель (сакура) и октябрь–ноябрь",
+      "en": "March–April (cherry blossom) and October–November"
+    },
+    "airport": "KIX",
+    "wikimediaQuery": "Fushimi Inari torii",
+    "tags": [
+      "japan",
+      "kyoto",
+      "shinto"
+    ]
+  },
+  {
+    "hours": null,
+    "price": null,
+    "id": "sagrada-familia",
+    "country": "ES",
+    "city": {
+      "uz": "Barselona",
+      "ru": "Барселона",
+      "en": "Barcelona"
+    },
+    "lat": 41.4036,
+    "lng": 2.1744,
+    "category": "religious",
+    "unesco": true,
+    "name": {
+      "uz": "Sagrada Familiya",
+      "ru": "Саграда Фамилия",
+      "en": "Sagrada Família"
+    },
+    "era": {
+      "uz": "1882-yildan (qurilish davom etmoqda)",
+      "ru": "С 1882 года (строительство продолжается)",
+      "en": "Since 1882 (still under construction)"
+    },
+    "short": {
+      "uz": "Antoni Gaudí loyihasi asosida bir asrdan ortiq qurilayotgan ajoyib bazilika.",
+      "ru": "Удивительная базилика по проекту Антонио Гауди, которую строят уже больше века.",
+      "en": "Antoni Gaudí’s extraordinary basilica, under construction for more than a century."
+    },
+    "history": {
+      "uz": "Qurilish 1882-yilda boshlangan, bir yildan so‘ng loyihani Gaudí o‘z qo‘liga olgan va umrining oxirigacha (1926) shu ustida ishlagan. Bino faqat xayriyalar va chipta tushumlari hisobiga qurilmoqda. 2010-yilda u bazilika sifatida muqaddaslangan.",
+      "ru": "Строительство началось в 1882 году; через год проект возглавил Гауди и работал над ним до конца жизни (1926). Храм строится только на пожертвования и доходы от билетов. В 2010 году он освящён как базилика.",
+      "en": "Construction began in 1882; a year later Gaudí took over and worked on it until his death in 1926. It is funded entirely by donations and ticket sales. It was consecrated as a basilica in 2010."
+    },
+    "facts": [
+      {
+        "uz": "Ichki ustunlar daraxt shoxlariga o‘xshatib loyihalangan.",
+        "ru": "Колонны внутри спроектированы в виде ветвящихся деревьев.",
+        "en": "The interior columns branch like trees."
+      },
+      {
+        "uz": "Gaudí asarlari, jumladan, bazilikaning bir qismi UNESCO ro‘yxatiga kiritilgan.",
+        "ru": "Работы Гауди, включая часть базилики, внесены в список ЮНЕСКО.",
+        "en": "Gaudí’s works, including parts of the basilica, are UNESCO-listed."
+      },
+      {
+        "uz": "Gaudí bazilika ostidagi kriptada dafn etilgan.",
+        "ru": "Гауди похоронен в крипте базилики.",
+        "en": "Gaudí is buried in the basilica’s crypt."
+      }
+    ],
+    "bestSeason": {
+      "uz": "Aprel–iyun va sentabr–oktabr",
+      "ru": "Апрель–июнь и сентябрь–октябрь",
+      "en": "April–June and September–October"
+    },
+    "airport": "BCN",
+    "wikimediaQuery": "Sagrada Familia",
+    "tags": [
+      "spain",
+      "barcelona",
+      "gaudi"
+    ]
+  },
+  {
+    "hours": null,
+    "price": null,
+    "id": "alhambra",
+    "country": "ES",
+    "city": {
+      "uz": "Granada",
+      "ru": "Гранада",
+      "en": "Granada"
+    },
+    "lat": 37.1761,
+    "lng": -3.5881,
+    "category": "historic",
+    "unesco": true,
+    "name": {
+      "uz": "Alhambra",
+      "ru": "Альгамбра",
+      "en": "Alhambra"
+    },
+    "era": {
+      "uz": "XIII–XIV asrlar",
+      "ru": "XIII–XIV века",
+      "en": "13th–14th centuries"
+    },
+    "short": {
+      "uz": "Andalusiyadagi Nasriylar sulolasining saroy va qal’a majmuasi — islom me’morchiligining nafis namunasi.",
+      "ru": "Дворцово-крепостной комплекс династии Насридов в Андалусии — изысканный образец исламской архитектуры.",
+      "en": "The palace-fortress of the Nasrid dynasty in Andalusia — an exquisite masterpiece of Islamic architecture."
+    },
+    "history": {
+      "uz": "Alhambra Granada amirligi hukmdorlari Nasriylar davrida qurilgan va kengaytirilgan. 1492-yilda Granada katolik qirollari qo‘liga o‘tgan. Alhambra 1984-yilda UNESCO ro‘yxatiga kiritilgan.",
+      "ru": "Альгамбра построена и расширена при Насридах — правителях Гранадского эмирата. В 1492 году Гранада перешла к католическим королям. В 1984 году Альгамбра внесена в список ЮНЕСКО.",
+      "en": "The Alhambra was built and expanded under the Nasrids, rulers of the Emirate of Granada. In 1492 Granada passed to the Catholic Monarchs. The Alhambra was inscribed by UNESCO in 1984."
+    },
+    "facts": [
+      {
+        "uz": "Nomi arabchada «qizil (qal’a)» degan ma’noni anglatadi.",
+        "ru": "Название происходит от арабского «красная (крепость)».",
+        "en": "Its name comes from the Arabic for “the red (fortress)”."
+      },
+      {
+        "uz": "Sherlar hovlisidagi favvorani o‘n ikki tosh sher ko‘tarib turadi.",
+        "ru": "Фонтан во Дворике львов держат двенадцать каменных львов.",
+        "en": "The fountain in the Court of the Lions rests on twelve stone lions."
+      },
+      {
+        "uz": "Devorlar va shiftlar nafis o‘ymakor naqshlar va arabcha yozuvlar bilan qoplangan.",
+        "ru": "Стены и потолки покрыты тончайшей резьбой и арабскими надписями.",
+        "en": "Walls and ceilings are covered in delicate carving and Arabic inscriptions."
+      }
+    ],
+    "bestSeason": {
+      "uz": "Aprel–iyun va sentabr–oktabr",
+      "ru": "Апрель–июнь и сентябрь–октябрь",
+      "en": "April–June and September–October"
+    },
+    "airport": "AGP",
+    "wikimediaQuery": "Alhambra Granada",
+    "tags": [
+      "spain",
+      "andalusia",
+      "islamic"
+    ]
+  },
+  {
+    "hours": null,
+    "price": null,
+    "id": "red-square",
+    "country": "RU",
+    "city": {
+      "uz": "Moskva",
+      "ru": "Москва",
+      "en": "Moscow"
+    },
+    "lat": 55.7539,
+    "lng": 37.6208,
+    "category": "historic",
+    "unesco": true,
+    "name": {
+      "uz": "Qizil maydon va Kreml",
+      "ru": "Красная площадь и Кремль",
+      "en": "Red Square & the Kremlin"
+    },
+    "era": {
+      "uz": "XV–XVI asrlar",
+      "ru": "XV–XVI века",
+      "en": "15th–16th centuries"
+    },
+    "short": {
+      "uz": "Moskvaning tarixiy yuragi: Kreml devorlari, Avliyo Vasiliy sobori va keng maydon.",
+      "ru": "Историческое сердце Москвы: стены Кремля, собор Василия Блаженного и просторная площадь.",
+      "en": "The historic heart of Moscow: the Kremlin walls, St Basil’s Cathedral and the vast square."
+    },
+    "history": {
+      "uz": "Hozirgi qizil g‘ishtli Kreml devorlari va minoralari XV asr oxirida italiyalik ustalar ishtirokida qurilgan. Avliyo Vasiliy sobori 1555–1561-yillarda podsho Ivan IV buyrug‘i bilan bunyod etilgan. Kreml va Qizil maydon 1990-yilda UNESCO ro‘yxatiga kiritilgan.",
+      "ru": "Нынешние краснокирпичные стены и башни Кремля возведены в конце XV века при участии итальянских мастеров. Собор Василия Блаженного построен в 1555–1561 годах по приказу царя Ивана IV. Кремль и Красная площадь внесены в список ЮНЕСКО в 1990 году.",
+      "en": "The present red-brick Kremlin walls and towers were built in the late 15th century with the help of Italian masters. St Basil’s Cathedral was raised in 1555–1561 on the orders of Tsar Ivan IV. The Kremlin and Red Square were inscribed by UNESCO in 1990."
+    },
+    "facts": [
+      {
+        "uz": "«Qizil» so‘zi qadimgi rus tilida «go‘zal» degan ma’noni ham anglatgan.",
+        "ru": "Слово «красная» в древнерусском означало также «красивая».",
+        "en": "In Old Russian, “krasnaya” (red) also meant “beautiful”."
+      },
+      {
+        "uz": "Avliyo Vasiliy soborining har bir gumbazi o‘ziga xos rang va naqshga ega.",
+        "ru": "Каждый купол собора Василия Блаженного имеет свой цвет и узор.",
+        "en": "Each of St Basil’s domes has its own colour and pattern."
+      },
+      {
+        "uz": "Kreml ichida bir necha qadimiy sobor va Qurol-yarog‘ palatasi muzeyi bor.",
+        "ru": "Внутри Кремля — несколько древних соборов и музей Оружейная палата.",
+        "en": "Inside the Kremlin are several ancient cathedrals and the Armoury museum."
+      }
+    ],
+    "bestSeason": {
+      "uz": "May–sentabr",
+      "ru": "Май–сентябрь",
+      "en": "May–September"
+    },
+    "airport": "SVO",
+    "wikimediaQuery": "Saint Basil's Cathedral Red Square",
+    "tags": [
+      "russia",
+      "moscow",
+      "kremlin"
+    ]
+  },
+  {
+    "hours": null,
+    "price": null,
+    "id": "forbidden-city",
+    "country": "CN",
+    "city": {
+      "uz": "Pekin",
+      "ru": "Пекин",
+      "en": "Beijing"
+    },
+    "lat": 39.9163,
+    "lng": 116.3972,
+    "category": "historic",
+    "unesco": true,
+    "name": {
+      "uz": "Taqiqlangan shahar",
+      "ru": "Запретный город",
+      "en": "Forbidden City"
+    },
+    "era": {
+      "uz": "1406–1420",
+      "ru": "1406–1420",
+      "en": "1406–1420"
+    },
+    "short": {
+      "uz": "Min va Sin sulolalari imperatorlarining saroy majmuasi — bugun dunyodagi eng mashhur muzeylardan biri.",
+      "ru": "Дворцовый комплекс императоров династий Мин и Цин — сегодня один из самых известных музеев мира.",
+      "en": "The palace complex of the Ming and Qing emperors — today one of the world’s best-known museums."
+    },
+    "history": {
+      "uz": "Saroy Min sulolasi imperatori Yunle davrida qurilgan. Qariyb 500 yil davomida u imperatorlar qarorgohi bo‘lgan. 1925-yildan bu yerda Saroy muzeyi faoliyat yuritadi; 1987-yilda majmua UNESCO ro‘yxatiga kiritilgan.",
+      "ru": "Дворец построен при минском императоре Юнлэ. Почти 500 лет он оставался резиденцией императоров. С 1925 года здесь работает музей Гугун; в 1987 году комплекс внесён в список ЮНЕСКО.",
+      "en": "The palace was built under the Ming emperor Yongle. For almost 500 years it was the residence of the emperors. Since 1925 it has housed the Palace Museum, and it was inscribed by UNESCO in 1987."
+    },
+    "facts": [
+      {
+        "uz": "Afsonaga ko‘ra, saroyda 9999 xona bor — haqiqatda xonalar soni kamroq.",
+        "ru": "По легенде, во дворце 9999 комнат — на деле их меньше.",
+        "en": "Legend says it has 9,999 rooms — in reality there are fewer."
+      },
+      {
+        "uz": "Sariq rangli tomlar imperatorlik ramzi bo‘lgan.",
+        "ru": "Жёлтые черепичные крыши были символом императорской власти.",
+        "en": "Its yellow roof tiles were a symbol of imperial power."
+      },
+      {
+        "uz": "Oddiy fuqarolar imperator ruxsatisiz saroyga kira olmagan — nomi shundan.",
+        "ru": "Простым людям вход без разрешения императора был запрещён — отсюда и название.",
+        "en": "Commoners could not enter without the emperor’s permission — hence the name."
+      }
+    ],
+    "bestSeason": {
+      "uz": "Aprel–may va sentabr–oktabr",
+      "ru": "Апрель–май и сентябрь–октябрь",
+      "en": "April–May and September–October"
+    },
+    "airport": "PEK",
+    "wikimediaQuery": "Forbidden City Beijing",
+    "tags": [
+      "china",
+      "beijing",
+      "palace",
+      "ming"
+    ]
+  },
+  {
+    "hours": null,
+    "price": null,
+    "id": "statue-of-liberty",
+    "country": "US",
+    "city": {
+      "uz": "Nyu-York",
+      "ru": "Нью-Йорк",
+      "en": "New York"
+    },
+    "lat": 40.6892,
+    "lng": -74.0445,
+    "category": "historic",
+    "unesco": true,
+    "name": {
+      "uz": "Ozodlik haykali",
+      "ru": "Статуя Свободы",
+      "en": "Statue of Liberty"
+    },
+    "era": {
+      "uz": "1886",
+      "ru": "1886",
+      "en": "1886"
+    },
+    "short": {
+      "uz": "Fransiya xalqi tomonidan AQShga sovg‘a qilingan mis haykal — erkinlik va immigratsiya ramzi.",
+      "ru": "Медная статуя, подаренная народом Франции США, — символ свободы и иммиграции.",
+      "en": "A copper statue given by the people of France to the United States — a symbol of freedom and immigration."
+    },
+    "history": {
+      "uz": "Haykalni haykaltarosh Frederik Ogyust Bartoldi yaratgan, uning ichki temir karkasini Gyustav Eyfel loyihalagan. Haykal 1886-yilda ochilgan. 1984-yilda u UNESCO ro‘yxatiga kiritilgan.",
+      "ru": "Статую создал скульптор Фредерик Огюст Бартольди, а внутренний железный каркас спроектировал Гюстав Эйфель. Статую открыли в 1886 году. В 1984 году она внесена в список ЮНЕСКО.",
+      "en": "The statue was designed by sculptor Frédéric Auguste Bartholdi, with an internal iron framework engineered by Gustave Eiffel. It was dedicated in 1886. It was inscribed by UNESCO in 1984."
+    },
+    "facts": [
+      {
+        "uz": "Haykalning yashil rangi misning havoda oksidlanishi natijasida paydo bo‘lgan.",
+        "ru": "Зелёный цвет статуи — результат окисления меди на воздухе.",
+        "en": "Its green colour comes from the natural oxidation of copper."
+      },
+      {
+        "uz": "Haykal qo‘lidagi lavhada AQSh Mustaqillik deklaratsiyasi sanasi yozilgan.",
+        "ru": "На табличке в руке статуи — дата Декларации независимости США.",
+        "en": "The tablet she holds bears the date of the US Declaration of Independence."
+      },
+      {
+        "uz": "Haykal Fransiyadan qismlarga bo‘lib kemada olib kelingan va AQShda yig‘ilgan.",
+        "ru": "Статую доставили из Франции по частям на корабле.",
+        "en": "It was shipped from France in pieces and reassembled."
+      }
+    ],
+    "bestSeason": {
+      "uz": "Aprel–iyun va sentabr–noyabr",
+      "ru": "Апрель–июнь и сентябрь–ноябрь",
+      "en": "April–June and September–November"
+    },
+    "airport": "JFK",
+    "wikimediaQuery": "Statue of Liberty",
+    "tags": [
+      "usa",
+      "new york",
+      "monument"
+    ]
+  },
+  {
+    "hours": null,
+    "price": null,
+    "id": "christ-the-redeemer",
+    "country": "BR",
+    "city": {
+      "uz": "Rio-de-Janeyro",
+      "ru": "Рио-де-Жанейро",
+      "en": "Rio de Janeiro"
+    },
+    "lat": -22.9519,
+    "lng": -43.2105,
+    "category": "religious",
+    "unesco": false,
+    "name": {
+      "uz": "Najotkor Iso haykali",
+      "ru": "Статуя Христа-Искупителя",
+      "en": "Christ the Redeemer"
+    },
+    "era": {
+      "uz": "1922–1931",
+      "ru": "1922–1931",
+      "en": "1922–1931"
+    },
+    "short": {
+      "uz": "Korkovado tog‘i cho‘qqisidagi qo‘llarini yoygan ulkan haykal — Rio-de-Janeyroning ramzi.",
+      "ru": "Огромная статуя с раскинутыми руками на вершине горы Корковаду — символ Рио-де-Жанейро.",
+      "en": "The giant open-armed statue atop Corcovado mountain — the emblem of Rio de Janeiro."
+    },
+    "history": {
+      "uz": "Haykal 1922–1931-yillarda temir-beton va sovun toshi (steatit) bilan qoplab qurilgan. Uni fransuz haykaltaroshi Pol Landovski muhandis Eytor da Silva Kosta bilan hamkorlikda yaratgan. 2007-yilda haykal «Dunyoning yangi yetti mo‘jizasi» qatoriga kiritilgan.",
+      "ru": "Статуя построена в 1922–1931 годах из железобетона и облицована мыльным камнем (стеатитом). Её создал французский скульптор Поль Ландовски вместе с инженером Эйтором да Силва Коста. В 2007 году статуя вошла в число «новых семи чудес света».",
+      "en": "Built in 1922–1931 from reinforced concrete clad in soapstone, the statue was created by French sculptor Paul Landowski with engineer Heitor da Silva Costa. In 2007 it was named one of the “New Seven Wonders of the World”."
+    },
+    "facts": [
+      {
+        "uz": "Haykalga ba’zan chaqmoq uriladi.",
+        "ru": "В статую время от времени попадает молния.",
+        "en": "The statue is struck by lightning from time to time."
+      },
+      {
+        "uz": "Cho‘qqiga tishli temir yo‘l orqali chiqish mumkin.",
+        "ru": "На вершину можно подняться по зубчатой железной дороге.",
+        "en": "A cog railway climbs to the summit."
+      },
+      {
+        "uz": "Haykal Tijuka milliy bog‘i hududida joylashgan.",
+        "ru": "Статуя находится на территории национального парка Тижука.",
+        "en": "It stands within Tijuca National Park."
+      }
+    ],
+    "bestSeason": {
+      "uz": "Aprel–oktabr (quruqroq va salqinroq)",
+      "ru": "Апрель–октябрь (суше и прохладнее)",
+      "en": "April–October (drier and cooler)"
+    },
+    "airport": "GIG",
+    "wikimediaQuery": "Christ the Redeemer Rio",
+    "tags": [
+      "brazil",
+      "rio",
+      "wonder"
+    ]
+  },
+  {
+    "hours": null,
+    "price": null,
+    "id": "sydney-opera-house",
+    "country": "AU",
+    "city": {
+      "uz": "Sidney",
+      "ru": "Сидней",
+      "en": "Sydney"
+    },
+    "lat": -33.8568,
+    "lng": 151.2153,
+    "category": "modern",
+    "unesco": true,
+    "name": {
+      "uz": "Sidney opera teatri",
+      "ru": "Сиднейский оперный театр",
+      "en": "Sydney Opera House"
+    },
+    "era": {
+      "uz": "1973",
+      "ru": "1973",
+      "en": "1973"
+    },
+    "short": {
+      "uz": "Yelkanlarga o‘xshash tomlari bilan mashhur XX asr me’morchiligining durdonasi.",
+      "ru": "Шедевр архитектуры XX века, знаменитый крышами в форме парусов.",
+      "en": "A masterpiece of 20th-century architecture, famous for its sail-like roofs."
+    },
+    "history": {
+      "uz": "Daniyalik me’mor Yorn Utson 1957-yilda xalqaro tanlovda g‘olib chiqqan. Qurilish uzoq davom etgan va murakkab bo‘lgan; Utson 1966-yilda loyihadan ketgan. Teatr 1973-yilda ochilgan va 2007-yilda UNESCO ro‘yxatiga kiritilgan.",
+      "ru": "Датский архитектор Йорн Утзон победил в международном конкурсе в 1957 году. Строительство было долгим и сложным; в 1966 году Утзон покинул проект. Театр открылся в 1973 году и в 2007 году внесён в список ЮНЕСКО.",
+      "en": "Danish architect Jørn Utzon won the international design competition in 1957. Construction was long and difficult, and Utzon left the project in 1966. The building opened in 1973 and was inscribed by UNESCO in 2007."
+    },
+    "facts": [
+      {
+        "uz": "Tomlar sirtini millionga yaqin keramik plitka qoplab turadi.",
+        "ru": "Крыши покрыты примерно миллионом керамических плиток.",
+        "en": "The roofs are covered with around a million ceramic tiles."
+      },
+      {
+        "uz": "Bu UNESCO ro‘yxatiga me’mori hayotligida kiritilgan kam sonli binolardan biri.",
+        "ru": "Это одно из немногих зданий, внесённых в список ЮНЕСКО при жизни архитектора.",
+        "en": "It is one of the few buildings listed by UNESCO during its architect’s lifetime."
+      },
+      {
+        "uz": "Binoda bir necha konsert va teatr zallari bor.",
+        "ru": "В здании несколько концертных и театральных залов.",
+        "en": "It houses several concert and theatre venues."
+      }
+    ],
+    "bestSeason": {
+      "uz": "Sentabr–noyabr va mart–may",
+      "ru": "Сентябрь–ноябрь и март–май",
+      "en": "September–November and March–May"
+    },
+    "airport": "SYD",
+    "wikimediaQuery": "Sydney Opera House",
+    "tags": [
+      "australia",
+      "architecture",
+      "music"
+    ]
+  },
+  {
+    "hours": null,
+    "price": null,
+    "id": "burj-khalifa",
+    "country": "AE",
+    "city": {
+      "uz": "Dubay",
+      "ru": "Дубай",
+      "en": "Dubai"
+    },
+    "lat": 25.1972,
+    "lng": 55.2744,
+    "category": "modern",
+    "unesco": false,
+    "name": {
+      "uz": "Burj Xalifa",
+      "ru": "Бурдж-Халифа",
+      "en": "Burj Khalifa"
+    },
+    "era": {
+      "uz": "2010",
+      "ru": "2010",
+      "en": "2010"
+    },
+    "short": {
+      "uz": "828 metrlik osmono‘par — 2010-yildan beri dunyodagi eng baland bino.",
+      "ru": "Небоскрёб высотой 828 метров — самое высокое здание в мире с 2010 года.",
+      "en": "An 828-metre skyscraper — the tallest building in the world since 2010."
+    },
+    "history": {
+      "uz": "Bino 2004-yilda qurila boshlagan va 2010-yilda ochilgan. Uni Skidmore, Owings & Merrill kompaniyasi loyihalagan. Dastlab «Burj Dubay» deb atalgan, ochilish kuni BAA prezidenti Xalifa ibn Zoyid sharafiga nomlangan.",
+      "ru": "Строительство началось в 2004 году, открытие состоялось в 2010 году. Проект разработала компания Skidmore, Owings & Merrill. Изначально здание называлось «Бурдж-Дубай», а в день открытия получило имя президента ОАЭ Халифы ибн Заида.",
+      "en": "Construction began in 2004 and the tower opened in 2010, designed by Skidmore, Owings & Merrill. Originally called “Burj Dubai”, it was renamed on opening day in honour of UAE President Khalifa bin Zayed."
+    },
+    "facts": [
+      {
+        "uz": "Binoning balandligi — 828 metr.",
+        "ru": "Высота здания — 828 метров.",
+        "en": "The tower is 828 metres tall."
+      },
+      {
+        "uz": "Minora shakli cho‘l guli — gimenokallis gulidan ilhomlangan.",
+        "ru": "Форма башни вдохновлена пустынным цветком гименокаллис.",
+        "en": "Its shape was inspired by the desert flower Hymenocallis."
+      },
+      {
+        "uz": "Bino etagida ulkan raqsga tushuvchi favvoralar joylashgan.",
+        "ru": "У подножия башни работают знаменитые поющие фонтаны.",
+        "en": "A famous choreographed fountain plays at its foot."
+      }
+    ],
+    "bestSeason": {
+      "uz": "Noyabr–mart",
+      "ru": "Ноябрь–март",
+      "en": "November–March"
+    },
+    "airport": "DXB",
+    "wikimediaQuery": "Burj Khalifa",
+    "tags": [
+      "uae",
+      "dubai",
+      "skyscraper"
+    ]
+  },
+  {
+    "hours": null,
+    "price": null,
+    "id": "tokyo-skytree",
+    "country": "JP",
+    "city": {
+      "uz": "Tokio",
+      "ru": "Токио",
+      "en": "Tokyo"
+    },
+    "lat": 35.7101,
+    "lng": 139.8107,
+    "category": "modern",
+    "unesco": false,
+    "name": {
+      "uz": "Tokio Skaytri",
+      "ru": "Токио Скайтри",
+      "en": "Tokyo Skytree"
+    },
+    "era": {
+      "uz": "2012",
+      "ru": "2012",
+      "en": "2012"
+    },
+    "short": {
+      "uz": "634 metrlik teleminora — dunyodagi eng baland minora. Kuzatuv maydonchalaridan Tokio va ochiq havoda Fudzi tog‘i ko‘rinadi.",
+      "ru": "Телебашня высотой 634 метра — самая высокая башня в мире. С её площадок видны Токио, а в ясную погоду — Фудзи.",
+      "en": "A 634-metre broadcasting tower — the tallest tower in the world, with views over Tokyo and, on clear days, Mount Fuji."
+    },
+    "history": {
+      "uz": "Minora 2008-yilda qurila boshlab, 2012-yilda ochilgan. U raqamli teleko‘rsatuvlarni uzatish uchun qurilgan. Konstruksiyada zilzilaga chidamlilik uchun an’anaviy yapon pagodalaridan ilhomlangan markaziy ustun ishlatilgan.",
+      "ru": "Строительство началось в 2008 году, открытие — в 2012 году. Башня создана для цифрового телевещания. Для сейсмостойкости использована центральная колонна, вдохновлённая традиционными японскими пагодами.",
+      "en": "Construction began in 2008 and the tower opened in 2012 to carry digital broadcasting. For earthquake resistance it uses a central column inspired by traditional Japanese pagodas."
+    },
+    "facts": [
+      {
+        "uz": "634 raqami yaponcha «mu-sa-shi» deb o‘qilishi mumkin — bu Tokio atrofidagi qadimiy viloyat nomi.",
+        "ru": "Число 634 можно прочитать по-японски как «му-са-си» — название старинной провинции вокруг Токио.",
+        "en": "634 can be read in Japanese as “mu-sa-shi”, the name of the old province around Tokyo."
+      },
+      {
+        "uz": "Ikkita kuzatuv maydonchasi bor.",
+        "ru": "У башни две смотровые площадки.",
+        "en": "It has two observation decks."
+      },
+      {
+        "uz": "Minora etagida katta savdo va ko‘ngilochar majmua joylashgan.",
+        "ru": "У подножия расположен большой торгово-развлекательный комплекс.",
+        "en": "A large shopping and entertainment complex sits at its base."
+      }
+    ],
+    "bestSeason": {
+      "uz": "Mart–aprel (sakura) va oktabr–noyabr",
+      "ru": "Март–апрель (сакура) и октябрь–ноябрь",
+      "en": "March–April (cherry blossom) and October–November"
+    },
+    "airport": "HND",
+    "wikimediaQuery": "Tokyo Skytree",
+    "tags": [
+      "japan",
+      "tokyo",
+      "tower"
+    ]
+  },
+  {
+    "hours": null,
+    "price": null,
+    "id": "borobudur",
+    "country": "ID",
+    "city": {
+      "uz": "Markaziy Yava",
+      "ru": "Центральная Ява",
+      "en": "Central Java"
+    },
+    "lat": -7.6079,
+    "lng": 110.2038,
+    "category": "religious",
+    "unesco": true,
+    "name": {
+      "uz": "Borobudur",
+      "ru": "Боробудур",
+      "en": "Borobudur"
+    },
+    "era": {
+      "uz": "IX asr",
+      "ru": "IX век",
+      "en": "9th century"
+    },
+    "short": {
+      "uz": "Dunyodagi eng katta buddaviy ibodatxona. Pog‘onali terraslarida yuzlab Budda haykallari va stupalar bor.",
+      "ru": "Крупнейший буддийский храм в мире; на его ступенчатых террасах — сотни статуй Будды и ступ.",
+      "en": "The world’s largest Buddhist temple, with hundreds of Buddha statues and stupas on its stepped terraces."
+    },
+    "history": {
+      "uz": "Borobudur IX asrda Shaylendra sulolasi davrida qurilgan. Keyinchalik u vulqon kuli va o‘rmon ostida qolib, unutilgan. XX asrda, ayniqsa 1970–1980-yillarda UNESCO ko‘magida keng ko‘lamli ta’mirlangan va 1991-yilda ro‘yxatga kiritilgan.",
+      "ru": "Боробудур построен в IX веке при династии Шайлендра. Позже он был скрыт под вулканическим пеплом и джунглями и забыт. В XX веке, особенно в 1970–1980-х годах, храм масштабно реставрировали при поддержке ЮНЕСКО; в 1991 году он внесён в список.",
+      "en": "Borobudur was built in the 9th century under the Shailendra dynasty. It was later hidden under volcanic ash and jungle and forgotten. It was extensively restored in the 20th century, especially in the 1970s–80s with UNESCO’s help, and inscribed in 1991."
+    },
+    "facts": [
+      {
+        "uz": "Ibodatxona devorlarida Budda ta’limotini hikoya qiluvchi ko‘plab relyeflar bor.",
+        "ru": "На стенах храма множество рельефов, иллюстрирующих буддийское учение.",
+        "en": "Its walls carry a vast series of reliefs illustrating Buddhist teachings."
+      },
+      {
+        "uz": "Yuqori terraslardagi stupalar ichida Budda haykallari o‘tiradi.",
+        "ru": "Внутри ступ на верхних террасах сидят статуи Будды.",
+        "en": "Buddha statues sit inside the stupas on the upper terraces."
+      },
+      {
+        "uz": "Ibodatxona yonida faol Merapi vulqoni joylashgan.",
+        "ru": "Неподалёку находится действующий вулкан Мерапи.",
+        "en": "The active volcano Merapi stands nearby."
+      }
+    ],
+    "bestSeason": {
+      "uz": "Aprel–oktabr (quruq mavsum)",
+      "ru": "Апрель–октябрь (сухой сезон)",
+      "en": "April–October (dry season)"
+    },
+    "airport": "YIA",
+    "wikimediaQuery": "Borobudur",
+    "tags": [
+      "indonesia",
+      "java",
+      "buddhism"
+    ]
+  },
+  {
+    "hours": null,
+    "price": null,
+    "id": "grand-canyon",
+    "country": "US",
+    "city": {
+      "uz": "Arizona",
+      "ru": "Аризона",
+      "en": "Arizona"
+    },
+    "lat": 36.1069,
+    "lng": -112.1129,
+    "category": "nature",
+    "unesco": true,
+    "name": {
+      "uz": "Katta Kanyon",
+      "ru": "Гранд-Каньон",
+      "en": "Grand Canyon"
+    },
+    "era": {
+      "uz": "Tabiiy (millionlab yillar)",
+      "ru": "Природный (миллионы лет)",
+      "en": "Natural (millions of years)"
+    },
+    "short": {
+      "uz": "Kolorado daryosi millionlab yillar davomida o‘yib chiqqan ulkan kanyon — Yer tarixining ochiq kitobi.",
+      "ru": "Гигантский каньон, который река Колорадо прорезала за миллионы лет, — открытая книга истории Земли.",
+      "en": "A colossal canyon carved by the Colorado River over millions of years — an open book of Earth’s history."
+    },
+    "history": {
+      "uz": "Kanyon devorlaridagi qatlamlar ikki milliard yilgacha bo‘lgan geologik tarixni ko‘rsatadi. Hudud ming yillar davomida tub amerikaliklar uchun muqaddas joy bo‘lgan. 1919-yilda milliy bog‘ maqomini olgan, 1979-yilda UNESCO ro‘yxatiga kiritilgan.",
+      "ru": "Слои в стенах каньона хранят геологическую историю, насчитывающую до двух миллиардов лет. Тысячелетиями эта земля была священной для коренных американцев. В 1919 году каньон стал национальным парком, а в 1979 году внесён в список ЮНЕСКО.",
+      "en": "The layers in its walls record up to two billion years of geological history. For thousands of years the land has been sacred to Native American peoples. It became a national park in 1919 and was inscribed by UNESCO in 1979."
+    },
+    "facts": [
+      {
+        "uz": "Kanyonning chuqurligi ayrim joylarda bir yarim kilometrdan oshadi.",
+        "ru": "Местами глубина каньона превышает полтора километра.",
+        "en": "In places the canyon is more than 1.5 kilometres deep."
+      },
+      {
+        "uz": "Shimoliy va janubiy qirg‘oqlarda iqlim sezilarli farq qiladi.",
+        "ru": "Климат северного и южного краёв заметно различается.",
+        "en": "The North and South Rims have noticeably different climates."
+      },
+      {
+        "uz": "Quyosh chiqishi va botishida qoyalar rangi tez o‘zgaradi.",
+        "ru": "На рассвете и закате цвет скал быстро меняется.",
+        "en": "The rock colours shift dramatically at sunrise and sunset."
+      }
+    ],
+    "bestSeason": {
+      "uz": "Mart–may va sentabr–noyabr",
+      "ru": "Март–май и сентябрь–ноябрь",
+      "en": "March–May and September–November"
+    },
+    "airport": "LAS",
+    "wikimediaQuery": "Grand Canyon South Rim",
+    "tags": [
+      "usa",
+      "canyon",
+      "national park"
+    ]
+  },
+  {
+    "hours": null,
+    "price": null,
+    "id": "mount-fuji",
+    "country": "JP",
+    "city": {
+      "uz": "Shizuoka / Yamanashi",
+      "ru": "Сидзуока / Яманаси",
+      "en": "Shizuoka / Yamanashi"
+    },
+    "lat": 35.3606,
+    "lng": 138.7274,
+    "category": "nature",
+    "unesco": true,
+    "name": {
+      "uz": "Fudzi tog‘i",
+      "ru": "Гора Фудзи",
+      "en": "Mount Fuji"
+    },
+    "era": {
+      "uz": "Tabiiy (faol vulqon)",
+      "ru": "Природный (действующий вулкан)",
+      "en": "Natural (active volcano)"
+    },
+    "short": {
+      "uz": "Yaponiyaning eng baland cho‘qqisi (3776 m) va milliy ramzi — mukammal konus shaklidagi vulqon.",
+      "ru": "Высочайшая вершина Японии (3776 м) и её национальный символ — вулкан идеальной конической формы.",
+      "en": "Japan’s highest peak (3,776 m) and national symbol — a near-perfect volcanic cone."
+    },
+    "history": {
+      "uz": "Fudzi asrlar davomida muqaddas tog‘ sifatida e’zozlangan va ko‘plab rassomlar, jumladan, Xokusay asarlarida aks etgan. Uning so‘nggi otilishi 1707-yilda bo‘lgan. 2013-yilda Fudzi madaniy obyekt sifatida UNESCO ro‘yxatiga kiritilgan.",
+      "ru": "Фудзи веками почиталась как священная гора и вдохновляла многих художников, в том числе Хокусая. Последнее извержение произошло в 1707 году. В 2013 году Фудзи внесена в список ЮНЕСКО как объект культурного наследия.",
+      "en": "Fuji has been revered as a sacred mountain for centuries and inspired many artists, including Hokusai. Its last eruption was in 1707. In 2013 it was inscribed by UNESCO as a cultural site."
+    },
+    "facts": [
+      {
+        "uz": "Fudzi tog‘ining balandligi — 3776 metr.",
+        "ru": "Высота Фудзи — 3776 метров.",
+        "en": "Mount Fuji is 3,776 metres high."
+      },
+      {
+        "uz": "Tog‘ etagida Fudzi beshta ko‘li joylashgan.",
+        "ru": "У подножия горы лежат Пять озёр Фудзи.",
+        "en": "The Fuji Five Lakes lie at its foot."
+      },
+      {
+        "uz": "UNESCO uni tabiiy emas, madaniy meros sifatida ro‘yxatga olgan.",
+        "ru": "ЮНЕСКО внесла гору в список как культурное, а не природное наследие.",
+        "en": "UNESCO listed it as cultural, not natural, heritage."
+      }
+    ],
+    "bestSeason": {
+      "uz": "Iyul–sentabr boshi — chiqish mavsumi; tog‘ manzarasi uchun — kuz va qish",
+      "ru": "Июль–начало сентября — сезон восхождений; для видов — осень и зима",
+      "en": "July–early September for climbing; autumn and winter for clear views"
+    },
+    "airport": "HND",
+    "wikimediaQuery": "Mount Fuji",
+    "tags": [
+      "japan",
+      "volcano",
+      "mountain"
+    ]
+  },
+  {
+    "hours": null,
+    "price": null,
+    "id": "victoria-falls",
+    "country": "ZW",
+    "city": {
+      "uz": "Zambiya–Zimbabve chegarasi",
+      "ru": "граница Замбии и Зимбабве",
+      "en": "Zambia–Zimbabwe border"
+    },
+    "lat": -17.9243,
+    "lng": 25.8572,
+    "category": "nature",
+    "unesco": true,
+    "name": {
+      "uz": "Viktoriya sharsharasi",
+      "ru": "Водопад Виктория",
+      "en": "Victoria Falls"
+    },
+    "era": {
+      "uz": "Tabiiy",
+      "ru": "Природный",
+      "en": "Natural"
+    },
+    "short": {
+      "uz": "Zambezi daryosidagi ulkan sharshara — mahalliy nomi «Momaqaldiroqli tutun».",
+      "ru": "Огромный водопад на реке Замбези; местное название — «Гремящий дым».",
+      "en": "A vast waterfall on the Zambezi River, known locally as “The Smoke That Thunders”."
+    },
+    "history": {
+      "uz": "Sharsharaning mahalliy nomi — Mosi-oa-Tunya. 1855-yilda shotlandiyalik tadqiqotchi Devid Livingston uni qirolicha Viktoriya sharafiga nomlagan. Sharshara 1989-yilda UNESCO ro‘yxatiga kiritilgan.",
+      "ru": "Местное название водопада — Моси-оа-Тунья. В 1855 году шотландский исследователь Дэвид Ливингстон назвал его в честь королевы Виктории. Водопад внесён в список ЮНЕСКО в 1989 году.",
+      "en": "Its local name is Mosi-oa-Tunya. In 1855 the Scottish explorer David Livingstone named it after Queen Victoria. It was inscribed by UNESCO in 1989."
+    },
+    "facts": [
+      {
+        "uz": "Suv changi bulutini o‘nlab kilometr uzoqdan ko‘rish mumkin.",
+        "ru": "Облако водяной пыли видно за десятки километров.",
+        "en": "Its cloud of spray can be seen from tens of kilometres away."
+      },
+      {
+        "uz": "Sharshara Zambiya va Zimbabve chegarasida joylashgan, uni ikkala tomondan ko‘rish mumkin.",
+        "ru": "Водопад находится на границе Замбии и Зимбабве, его можно увидеть с обеих сторон.",
+        "en": "It sits on the Zambia–Zimbabwe border and can be viewed from both sides."
+      },
+      {
+        "uz": "Oy yorug‘ida ba’zan «oy kamalagi» paydo bo‘ladi.",
+        "ru": "В лунные ночи иногда появляется «лунная радуга».",
+        "en": "On bright moonlit nights a “lunar rainbow” can sometimes appear."
+      }
+    ],
+    "bestSeason": {
+      "uz": "Fevral–may — suv eng ko‘p; avgust–dekabr — manzara tiniqroq",
+      "ru": "Февраль–май — самый полноводный период; август–декабрь — лучше видимость",
+      "en": "February–May for peak flow; August–December for clearer views"
+    },
+    "airport": "VFA",
+    "wikimediaQuery": "Victoria Falls",
+    "tags": [
+      "africa",
+      "waterfall",
+      "zambezi"
+    ]
+  },
+  {
+    "hours": null,
+    "price": null,
+    "id": "iguazu-falls",
+    "country": "AR",
+    "city": {
+      "uz": "Argentina–Braziliya chegarasi",
+      "ru": "граница Аргентины и Бразилии",
+      "en": "Argentina–Brazil border"
+    },
+    "lat": -25.6953,
+    "lng": -54.4367,
+    "category": "nature",
+    "unesco": true,
+    "name": {
+      "uz": "Iguasu sharsharalari",
+      "ru": "Водопады Игуасу",
+      "en": "Iguazú Falls"
+    },
+    "era": {
+      "uz": "Tabiiy",
+      "ru": "Природный",
+      "en": "Natural"
+    },
+    "short": {
+      "uz": "Tropik o‘rmon qurshovidagi yuzlab sharsharalar tizimi. Eng kuchlisi — «Iblis tomog‘i».",
+      "ru": "Система из сотен водопадов среди тропического леса; самый мощный — «Глотка дьявола».",
+      "en": "A system of hundreds of cascades in the rainforest; the mightiest is the “Devil’s Throat”."
+    },
+    "history": {
+      "uz": "Sharsharalar Iguasu daryosida, Argentina va Braziliya chegarasida joylashgan. Ikkala davlatning milliy bog‘lari UNESCO ro‘yxatiga kiritilgan: Argentina tomoni 1984-yilda, Braziliya tomoni 1986-yilda. Nomi guarani tilida «katta suv» degan ma’noni bildiradi.",
+      "ru": "Водопады находятся на реке Игуасу на границе Аргентины и Бразилии. Национальные парки обеих стран внесены в список ЮНЕСКО: аргентинский — в 1984 году, бразильский — в 1986 году. Название на языке гуарани означает «большая вода».",
+      "en": "The falls lie on the Iguazú River on the Argentina–Brazil border. Both countries’ national parks are UNESCO-listed: Argentina’s in 1984 and Brazil’s in 1986. The name means “big water” in Guaraní."
+    },
+    "facts": [
+      {
+        "uz": "Sharsharalar soni suv sathiga qarab o‘zgaradi.",
+        "ru": "Количество отдельных водопадов меняется в зависимости от уровня воды.",
+        "en": "The number of separate cascades changes with the water level."
+      },
+      {
+        "uz": "Argentina tomonida yo‘laklar sharsharalarga juda yaqin olib boradi, Braziliya tomonidan esa keng panorama ochiladi.",
+        "ru": "С аргентинской стороны тропы подходят вплотную к водопадам, с бразильской — открывается панорама.",
+        "en": "Trails on the Argentine side get you close; the Brazilian side offers the wide panorama."
+      },
+      {
+        "uz": "Atrofdagi o‘rmonda tukanlar va koati kabi hayvonlar yashaydi.",
+        "ru": "В окрестных лесах живут туканы и носухи.",
+        "en": "Toucans and coatis live in the surrounding forest."
+      }
+    ],
+    "bestSeason": {
+      "uz": "Mart–may va avgust–noyabr",
+      "ru": "Март–май и август–ноябрь",
+      "en": "March–May and August–November"
+    },
+    "airport": "IGR",
+    "wikimediaQuery": "Iguazu Falls Devil's Throat",
+    "tags": [
+      "argentina",
+      "brazil",
+      "waterfall"
+    ]
+  },
+  {
+    "hours": null,
+    "price": null,
+    "id": "lake-baikal",
+    "country": "RU",
+    "city": {
+      "uz": "Sibir",
+      "ru": "Сибирь",
+      "en": "Siberia"
+    },
+    "lat": 53.5587,
+    "lng": 108.165,
+    "category": "nature",
+    "unesco": true,
+    "name": {
+      "uz": "Baykal ko‘li",
+      "ru": "Озеро Байкал",
+      "en": "Lake Baikal"
+    },
+    "era": {
+      "uz": "Tabiiy (taxminan 25 mln yil)",
+      "ru": "Природный (около 25 млн лет)",
+      "en": "Natural (about 25 million years)"
+    },
+    "short": {
+      "uz": "Dunyodagi eng chuqur va eng qadimiy ko‘l. Unda yer yuzidagi muzlamagan chuchuk suvning katta qismi jamlangan.",
+      "ru": "Самое глубокое и древнее озеро в мире, хранящее значительную часть незамёрзшей пресной воды планеты.",
+      "en": "The deepest and oldest lake on Earth, holding a large share of the planet’s unfrozen fresh water."
+    },
+    "history": {
+      "uz": "Baykal yer qobig‘idagi yoriq (rift) zonasida hosil bo‘lgan va uning yoshi taxminan 25 million yil deb baholanadi. Eng chuqur joyi 1600 metrdan oshadi. 1996-yilda ko‘l UNESCO ro‘yxatiga kiritilgan.",
+      "ru": "Байкал образовался в рифтовой зоне земной коры; его возраст оценивается примерно в 25 миллионов лет. Максимальная глубина превышает 1600 метров. В 1996 году озеро внесено в список ЮНЕСКО.",
+      "en": "Baikal formed in a rift in the Earth’s crust and is estimated to be about 25 million years old. Its greatest depth exceeds 1,600 metres. It was inscribed by UNESCO in 1996."
+    },
+    "facts": [
+      {
+        "uz": "Baykalda faqat shu yerda yashaydigan chuchuk suv tyuleni — nerpa bor.",
+        "ru": "В Байкале живёт эндемичный пресноводный тюлень — нерпа.",
+        "en": "It is home to the nerpa, a freshwater seal found nowhere else."
+      },
+      {
+        "uz": "Qishda ko‘l muzi shu qadar tiniqki, uning ostini ko‘rish mumkin.",
+        "ru": "Зимой лёд настолько прозрачен, что сквозь него видно глубину.",
+        "en": "In winter the ice is so clear you can see down through it."
+      },
+      {
+        "uz": "Ko‘lga 300 dan ortiq daryo quyiladi, faqat bittasi — Angara oqib chiqadi.",
+        "ru": "В озеро впадает более 300 рек, а вытекает только одна — Ангара.",
+        "en": "More than 300 rivers flow in, but only one — the Angara — flows out."
+      }
+    ],
+    "bestSeason": {
+      "uz": "Iyul–avgust (sayr) yoki fevral–mart (muz)",
+      "ru": "Июль–август (походы) или февраль–март (лёд)",
+      "en": "July–August (hiking) or February–March (ice)"
+    },
+    "airport": "IKT",
+    "wikimediaQuery": "Lake Baikal",
+    "tags": [
+      "russia",
+      "siberia",
+      "lake"
+    ]
+  },
+  {
+    "hours": null,
+    "price": null,
+    "id": "cappadocia",
+    "country": "TR",
+    "city": {
+      "uz": "Go‘reme",
+      "ru": "Гёреме",
+      "en": "Göreme"
+    },
+    "lat": 38.6431,
+    "lng": 34.8289,
+    "category": "nature",
+    "unesco": true,
+    "name": {
+      "uz": "Kappadokiya",
+      "ru": "Каппадокия",
+      "en": "Cappadocia"
+    },
+    "era": {
+      "uz": "Tabiiy; g‘or ibodatxonalari — milodiy I ming yillik",
+      "ru": "Природная; пещерные храмы — I тыс. н. э.",
+      "en": "Natural; cave churches from the 1st millennium AD"
+    },
+    "short": {
+      "uz": "«Pari mo‘rilari» deb ataluvchi g‘aroyib qoya ustunlari, g‘or shaharlar va havo sharlari mamlakati.",
+      "ru": "Край причудливых скал — «каминов фей», пещерных городов и воздушных шаров.",
+      "en": "A land of strange rock pillars called “fairy chimneys”, cave towns and hot-air balloons."
+    },
+    "history": {
+      "uz": "Qadimgi vulqon kuli qatlamlari shamol va suv ta’sirida yemirilib, g‘aroyib shakllar hosil qilgan. Odamlar bu yumshoq tog‘ jinslariga uylar, ibodatxonalar va hatto yerosti shaharlarini o‘yishgan. Go‘reme milliy bog‘i va Kappadokiyaning qoyali yodgorliklari 1985-yilda UNESCO ro‘yxatiga kiritilgan.",
+      "ru": "Слои древнего вулканического пепла, разрушаясь под действием ветра и воды, образовали причудливые формы. В мягкой породе люди вырубали жилища, храмы и даже подземные города. Национальный парк Гёреме и скальные памятники Каппадокии внесены в список ЮНЕСКО в 1985 году.",
+      "en": "Layers of ancient volcanic ash, eroded by wind and water, formed its bizarre shapes. People carved homes, churches and even underground cities into the soft rock. Göreme National Park and the Rock Sites of Cappadocia were inscribed by UNESCO in 1985."
+    },
+    "facts": [
+      {
+        "uz": "Derinkuyu kabi yerosti shaharlari ko‘p qavatli bo‘lib, minglab odamni sig‘dira olgan.",
+        "ru": "Подземные города вроде Деринкую многоярусны и могли вмещать тысячи людей.",
+        "en": "Underground cities such as Derinkuyu are many levels deep and could shelter thousands."
+      },
+      {
+        "uz": "G‘or cherkovlarida Vizantiya davri freskalari saqlangan.",
+        "ru": "В пещерных церквях сохранились византийские фрески.",
+        "en": "Byzantine frescoes survive in its cave churches."
+      },
+      {
+        "uz": "Tongda yuzlab havo sharlari osmonga ko‘tariladi.",
+        "ru": "На рассвете в небо поднимаются сотни воздушных шаров.",
+        "en": "At dawn, hundreds of hot-air balloons rise into the sky."
+      }
+    ],
+    "bestSeason": {
+      "uz": "Aprel–iyun va sentabr–oktabr",
+      "ru": "Апрель–июнь и сентябрь–октябрь",
+      "en": "April–June and September–October"
+    },
+    "airport": "ASR",
+    "wikimediaQuery": "Cappadocia fairy chimneys",
+    "tags": [
+      "turkey",
+      "balloons",
+      "caves"
+    ]
+  },
+  {
+    "hours": null,
+    "price": null,
+    "id": "easter-island",
+    "country": "CL",
+    "city": {
+      "uz": "Pasxa oroli (Rapa-Nui)",
+      "ru": "остров Пасхи (Рапа-Нуи)",
+      "en": "Easter Island (Rapa Nui)"
+    },
+    "lat": -27.1258,
+    "lng": -109.277,
+    "category": "historic",
+    "unesco": true,
+    "name": {
+      "uz": "Moai haykallari",
+      "ru": "Статуи моаи",
+      "en": "Moai of Rapa Nui"
+    },
+    "era": {
+      "uz": "Taxminan XIII–XVI asrlar",
+      "ru": "Примерно XIII–XVI века",
+      "en": "About 13th–16th centuries"
+    },
+    "short": {
+      "uz": "Tinch okeanidagi olis oroldagi ulkan tosh boshlar — polineziyaliklar yaratgan sirli haykallar.",
+      "ru": "Гигантские каменные головы на далёком острове в Тихом океане — загадочные статуи, созданные полинезийцами.",
+      "en": "Giant stone figures on a remote Pacific island — mysterious statues carved by Polynesian settlers."
+    },
+    "history": {
+      "uz": "Moai haykallarini orolning polineziyalik aholisi — rapanuilar ajdodlarni ulug‘lash uchun yo‘ngan. Haykallarning aksariyati Rano Raraku vulqon kraterida o‘yilgan. Rapa-Nui milliy bog‘i 1995-yilda UNESCO ro‘yxatiga kiritilgan.",
+      "ru": "Статуи моаи вырезали полинезийские жители острова — рапануйцы — в честь предков. Большинство статуй высечено в кратере вулкана Рано-Рараку. Национальный парк Рапа-Нуи внесён в список ЮНЕСКО в 1995 году.",
+      "en": "The moai were carved by the island’s Polynesian people, the Rapa Nui, to honour their ancestors. Most were cut from the crater of the Rano Raraku volcano. Rapa Nui National Park was inscribed by UNESCO in 1995."
+    },
+    "facts": [
+      {
+        "uz": "Orolda deyarli ming dona moai bor.",
+        "ru": "На острове почти тысяча статуй моаи.",
+        "en": "There are nearly a thousand moai on the island."
+      },
+      {
+        "uz": "Ko‘pchilik haykallar dengizga emas, orol ichkarisiga qarab turadi.",
+        "ru": "Большинство статуй обращены не к морю, а вглубь острова.",
+        "en": "Most statues face inland rather than out to sea."
+      },
+      {
+        "uz": "Ahu Tongarikidagi 15 ta haykal orolning eng katta platformasida turibdi.",
+        "ru": "На Аху-Тонгарики стоят 15 моаи — это крупнейшая платформа острова.",
+        "en": "Ahu Tongariki’s 15 moai stand on the island’s largest platform."
+      }
+    ],
+    "bestSeason": {
+      "uz": "Oktabr–aprel",
+      "ru": "Октябрь–апрель",
+      "en": "October–April"
+    },
+    "airport": "IPC",
+    "wikimediaQuery": "Moai Ahu Tongariki",
+    "tags": [
+      "chile",
+      "polynesia",
+      "statues"
+    ]
+  },
+  {
+    "hours": null,
+    "price": null,
+    "id": "venice",
+    "country": "IT",
+    "city": {
+      "uz": "Venetsiya",
+      "ru": "Венеция",
+      "en": "Venice"
+    },
+    "lat": 45.4408,
+    "lng": 12.3155,
+    "category": "city",
+    "unesco": true,
+    "name": {
+      "uz": "Venetsiya",
+      "ru": "Венеция",
+      "en": "Venice"
+    },
+    "era": {
+      "uz": "V asrdan",
+      "ru": "С V века",
+      "en": "From the 5th century"
+    },
+    "short": {
+      "uz": "Laguna orollarida qurilgan, ko‘chalari o‘rnida kanallar bo‘lgan afsonaviy shahar.",
+      "ru": "Легендарный город на островах лагуны, где вместо улиц — каналы.",
+      "en": "A legendary city built on lagoon islands, where canals take the place of streets."
+    },
+    "history": {
+      "uz": "Venetsiya o‘rta asrlarda qudratli dengiz respublikasi va Sharq bilan savdoning markazi bo‘lgan. Mashhur sayyoh Marko Polo shu shaharda tug‘ilgan. Venetsiya va uning lagunasi 1987-yilda UNESCO ro‘yxatiga kiritilgan.",
+      "ru": "В Средние века Венеция была могущественной морской республикой и центром торговли с Востоком. Здесь родился знаменитый путешественник Марко Поло. Венеция и её лагуна внесены в список ЮНЕСКО в 1987 году.",
+      "en": "In the Middle Ages Venice was a powerful maritime republic and a hub of trade with the East. The famous traveller Marco Polo was born here. Venice and its Lagoon were inscribed by UNESCO in 1987."
+    },
+    "facts": [
+      {
+        "uz": "Shahar 100 dan ortiq kichik orolda joylashgan va ular yuzlab ko‘priklar bilan bog‘langan.",
+        "ru": "Город стоит более чем на сотне островков, соединённых сотнями мостов.",
+        "en": "The city spreads over more than a hundred small islands linked by hundreds of bridges."
+      },
+      {
+        "uz": "Shaharda avtomobil yo‘q — asosiy transport qayiqlar va vaporettolar.",
+        "ru": "Автомобилей в городе нет — основной транспорт лодки и вапоретто.",
+        "en": "There are no cars — boats and vaporetti are the main transport."
+      },
+      {
+        "uz": "Marko Polo Ipak yo‘li orqali Xitoygacha borgan va sayohatlarini kitobda tasvirlagan.",
+        "ru": "Марко Поло добрался по Шёлковому пути до Китая и описал путешествие в книге.",
+        "en": "Marco Polo travelled the Silk Road to China and described the journey in a book."
+      }
+    ],
+    "bestSeason": {
+      "uz": "Aprel–iyun va sentabr–oktabr",
+      "ru": "Апрель–июнь и сентябрь–октябрь",
+      "en": "April–June and September–October"
+    },
+    "airport": "VCE",
+    "wikimediaQuery": "Venice Grand Canal",
+    "tags": [
+      "italy",
+      "canals",
+      "marco polo"
+    ]
+  },
+  {
+    "hours": null,
+    "price": null,
+    "id": "prague",
+    "country": "CZ",
+    "city": {
+      "uz": "Praga",
+      "ru": "Прага",
+      "en": "Prague"
+    },
+    "lat": 50.0875,
+    "lng": 14.4213,
+    "category": "city",
+    "unesco": true,
+    "name": {
+      "uz": "Praga tarixiy markazi",
+      "ru": "Исторический центр Праги",
+      "en": "Historic Centre of Prague"
+    },
+    "era": {
+      "uz": "IX asrdan",
+      "ru": "С IX века",
+      "en": "From the 9th century"
+    },
+    "short": {
+      "uz": "«Yuz minorali shahar» — gotika soborlari, qadimiy ko‘priklar va astronomik soat bilan mashhur.",
+      "ru": "«Город ста шпилей», знаменитый готическими соборами, старинными мостами и астрономическими часами.",
+      "en": "The “City of a Hundred Spires”, famed for Gothic cathedrals, old bridges and its astronomical clock."
+    },
+    "history": {
+      "uz": "Praga asrlar davomida Bogemiya qirolligi va Muqaddas Rim imperiyasining muhim markazi bo‘lgan. XIV asrda imperator Karl IV davrida shahar gullab-yashnagan, Karl ko‘prigi qurila boshlagan. Praganing tarixiy markazi 1992-yilda UNESCO ro‘yxatiga kiritilgan.",
+      "ru": "Прага веками была важным центром Богемского королевства и Священной Римской империи. В XIV веке при императоре Карле IV город расцвёл, началось строительство Карлова моста. Исторический центр Праги внесён в список ЮНЕСКО в 1992 году.",
+      "en": "For centuries Prague was a key centre of the Kingdom of Bohemia and the Holy Roman Empire. It flourished in the 14th century under Emperor Charles IV, when work began on Charles Bridge. The Historic Centre of Prague was inscribed by UNESCO in 1992."
+    },
+    "facts": [
+      {
+        "uz": "Eski shahar maydonidagi astronomik soat 1410-yilda o‘rnatilgan va hanuz ishlaydi.",
+        "ru": "Астрономические часы на Староместской площади установлены в 1410 году и до сих пор работают.",
+        "en": "The astronomical clock on Old Town Square was installed in 1410 and still works."
+      },
+      {
+        "uz": "Praga qal’asi dunyodagi eng katta qadimiy qal’a majmualaridan biri.",
+        "ru": "Пражский Град — один из крупнейших древних замковых комплексов в мире.",
+        "en": "Prague Castle is one of the largest ancient castle complexes in the world."
+      },
+      {
+        "uz": "Karl ko‘prigi bo‘ylab o‘ttizga yaqin haykal tizilgan.",
+        "ru": "Карлов мост украшают около тридцати статуй.",
+        "en": "Some thirty statues line Charles Bridge."
+      }
+    ],
+    "bestSeason": {
+      "uz": "May–sentabr",
+      "ru": "Май–сентябрь",
+      "en": "May–September"
+    },
+    "airport": "PRG",
+    "wikimediaQuery": "Prague Old Town Square",
+    "tags": [
+      "czechia",
+      "gothic",
+      "bridge"
+    ]
+  },
+  {
+    "hours": null,
+    "price": null,
+    "id": "dubrovnik",
+    "country": "HR",
+    "city": {
+      "uz": "Dubrovnik",
+      "ru": "Дубровник",
+      "en": "Dubrovnik"
+    },
+    "lat": 42.6407,
+    "lng": 18.1077,
+    "category": "city",
+    "unesco": true,
+    "name": {
+      "uz": "Dubrovnik eski shahri",
+      "ru": "Старый город Дубровника",
+      "en": "Old City of Dubrovnik"
+    },
+    "era": {
+      "uz": "XIII–XVII asrlar",
+      "ru": "XIII–XVII века",
+      "en": "13th–17th centuries"
+    },
+    "short": {
+      "uz": "Adriatika sohilidagi qal’a devorlari bilan o‘ralgan shahar — «Adriatika marvaridi».",
+      "ru": "Город на Адриатике, окружённый крепостными стенами, — «жемчужина Адриатики».",
+      "en": "A walled city on the Adriatic coast — the “Pearl of the Adriatic”."
+    },
+    "history": {
+      "uz": "Dubrovnik Ragusa respublikasi poytaxti sifatida dengiz savdosi orqali boyib ketgan. 1667-yilgi kuchli zilzila shaharning katta qismini vayron qilgan, keyin u qayta tiklangan. Eski shahar 1979-yilda UNESCO ro‘yxatiga kiritilgan.",
+      "ru": "Дубровник, столица Рагузской республики, разбогател на морской торговле. Сильное землетрясение 1667 года разрушило большую часть города, после чего его восстановили. Старый город внесён в список ЮНЕСКО в 1979 году.",
+      "en": "As capital of the Republic of Ragusa, Dubrovnik grew rich on maritime trade. A powerful earthquake in 1667 destroyed much of the city, which was then rebuilt. The Old City was inscribed by UNESCO in 1979."
+    },
+    "facts": [
+      {
+        "uz": "Shahar devorlari ustidan aylanib chiqish mumkin — uzunligi qariyb 2 kilometr.",
+        "ru": "По городским стенам можно обойти весь город — их длина почти 2 километра.",
+        "en": "You can walk the full circuit of the walls — nearly 2 kilometres."
+      },
+      {
+        "uz": "Asosiy ko‘cha — Stradun ohaktosh bilan qoplangan.",
+        "ru": "Главная улица Страдун вымощена известняком.",
+        "en": "The main street, the Stradun, is paved with limestone."
+      },
+      {
+        "uz": "Eski shahar ko‘plab mashhur filmlar va seriallarda suratga olingan.",
+        "ru": "Старый город снимали во многих известных фильмах и сериалах.",
+        "en": "The Old City has featured in many well-known films and series."
+      }
+    ],
+    "bestSeason": {
+      "uz": "Aprel–iyun va sentabr–oktabr",
+      "ru": "Апрель–июнь и сентябрь–октябрь",
+      "en": "April–June and September–October"
+    },
+    "airport": "DBV",
+    "wikimediaQuery": "Dubrovnik city walls",
+    "tags": [
+      "croatia",
+      "adriatic",
+      "walls"
+    ]
+  }
+]

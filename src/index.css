@@ -1,0 +1,303 @@
+@import 'tailwindcss';
+
+@theme {
+  --color-lojuvard: #1b3a8c;
+  --color-turquoise: #1fb5c4;
+  --color-gold: #e2a63b;
+  --color-gold-light: #f3c871;
+  --color-night-950: #03050f;
+  --color-night-900: #060a1c;
+  --color-night-800: #0c1430;
+  --font-sans: 'Manrope', system-ui, -apple-system, 'Segoe UI', sans-serif, 'Noto Color Emoji';
+  --font-display: 'Unbounded', 'Philosopher', system-ui, sans-serif;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+  background: var(--color-night-950);
+  color: #fff;
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  overscroll-behavior: none;
+}
+
+body {
+  overflow: hidden;
+  -webkit-tap-highlight-color: transparent;
+}
+
+:focus-visible {
+  outline: 2px solid var(--color-turquoise);
+  outline-offset: 2px;
+}
+
+@layer components {
+  .font-display {
+    font-family: var(--font-display);
+    font-weight: 600;
+    letter-spacing: 0.01em;
+  }
+
+  /* Glassmorphism panellar */
+  .glass {
+    background: rgba(12, 20, 48, 0.55);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(14px) saturate(140%);
+    -webkit-backdrop-filter: blur(14px) saturate(140%);
+  }
+  .glass-strong {
+    background: linear-gradient(160deg, rgba(20, 36, 86, 0.88), rgba(6, 10, 28, 0.92));
+    border: 1px solid rgba(255, 255, 255, 0.12);
+    backdrop-filter: blur(20px) saturate(150%);
+    -webkit-backdrop-filter: blur(20px) saturate(150%);
+  }
+
+  .text-gradient {
+    background: linear-gradient(90deg, #f3c871, #e2a63b 35%, #1fb5c4 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+  }
+
+  .action-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    min-height: 2.5rem;
+    padding: 0 0.85rem;
+    border-radius: 0.85rem;
+    border: 1px solid rgba(255, 255, 255, 0.14);
+    background: rgba(255, 255, 255, 0.04);
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: rgba(255, 255, 255, 0.92);
+    transition: background 0.15s, border-color 0.15s, color 0.15s;
+  }
+  .action-btn:hover {
+    background: rgba(255, 255, 255, 0.1);
+  }
+  .action-btn.is-active {
+    border-color: rgba(226, 166, 59, 0.7);
+    background: rgba(226, 166, 59, 0.16);
+    color: var(--color-gold-light);
+  }
+
+  .btn-primary {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    height: 2.75rem;
+    border-radius: 0.85rem;
+    background: linear-gradient(90deg, var(--color-lojuvard), #2453b8);
+    box-shadow: inset 0 0 0 1px rgba(31, 181, 196, 0.5), 0 8px 24px rgba(27, 58, 140, 0.45);
+    font-weight: 700;
+    font-size: 0.875rem;
+  }
+
+  .scroll-thin {
+    scrollbar-width: thin;
+    scrollbar-color: rgba(255, 255, 255, 0.2) transparent;
+  }
+  .scrollbar-none {
+    scrollbar-width: none;
+  }
+  .scrollbar-none::-webkit-scrollbar {
+    display: none;
+  }
+
+  .vignette {
+    background: radial-gradient(ellipse at center, transparent 55%, rgba(3, 5, 15, 0.65) 100%);
+  }
+
+  .shimmer {
+    background: linear-gradient(100deg, rgba(255, 255, 255, 0.04) 20%, rgba(255, 255, 255, 0.1) 40%, rgba(255, 255, 255, 0.04) 60%);
+    background-size: 200% 100%;
+    animation: shimmer 1.4s linear infinite;
+  }
+
+  /* Samarqand koshinlaridan ilhomlangan girih naqshi */
+  .girih {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='48' height='48' viewBox='0 0 48 48'%3E%3Cg fill='none' stroke='%23e2a63b' stroke-width='1'%3E%3Cpath d='M24 4l5.7 8.3L40 10l-2.3 10.3L46 24l-8.3 5.7L40 38l-10.3-2.3L24 44l-5.7-8.3L8 38l2.3-10.3L2 24l8.3-5.7L8 10l10.3 2.3z'/%3E%3Ccircle cx='24' cy='24' r='6' stroke='%231fb5c4'/%3E%3C/g%3E%3C/svg%3E");
+    background-size: 48px 48px;
+  }
+
+  .loader {
+    width: 56px;
+    height: 56px;
+    border-radius: 50%;
+    border: 3px solid rgba(31, 181, 196, 0.2);
+    border-top-color: var(--color-turquoise);
+    border-right-color: var(--color-gold);
+    animation: spin 1s linear infinite;
+  }
+}
+
+/* ---------- Globus nuqtalari ---------- */
+.gm {
+  position: relative;
+  display: grid;
+  place-items: center;
+  width: 24px;
+  height: 24px;
+  padding: 0;
+  border: 0;
+  background: none;
+  cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+}
+.gm:hover,
+.gm:focus-visible {
+  z-index: 9999 !important;
+}
+.gm:focus-visible {
+  outline: none;
+}
+.gm-dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: var(--c);
+  box-shadow: 0 0 0 2px rgba(3, 5, 15, 0.65), 0 0 12px 2px var(--c);
+  transition: transform 0.2s ease;
+}
+.gm-pulse {
+  position: absolute;
+  inset: 3px;
+  border-radius: 50%;
+  border: 1.5px solid var(--c);
+  opacity: 0;
+  animation: gm-pulse 2.8s ease-out infinite;
+}
+.gm:hover .gm-dot,
+.gm:focus-visible .gm-dot {
+  transform: scale(1.5);
+}
+.gm:focus-visible .gm-dot {
+  box-shadow: 0 0 0 3px #fff, 0 0 14px 3px var(--c);
+}
+.gm-uz::after {
+  content: '';
+  position: absolute;
+  inset: 2px;
+  border-radius: 50%;
+  border: 1.5px solid var(--color-gold);
+  box-shadow: 0 0 8px rgba(226, 166, 59, 0.6);
+  pointer-events: none;
+}
+.gm.is-selected .gm-dot {
+  transform: scale(1.8);
+  box-shadow: 0 0 0 2.5px #fff, 0 0 22px 6px var(--c);
+}
+.gm-tip {
+  position: absolute;
+  bottom: calc(100% + 6px);
+  left: 50%;
+  transform: translate(-50%, 4px);
+  padding: 6px 10px;
+  border-radius: 10px;
+  background: rgba(6, 10, 28, 0.94);
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.45);
+  white-space: nowrap;
+  text-align: left;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.15s, transform 0.15s;
+}
+.gm:hover .gm-tip,
+.gm:focus-visible .gm-tip {
+  opacity: 1;
+  transform: translate(-50%, 0);
+}
+.gm-tip b {
+  display: block;
+  font: 600 12.5px/1.3 var(--font-sans);
+  color: #fff;
+}
+.gm-tip small {
+  display: block;
+  font: 500 11px/1.3 var(--font-sans);
+  color: rgba(255, 255, 255, 0.72);
+}
+.gm-cluster {
+  width: 36px;
+  height: 36px;
+}
+.gm-count {
+  display: grid;
+  place-items: center;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background: radial-gradient(circle at 35% 30%, rgba(31, 181, 196, 0.95), rgba(27, 58, 140, 0.95));
+  color: #fff;
+  font: 700 12px var(--font-sans);
+  box-shadow: 0 0 0 3px rgba(31, 181, 196, 0.25), 0 0 18px rgba(31, 181, 196, 0.55);
+  transition: transform 0.2s;
+}
+.gm-cluster:hover .gm-count,
+.gm-cluster:focus-visible .gm-count {
+  transform: scale(1.12);
+}
+.gm-cluster:focus-visible .gm-count {
+  box-shadow: 0 0 0 3px #fff;
+}
+.gm-cluster.gm-uz::after {
+  inset: 0;
+}
+.gm.is-hidden {
+  visibility: hidden;
+  pointer-events: none !important;
+}
+
+@keyframes gm-pulse {
+  0% { transform: scale(0.6); opacity: 0.9; }
+  100% { transform: scale(2.2); opacity: 0; }
+}
+@keyframes shimmer {
+  to { background-position: -200% 0; }
+}
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .gm-pulse,
+  .shimmer {
+    animation: none;
+  }
+  *,
+  *::before,
+  *::after {
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* Qidiruv: brauzerning standart "×" tugmasi o'rniga o'zimizniki */
+.search-input::-webkit-search-cancel-button,
+.search-input::-webkit-search-decoration {
+  -webkit-appearance: none;
+  appearance: none;
+}
+/* Fokus ramkasi butun "pill"ga beriladi (focus-within), input ichida to'rtburchak ramka chiqmasin */
+.search-input:focus,
+.search-input:focus-visible {
+  outline: none;
+}
+
+/* Globus ustida sichqoncha: ushlash (aylantirish mumkin), bosib turganda — ushlab olingan; nuqtalarda — qo'l */
+.globe-wrap,
+.globe-wrap canvas {
+  cursor: grab;
+}
+.globe-wrap:active,
+.globe-wrap:active canvas {
+  cursor: grabbing;
+}
+.globe-wrap .gm {
+  cursor: pointer;
+}
